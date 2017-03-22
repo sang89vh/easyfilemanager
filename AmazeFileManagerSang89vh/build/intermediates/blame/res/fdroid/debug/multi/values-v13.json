@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/incremental/mergeFdroidDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

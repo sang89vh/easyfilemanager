@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/jniLibs"/></dataSet><dataSet config="fdroid"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/fdroid/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build-types/debug/jniLibs"/></dataSet><dataSet config="fdroidDebug"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/fdroidDebug/jniLibs"/></dataSet></merger>

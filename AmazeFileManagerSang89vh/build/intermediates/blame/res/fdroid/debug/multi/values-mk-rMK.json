@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/incremental/mergeFdroidDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1332,
+                        "endColumn": 38,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 107,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 122,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 122,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 103,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 103,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 107,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 107,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 85,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 85,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endColumn": 104,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 104,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 118,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 118,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 82,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 82,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 81,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 81,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 86,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 86,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 105,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 105,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 106,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 106,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 100,
+                    "endOffset": 1410
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endColumn": 100,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1415,
+                    "endColumn": 106,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endColumn": 106,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 110,
+                    "endOffset": 1628
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 110,
+                        "endOffset": 1587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1633,
+                    "endColumn": 103,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 103,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1737,
+                    "endColumn": 97,
+                    "endOffset": 1830
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1696,
+                        "endColumn": 97,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1835,
+                    "endColumn": 37,
+                    "endOffset": 1868
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1099,
+                        "endColumn": 35,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1873,
+                    "endColumn": 44,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1413,
+                        "endColumn": 42,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endColumn": 38,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1135,
+                        "endColumn": 36,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 62,
+                    "endOffset": 2015
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 1668,
+                        "endColumn": 60,
+                        "endOffset": 1726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2020,
+                    "endColumn": 59,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 1729,
+                        "endColumn": 57,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 40,
+                    "endOffset": 2116
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1172,
+                        "endColumn": 38,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2121,
+                    "endColumn": 50,
+                    "endOffset": 2167
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1492,
+                        "endColumn": 48,
+                        "endOffset": 1538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2172,
+                    "endColumn": 37,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1456,
+                        "endColumn": 35,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 38,
+                    "endOffset": 2244
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1062,
+                        "endColumn": 36,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 83,
+                    "endOffset": 2328
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1794,
+                        "endColumn": 83,
+                        "endOffset": 1873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2333,
+                    "endColumn": 45,
+                    "endOffset": 2374
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1254,
+                        "endColumn": 43,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2379,
+                    "endColumn": 100,
+                    "endOffset": 2475
+                },
+                "from": {
+                    "file": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1878,
+                        "endColumn": 100,
+                        "endOffset": 1974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2480,
+                    "endColumn": 43,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-mk-rMK/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1371,
+                        "endColumn": 41,
+                        "endOffset": 1410
+                    }
+                }
+            }
+        ]
+    }
+]

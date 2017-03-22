@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    }
+]

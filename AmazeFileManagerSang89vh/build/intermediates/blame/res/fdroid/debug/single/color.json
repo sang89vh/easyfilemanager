@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/jack/.android/build-cache/56c5fa91c097d03daa7469d43cd02203ef486358/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_tint_default.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_search_url_text.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/jack/.android/build-cache/6626405acfe943f560fa23767faf1565621fb41c/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/jack/.android/build-cache/56c5fa91c097d03daa7469d43cd02203ef486358/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/design_error.xml",
+        "source": "/Users/jack/.android/build-cache/6626405acfe943f560fa23767faf1565621fb41c/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/jack/.android/build-cache/56c5fa91c097d03daa7469d43cd02203ef486358/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2014 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
+
+    This file is part of Easy File Manager.
+
+    Easy File Manager is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mybox.filemanagerpro"
+    android:versionCode="56"
+    android:versionName="3.2.2" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <application
+        android:name="com.mybox.filemanagerpro.utils.AppConfig"
+        android:icon="@mipmap/ic_launcher"
+        android:label="File Manager Explorer Pro" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.mybox.filemanagerpro.activities.MainActivity"
+            android:label="Wifi file transfer pro 2"
+            android:launchMode="singleInstance"
+            android:theme="@style/appCompatLight" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+
+                <data android:mimeType="*/*" />
+
+                <category android:name="android.intent.category.OPENABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.RINGTONE_PICKER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data android:mimeType="application/zip" />
+                <data android:mimeType="application/rar" />
+                <data android:mimeType="application/x-rar-compressed" /> <!-- <category android:name="android.intent.category.OPENABLE" /> -->
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybox.filemanagerpro.activities.Preferences"
+            android:label="@string/setting"
+            android:theme="@style/appCompatLight"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <action android:name="android.intent.action.APPLICATION_PREFERENCES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybox.filemanagerpro.activities.TextReader"
+            android:label="@string/textreader"
+            android:theme="@style/appCompatLight" >
+            <intent-filter android:label="Easy Text Editor" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybox.filemanagerpro.activities.DbViewer"
+            android:label="@string/databasereader"
+            android:screenOrientation="locked"
+            android:theme="@style/appCompatLight" >
+            <intent-filter android:label="Easy Database Reader" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="db/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybox.filemanagerpro.activities.AboutActivity"
+            android:label="About"
+            android:theme="@style/aboutLight" />
+
+        <service
+            android:name="com.mybox.filemanagerpro.services.ExtractService"
+            android:label="Extracting" >
+        </service>
+        <service
+            android:name="com.mybox.filemanagerpro.services.ZipTask"
+            android:label="Compressing" >
+        </service>
+        <service
+            android:name="com.mybox.filemanagerpro.services.CopyService"
+            android:label="Copying" >
+        </service>
+        <service
+            android:name="com.mybox.filemanagerpro.services.ftpservice.FTPService"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name="com.mybox.filemanagerpro.services.ftpservice.FTPTileService"
+            android:icon="@drawable/ic_ftp_dark"
+            android:label="@string/ftp"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.mybox.filemanagerpro.services.ftpservice.FTPReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.mybox.filemanagerpro.services.ftpservice.FTPReceiver.ACTION_START_FTPSERVER" />
+                <action android:name="com.mybox.filemanagerpro.services.ftpservice.FTPReceiver.ACTION_STOP_FTPSERVER" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.mybox.filemanagerpro.ui.notifications.FTPNotification"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.mybox.filemanagerpro.services.ftpservice.FTPReceiver.FTPSERVER_STARTED" />
+                <action android:name="com.mybox.filemanagerpro.services.ftpservice.FTPReceiver.FTPSERVER_STOPPED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- HTTP -->
+        <service
+            android:name="com.mybox.filemanagerpro.services.httpservice.HTTPService"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name="com.mybox.filemanagerpro.services.httpservice.HTTPTileService"
+            android:icon="@drawable/ic_http_dark"
+            android:label="@string/http"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.mybox.filemanagerpro.services.httpservice.HTTPReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.mybox.filemanagerpro.services.httpservice.HTTPReceiver.ACTION_START_HTTPSERVER" />
+                <action android:name="com.mybox.filemanagerpro.services.httpservice.HTTPReceiver.ACTION_STOP_HTTPSERVER" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.mybox.filemanagerpro.ui.notifications.HTTPNotification"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.mybox.filemanagerpro.services.httpservice.HTTPReceiver.HTTPSERVER_STARTED" />
+                <action android:name="com.mybox.filemanagerpro.services.httpservice.HTTPReceiver.HTTPSERVER_STOPPED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+
+</manifest>

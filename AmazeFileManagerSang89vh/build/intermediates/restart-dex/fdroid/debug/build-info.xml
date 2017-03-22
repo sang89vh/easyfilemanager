@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="78875465619612"
+    token="4641020314873293898"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="7128" />
+    <task
+        name="instant-run-dex"
+        duration="556" />
+    <task
+        name="instant-run-transform"
+        duration="164" />
+    <task
+        name="verifier"
+        duration="36" />
+
+    <artifact
+        location="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/reload-dex/fdroid/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="78777768262434"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/outputs/apk/AmazeFileManagerSang89vh-fdroid-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="78875465619612"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/reload-dex/fdroid/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

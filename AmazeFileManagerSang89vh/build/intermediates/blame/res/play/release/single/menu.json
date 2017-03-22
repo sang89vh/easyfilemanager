@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/text.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/text.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/apps_list.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/apps_list.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/ftp_server_menu.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/ftp_server_menu.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/http_server_menu.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/http_server_menu.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/item_extras.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/item_extras.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/activity_extra.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/activity_extra.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/empty.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/empty.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/contextual.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/contextual.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/menu/app_options.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/menu/app_options.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/jniLibs"/></dataSet><dataSet config="play"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/play/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build-types/release/jniLibs"/></dataSet><dataSet config="playRelease"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/playRelease/jniLibs"/></dataSet></merger>

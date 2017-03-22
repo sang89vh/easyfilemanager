@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "439415438954",
+    "project_id": "default-demo-app-3bf11"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439415438954:android:b0d6437c2978f81d",
+        "android_client_info": {
+          "package_name": "com.mybox.filemanagerpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9yxDmkKhEpgXhB6iFlfQhyrBIo0L_8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-76824505-3"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

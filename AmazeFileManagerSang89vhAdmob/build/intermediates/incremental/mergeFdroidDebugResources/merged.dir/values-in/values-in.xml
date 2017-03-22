@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Mengekstrak file</string>
+    <string name="Yellow">Kuning</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi ke beranda"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi naik"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Kueri penelusuran"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bagikan dengan %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="about">Tentang</string>
+    <string name="aboutFileManager">Tentang File Manager yang memukau</string>
+    <string name="accent_color_summary">Mengatur warna FAB dan elemen UI kecil yang lainnya</string>
+    <string name="accent_color_title">Warna Aksen</string>
+    <string msgid="5835639618285370804" name="accept">"Terima"</string>
+    <string name="accessed">Diakses</string>
+    <string name="add">Tambah</string>
+    <string name="addbook">Tambah Ke Bookmark</string>
+    <string name="addshortcut">Tambahkan jalan pintas</string>
+    <string name="addtobook">Tambahkan ke bookmark</string>
+    <string name="advanced_search">Pencarian Custom</string>
+    <string name="album">Album</string>
+    <string name="amber">Sawo matang</string>
+    <string name="anonymous">Tanpa Nama</string>
+    <string name="aperture_value">Nilai bukaan</string>
+    <string name="apks">Apks</string>
+    <string name="app_name">File Manager</string>
+    <string name="apps">Pengelola Aplikasi</string>
+    <string name="archive">Arsip</string>
+    <string name="archive_extract_folder">Folder arsip ekstrak</string>
+    <string name="archive_preferences">Preferensi arsip</string>
+    <string name="archive_summary">File arsip akan diekstrak ke folder ini. Nilai default adalah direktori dimana arsip berada</string>
+    <string name="archtext">Ini adalah arsip. Tindakan apa yang ingin Anda lakukan?</string>
+    <string name="artist">Artis</string>
+    <string name="ascending">Menaik</string>
+    <string name="atroot">Anda berada di root</string>
+    <string name="audio">Audio</string>
+    <string name="author">Penulis</string>
+    <string name="authors">Pencipta</string>
+    <string name="back">Kembali</string>
+    <string name="back_summary">Memungkinkan navigasi kustom kembali di atas daftar</string>
+    <string name="back_title">Navigasi kembali</string>
+    <string name="backup">Cadangkan</string>
+    <string name="basque_translation_title">Bahasa Basque</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="black">Hitam</string>
+    <string name="blue">Biru</string>
+    <string name="blue_grey">Biru Keabu-abuan</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmanag">Pengelola Bookmark</string>
+    <string name="bookmark_lost">Bookmark tidak ditemukan, membuat ulang…</string>
+    <string name="bookmarksadded">Bookmark ditambahkan</string>
+    <string name="books">Bookmark</string>
+    <string name="brazilian_portuguese_translation_title">Portugis Brasil</string>
+    <string name="brown">Cokelat</string>
+    <string name="calculating"> menghitung </string>
+    <string name="camera_brand">Merek kamera</string>
+    <string name="camera_model">Model kamera</string>
+    <string name="cancel">BATAL</string>
+    <string name="cancelled">Dibatalkan</string>
+    <string name="cant_read_file">Tidak dapat membaca file</string>
+    <string name="cantbeempty">%s tak boleh kosong</string>
+    <string name="cantlistfiles">Tidak bisa melihat daftar berkas tanpa akses root</string>
+    <string name="card">UI Kartu</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Iklan"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Mentransmisi ke %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Teks tertutup"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Teks tertutup tidak tersedia"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Putuskan sambungan"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Gambar ditampilkan saat penerima transmisi memutar iklan"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Iklan sedang berlangsung…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Sampul album"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Streaming Langsug"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Memuat..."</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Lewati"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Maju"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Maju sepuluh detik"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Maju tiga puluh detik"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Bisukan"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Tersambung ke <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Menyambung ke <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Putuskan sambungan"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Jeda"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Putar"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Putar Mundur"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Putar mundur sepuluh detik"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Putar mundur tiga puluh detik"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Kontrol pencari pemutaran"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Lewati ke item berikutnya"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Lewati ke item sebelumnya"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Berhenti"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Berhenti streaming langsung"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Audio"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Batal"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Teks Tertutup"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Lacak <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Trek Audio Tidak Tersedia"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Trek Teks Tidak Tersedia"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Tidak Ada"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Oke"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Subtitel"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Suarakan"</string>
+    <string name="changegallerypath">Ubah Path Galeri</string>
+    <string name="changelog">Perubahan</string>
+    <string name="channels">Saluran</string>
+    <string name="chinese_translation_title">Bahasa Tionghoa</string>
+    <string name="chooseUI">Pilih Item UI</string>
+    <string name="choose_color">Pilih warna</string>
+    <string name="circularicons">Gunakan ikon edaran</string>
+    <string name="circularimages">Gunakan ikon Edaran untuk gambar dan video</string>
+    <string name="clear">Bersihkan</string>
+    <string name="clipboard_path_copy">Jalan disalin ke clipboard</string>
+    <string name="close">Tutup</string>
+    <string name="codec">Codec</string>
+    <string name="color_summary">Atur warna untuk berbagai komponen UI</string>
+    <string name="color_title">Warna</string>
+    <string name="colorize">Warna Ikon</string>
+    <string name="colorize_summary">Setel warna ikon statis. Tidak mengganti preferensi warna ikon direktori.</string>
+    <string name="colourednavigation">Bilah Navigasi Berwarna</string>
+    <string name="colourednavigationsum">Entah bilah sistem navigasi diwarnai dengan lapisan atas</string>
+    <string name="comment">Komentar</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktifkan"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi jika layanan Google Play tidak diaktifkan."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktifkan layanan Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Pasang"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Dapatkan layanan Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Kesalahan layanan Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> mengalami masalah dengan layanan Google Play. Coba lagi."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Perbarui"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan jika layanan Google Play tidak diperbarui."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Perbarui layanan Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Buka di ponsel"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Masuk"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Masuk dengan Google"</string>
+    <string name="compress">Kompres</string>
+    <string name="compressing">Mengompresi</string>
+    <string name="compression_complete">Kompresi lengkap</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="connectionname">Nama Sambungan</string>
+    <string name="container">Kontainer</string>
+    <string name="contributors">Kontributor</string>
+    <string name="copied">disalin</string>
+    <string name="copy">Salin</string>
+    <string name="copy_complete">Penyalinan tuntas</string>
+    <string name="copy_error">Beberapa file tidak berhasil %s</string>
+    <string name="copy_path">Salin jalan</string>
+    <string name="copying">Menyalin</string>
+    <string name="copying_fles">Menyalin file</string>
+    <string name="copyingapk">Menyalin apk ke </string>
+    <string name="create">BUAT</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Izinkan Iklan membuat acara kalender?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Buat acara kalender"</string>
+    <string name="created">Dibuat</string>
+    <string name="creatingfile">Membuat File</string>
+    <string name="creatingfolder">Membuat Folder</string>
+    <string name="creator">Pembuat</string>
+    <string name="current_speed">Kecepatan saat ini</string>
+    <string name="cut">Memotong</string>
+    <string name="cyan">Sian</string>
+    <string name="dark">Material Gelap</string>
+    <string name="database">Basis Data</string>
+    <string name="databasereader">Basis data pembaca</string>
+    <string name="date">Tanggal</string>
+    <string name="date_modified">Tanggal dirubah</string>
+    <string name="date_taken">Tanggal diambil</string>
+    <string name="daytime">Siang hari</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Informasi Iklan"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Pratinjau Kreatif"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Pilih Mode Debug"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Pemecahan Masalah"</string>
+    <string msgid="6099173376375995052" name="decline">"Tolak"</string>
+    <string name="deep_orange">Oranye gelap</string>
+    <string name="deep_purple">Ungu gelap</string>
+    <string name="defualt">Bawaan</string>
+    <string name="delbook">Hapus Bookmark</string>
+    <string name="delete">Hapus</string>
+    <string name="deleting">Menghapus</string>
+    <string name="descending">Menurun</string>
+    <string name="detailedView">Tampilan detil</string>
+    <string name="details">Detail</string>
+    <string name="dimensions">Ukuran</string>
+    <string name="directories">Direktori</string>
+    <string name="directorysort">Mode Urutan Direktori</string>
+    <string name="document">Dokumen</string>
+    <string name="documents">Dokumen</string>
+    <string name="doforall">Lakukan untuk semua item</string>
+    <string name="doit">Lakukan</string>
+    <string name="domain">Domain</string>
+    <string name="donate">Donasi</string>
+    <string name="done">Selesai</string>
+    <string name="drawer_close">Tutup navigasi rinci</string>
+    <string name="drawer_open">Buka navigasi rinci</string>
+    <string name="duration">Durasi</string>
+    <string name="dutch_translation_title">Bahasa Belanda</string>
+    <string name="easter_egg_title">Mode Studio</string>
+    <string name="edit">Ubah</string>
+    <string name="efn">Masukan Nama Berkas</string>
+    <string name="enablerootmde">Aktifkan Mode Root</string>
+    <string name="enterfile">Masukan Nama Berkas</string>
+    <string name="entername">Masukan Nama</string>
+    <string name="enternewname">Masukkan nama baru</string>
+    <string name="enterpath">Masukkan Path</string>
+    <string name="enterzipname">Masukkan nama Zip</string>
+    <string name="error">Kesalahan</string>
+    <string name="error_busybox">BusyBox tidak ditemukan. Menutup shell interaktif.</string>
+    <string name="error_file_not_found">Error: File tidak ditemukan</string>
+    <string name="error_io">I/o Error</string>
+    <string name="error_root_not_permitted">Error: Ijin root tidak diberikan</string>
+    <string name="exit">Keluar</string>
+    <string name="exposure_time">Waktu Pencahayaan</string>
+    <string name="extract">Ekstrak</string>
+    <string name="extract_complete">Ekstraksi lengkap</string>
+    <string name="extracting">Mengekstrak</string>
+    <string name="extstorage">Penyimpanan Eksternal</string>
+    <string name="fab_skin">Lapisan FAB</string>
+    <string name="feedback">Kirim Umpan Balik</string>
+    <string name="file">Berkas</string>
+    <string name="file_empty">Berkas ini kosong</string>
+    <string name="filecreated">Berkas Dibuat</string>
+    <string name="fileexist">Berkas dengan nama yang sama sudah ada </string>
+    <string name="fileexplorer">File Explorer</string>
+    <string name="filenotexists">Berkas Tidak Ada</string>
+    <string name="files">Berkas</string>
+    <string name="filesOnTop">File di atas</string>
+    <string name="find">Temukan di halaman</string>
+    <string name="flash_fired">Lampu kilat aktif</string>
+    <string name="focal_length">Panjang Fokal</string>
+    <string name="folder">Folder</string>
+    <string name="foldercolor">Warna folder</string>
+    <string name="foldercreated">Folder dibuat</string>
+    <string name="folders">Folder</string>
+    <string name="foldersOnTop">Folder di atas</string>
+    <string name="format">Format</string>
+    <string name="frame_rate">Laju frame</string>
+    <string name="free">Ruang bebas:  </string>
+    <string name="french_translation_title">Bahasa Prancis</string>
+    <string name="ftp">Server FTP</string>
+    <string name="ftp_no_wifi">Pastikan Anda tersambung ke WiFi</string>
+    <string name="ftp_notif_starting">Server FTP dimulai</string>
+    <string name="ftp_notif_stop_server">Berhenti</string>
+    <string name="ftp_notif_text">di %s</string>
+    <string name="ftp_notif_title">Server FTP memukau berjalan</string>
+    <string name="ftp_port_change_error_invalid">Nomor port tidak valid dipilih</string>
+    <string name="ftp_port_change_success">Merubah Port FTP berhasil</string>
+    <string name="ftp_port_edit_menu_title">Pilih port FTP</string>
+    <string name="ftp_status_not_running">Tidak berjalan</string>
+    <string name="ftp_status_running">Berjalan</string>
+    <string name="fullChangelog">Mengubah catatan lengkap</string>
+    <string name="g_plus">Google Plus</string>
+    <string name="g_plus_community_summary">Ambil bagian dalam pengujian beta dan diskusi yang berkaitan dengan pengembangan</string>
+    <string name="g_plus_community_title">Bergabung dengan komunitas G+</string>
+    <string name="gallery">Galeri</string>
+    <string name="general">Umum</string>
+    <string name="generating">Menghasilkan..</string>
+    <string name="german_translation_title">Bahasa Jerman</string>
+    <string name="goback">Kembali</string>
+    <string name="gplus_pic_summary">Tampilkan G + penutup gambar di laci</string>
+    <string name="gplus_pic_title">Masuk dengan G +</string>
+    <string name="grant">Ijinkan</string>
+    <string name="grantfailed">Ijin Tidak diberikan</string>
+    <string name="grantgplus">Aplikasi ini membutuhkan izin untuk fitur ini. Membatalkan dialog ini akan menghapus centang fitur ini.</string>
+    <string name="grantper">Beri izin</string>
+    <string name="granttext">Aplikasi butuh ijin penyimpanan untuk melanjutkan. Membatalkan dialog ini akan keluar dari aplikasi.</string>
+    <string name="greek_translation_title">Bahasa Yunani</string>
+    <string name="green">Hijau</string>
+    <string name="gridcolumnno">Jumlah kolom di tampilan grid</string>
+    <string name="gridview">Gaya tampilan</string>
+    <string name="guide1">Selamat datang di File Manager yang Menajubkan</string>
+    <string name="guide2">Sentuh strip biru untuk menampilkan atau menyembunyikan PathBar</string>
+    <string name="guide3">Sentuh dan tahan berkas apapun opsi lebih lanjut</string>
+    <string name="guide4">Seperti menyalin, memindahkan, rincian dll</string>
+    <string name="guide5">Gunakan tombol Kembali perangkat anda untuk keluar dari aplikasi kapan saja…</string>
+    <string name="guide6">.. Dan gunakan tombol panah kiri untuk navigasi pada file manager</string>
+    <string name="height">Tinggi</string>
+    <string name="hidden">Tampilkan file dan folder yang tersembunyi</string>
+    <string name="hiddenfiles">File tersembunyi</string>
+    <string name="hide">Menyembunyikan</string>
+    <string name="hide_appbar">Bilah menyembunyikan semua Aplikasi</string>
+    <string name="hide_mode_app_bar">Bilah Aplikasi disembunyikan dalam gulungan</string>
+    <string name="hide_mode_nothing">Bilah Aplikasi tetap utuh</string>
+    <string name="hide_mode_title">Mode menyembunyikan</string>
+    <string name="hide_mode_toolbar">Toolbar disembunyikan dalam gulungan</string>
+    <string name="hide_toolbar">Menyembunyikan Toolbar</string>
+    <string name="history">History</string>
+    <string name="home">Beranda</string>
+    <string name="icon">ikon</string>
+    <string name="icon_color_summary">Set warna untuk ikon</string>
+    <string name="icon_color_title">Warna Ikon</string>
+    <string name="icon_credits">Grafik oleh &lt; a href = \"http://cookicons.co/\" > CookIcons &lt; /a ></string>
+    <string name="image">Gambar</string>
+    <string name="image_iso">Rating kecepatan ISO</string>
+    <string name="image_type">Tipe gambar</string>
+    <string name="imagegallery">Galeri Gambar</string>
+    <string name="images">Gambar</string>
+    <string name="in_safe">Cukup ruang</string>
+    <string name="indigo">Biru tua</string>
+    <string name="information">Informasi</string>
+    <string name="install">Pasang</string>
+    <string name="invalid">%s tidak valid</string>
+    <string name="invalid_dir">Direktori tidak valid</string>
+    <string name="invalid_name">Nama tidak valid</string>
+    <string name="ip">Alamat</string>
+    <string name="italian_translation_title">Bahasa Itali</string>
+    <string name="item">Item</string>
+    <string name="items">Item</string>
+    <string name="itemsselected">Item Dipilih</string>
+    <string name="japanese_translation_title">Bahasa Jepang</string>
+    <string name="keywords">Kata kunci</string>
+    <string name="korean_translation_title">Bahasa Korea</string>
+    <string name="lastModified">Modifikasi terakhir</string>
+    <string name="lastModifiedDesc">Modifikasi terakhir (deskripsi)</string>
+    <string name="lastModifiedPref">Tampilkan yang terakhir diubah</string>
+    <string name="lastModifiedSummary">Menunjukkan tanggal dan waktu ketika file diubah terakhir kali</string>
+    <string name="license">Lisensi Open Source</string>
+    <string name="light">Material Terang</string>
+    <string name="light_blue">Biru Muda</string>
+    <string name="light_green">Hijau Muda</string>
+    <string name="listview">Tampilan daftar</string>
+    <string name="loading">Memuat…</string>
+    <string name="location">Lokasi</string>
+    <string name="maintab">Tab utama tidak dapat dihapus</string>
+    <string name="match_content">Konten perbandingan</string>
+    <string name="match_content_summary">Jika ditetapkan, ekspresi reguler akan dicocokkan dengan seluruh nama file, akan terlihat untuk terjadi sebaliknya.</string>
+    <string name="md5">md5: </string>
+    <string name="md5_2">Menyalin md5</string>
+    <string name="md5copied">MD5 disalin ke clipboard</string>
+    <string name="medium_text">Teks Menengah</string>
+    <string name="miscellaneous">Lain-lain</string>
+    <string name="modified">Dimodifikasi</string>
+    <string name="mountsystem">Mount folder system sebagai dapat ditulisi</string>
+    <string name="mountsystemsummary">Aktifkan ini jika anda ingin mengedit file sistem</string>
+    <string name="move_complete">Pemindahan selesai</string>
+    <string name="moved">pindah</string>
+    <string name="moving">Memindahkan</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Tombol transmisi"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Mencari perangkat"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Transmisikan ke"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Sampul album"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Transmisi layar"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Tutup"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Ciutkan"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Putuskan sambungan"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Luaskan"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Tidak ada info yang tersedia"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Tidak ada media yang dipilih"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Jeda"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Putar"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Hentikan transmisi"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Perangkat"</string>
+    <string name="name">Nama</string>
+    <string name="needsaccess">Akses tulis yang dibutuhkan</string>
+    <string name="needsaccesssummary">Silakan pilih direktori root dari \t</string>
+    <string name="needsaccesssummary1">\t untuk memberi akses penulisan beroperasi </string>
+    <string name="new_string">Baru</string>
+    <string name="newfile">File baru</string>
+    <string name="newfolder">Folder Baru</string>
+    <string name="newhomedirectory">Direktori baru Laman Depan</string>
+    <string name="no">Tidak</string>
+    <string name="no_cover_photo">Tidak ada foto sampul</string>
+    <string name="no_file_overwrite">Tidak ada File yang ditimpa</string>
+    <string name="no_profile_pic">Tidak ada profil gambar G+</string>
+    <string name="noappfound">Tidak ada aplikasi untuk membuka file ini</string>
+    <string name="nodevicefound">Tidak ada perangkat yang ditemukan</string>
+    <string name="nofiles">Tidak ada file</string>
+    <string name="none">Tidak ada</string>
+    <string name="noneOnTop">Tidak ada satupun di atas</string>
+    <string name="not_allowed">Tidak diijinkan</string>
+    <string name="of">dari</string>
+    <string name="ok">Oke</string>
+    <string name="open">Buka</string>
+    <string name="openas">Buka sebagai</string>
+    <string name="opening">Membuka..</string>
+    <string name="openparent">Buka Induk Direktori</string>
+    <string name="openwith">Buka dengan</string>
+    <string name="operationunsuccesful">Operasi gagal</string>
+    <string name="optimized">Dioptimalkan</string>
+    <string name="orange">Oranye</string>
+    <string name="otg_access">Pilih root perangkat OTG</string>
+    <string name="other">Lainnya</string>
+    <string name="out_of">dari dalam</string>
+    <string name="overwrite">Timpa</string>
+    <string name="packageinstaller">Paket Installer</string>
+    <string name="pages">Jumlah halaman</string>
+    <string name="paper_size">Ukuran kertas</string>
+    <string name="password">Kata sandi</string>
+    <string name="paste">Tempel</string>
+    <string name="path">Jalur</string>
+    <string name="pathcopied">Jalan disalin ke clipboard</string>
+    <string name="paypal_copy_message">Id Paypal disalin ke clipboard</string>
+    <string name="permission">Ijin</string>
+    <string name="permission_execute">Eksekusi</string>
+    <string name="permission_group">Grup</string>
+    <string name="permission_other">Lainnya</string>
+    <string name="permission_owner">Pemilik</string>
+    <string name="permission_read">Baca</string>
+    <string name="permission_write">Tulis</string>
+    <string name="pick_a_file">Pilih berkas</string>
+    <string name="pink">Merah muda</string>
+    <string name="pitext">Ini adalah paket installer. Tindakan apa yang ingin Anda lakukan?</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Hapus penelusuran"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Telusuri"</string>
+    <string name="play">Play Store</string>
+    <string name="please_wait">Mohon tunggu</string>
+    <string name="polish_translation_title">Bahasa Polandia</string>
+    <string name="portuguese_translation_title">Bahasa Portugis</string>
+    <string name="pressagain">Tekan lagi untuk keluar</string>
+    <string name="primary_color_summary">Atur warna untuk elemen UI besar untuk tab kiri</string>
+    <string name="primary_color_title">Warna primer (tab kiri)</string>
+    <string name="primary_two_summary">Atur warna bagi elemen UI besar untuk tab kanan</string>
+    <string name="primary_two_title">Warna primer (kanan Tab)</string>
+    <string name="process_chart_description">Kemajuan</string>
+    <string name="process_viewer">Tampilan proses</string>
+    <string name="processes">Proses</string>
+    <string name="processing_file">Mengolah file</string>
+    <string name="producer">Produser</string>
+    <string name="properties">Rincian</string>
+    <string name="purple">Ungu</string>
+    <string name="questiondelete">Apakah anda yakin ingin menghapus berkas ini?</string>
+    <string name="questionset">Apakah anda ingin menetapkan jalur saat ini sebagai rumah untuk tab ini?</string>
+    <string name="quick">Akses cepat</string>
+    <string name="random">Kulit Acak</string>
+    <string name="randomDialog">Acak</string>
+    <string name="random_summary">Setel acak warna primer pada saat startup</string>
+    <string name="rate">Beri nilai aplikasi ini</string>
+    <string name="recent">Berkas Terbaru</string>
+    <string name="red">Merah</string>
+    <string name="refresh">Segarkan</string>
+    <string name="regular_expression">Ekspresi Reguler</string>
+    <string name="regular_expression_summary">Cari menggunakan gaya BASH ekspresi reguler</string>
+    <string name="rename">Ganti nama</string>
+    <string name="renamebookmark">Memodifikasi Bookmark</string>
+    <string name="renamed">Sukses mengganti nama</string>
+    <string name="renameerror">Gagal mengganti nama</string>
+    <string name="renaming">Mengubah nama</string>
+    <string name="report_bugs_summary">Laporkan bug atau minta fitur baru</string>
+    <string name="report_bugs_title">Laporkan bug</string>
+    <string name="romanian_translation_title">Bahasa Rumania</string>
+    <string name="rootPref">Tampilkan izin</string>
+    <string name="rootPrefSummary">Tampilkan izin file dan folder</string>
+    <string name="root_error">Gagal memulai akar kulit interaktif</string>
+    <string name="rootdirectory">Root</string>
+    <string name="rootfailure">Akses root tidak diberikan</string>
+    <string name="rootmode">Root Explorer</string>
+    <string name="rootmodesummary">Untuk perangkat yang mempunyai akses root saja. Periksa hanya jika anda yakin tentang hal itu.</string>
+    <string name="russian_translation_title">Bahasa Rusia</string>
+    <string name="sample_rate">Rating sampel</string>
+    <string name="save">Simpan</string>
+    <string name="savepaths">Ingat jalan</string>
+    <string name="savepathsummary">Saat memulai, folder yang baru-baru ini dilihat untuk setiap tab akan ditampilkan</string>
+    <string name="saving">Menyimpan</string>
+    <string name="sd_card_grant_first">kartu Sd mengijinkan pertama</string>
+    <string name="sd_card_grant_next">kartu sd mengijinkan selanjutnya</string>
+    <string name="search">Pencarian</string>
+    <string name="search_hint">Ketik untuk mencari…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Telusuri"</string>
+    <string name="searching">Mencari</string>
+    <string name="searchingdevices">Mencari perangkat</string>
+    <string name="searchpath">Path pencarian</string>
+    <string name="searchresults">Hasil Pencarian</string>
+    <string name="security">Pengamanan</string>
+    <string name="select">Pilih Item</string>
+    <string name="select_intent">Pilih</string>
+    <string name="selectall">Pilih semua</string>
+    <string name="serbian_translation_title">Orang Serbia</string>
+    <string name="service_timer">Waktu berlalu</string>
+    <string name="set">Atur</string>
+    <string name="setRandom">Perubahan akan terjadi setelah Anda me-restart aplikasi</string>
+    <string name="setgridview">Pengaturan daftar tampilan</string>
+    <string name="sethome">Atur Direktori beranda</string>
+    <string name="setlistview">Pengaturan daftar tampilan</string>
+    <string name="setringtone">Atur sebagai nada dering</string>
+    <string name="setting">Setelan</string>
+    <string name="share">Bagikan</string>
+    <string name="share_limit">Tidak dapat berbagi lebih dari 100 file</string>
+    <string name="showDividers">Tampilkan prmbagian</string>
+    <string name="simple">UI sederhana</string>
+    <string name="simpleView">Tampilan sederhana</string>
+    <string name="size">Ukuran Folder</string>
+    <string name="sizePref">Tampilkan ukuran</string>
+    <string name="sizePrefSummary">Tampilkan ukuran file dan jumlah item dalam folder</string>
+    <string name="skin">Kulit</string>
+    <string name="skip">Lewati</string>
+    <string name="smb_con">Koneksi SMB</string>
+    <string name="smb_instructions">
+<html> <body> <h1>Bagaimana cara mengakses folder windows berbagi di andrid(smb)</h1>\n\n <ul> <li> <b>Mengaktifkan File Sharing</b>\n </li> <p style="margin-left: 40px"> Buka control panel, klik opsi pilih homegroup dan opsi berbagi di bawah jaringan dan internet, dan klik mengubah setting berbagi kustom. Aktifkan fitur berbagi file dan printer\n\n </p> <li> <b>Setting file sharing tambahan</b>\n </li> <p style="margin-left: 40px"> Mungkin Anda juga ingin mengkonfigurasi setting berbagi kustom lainnya disini. \n sebagai contoh, Anda bisa mengaktifkan akses ke file Anda tanpa password jika Anda mempercayai semua perangkat pada jaringan lokal Anda. Saat berbagi file dan printer diaktifkan, Anda dapat membuka file explorer atau windows explorer, klik kanan folder yang ingin Anda bagikan, dan pikih properti. \n  Klik tombol berbagi dan buat folder tersedia di jaringan. \n\n </p> <li> <b>Pastikan kedua perangkat ada pada wifi yang sama </b>\n </li> <p style="margin-left: 40px"> 
+
+Fitur ini membuat file tersedia di jaringan lokal, sehingga PC dan perangkat selular Anda berada di jaringan lokal yang sama. Anda tidak bisa mengakses folder berbagi windows pada internet atau saat ponsel Anda tersambung pada koneksi data — harus tersambung pada wifi. \n\n </p> <li> <b>Menemukan alamat IP</b>\n </li> <p style="margin-left: 40px"> Buka perintah prompt.ketik \'ipconfig\' dan tekan enter. cari gateaway kustom di bawah adapter jaringan untuk router alamat IP Anda. Cari \"IPv4 Address\" di bawah bagian adaptor yang sama untuk menemukan alamat IP komputer Anda.\n\n </p> <b> masukkan detil di kotak dialog smb</b>\n </ul> </body> </html>    </string>
+    <string name="smb_launch_error">Anda akan perlu menyalin file ini ke penyimpanan untuk membukanya</string>
+    <string name="smb_server">Alamat server IP</string>
+    <string name="software">Perangkat Lunak</string>
+    <string name="sort">Urutkan</string>
+    <string name="sortName">Nama</string>
+    <string name="sortNameDesc">Nama (Deskripsi)</string>
+    <string name="sortSize">Ukuran</string>
+    <string name="sortSizeDesc">Ukuran (Deskripsi)</string>
+    <string name="sortby">Urutkan Berdasarkan</string>
+    <string name="spanish_translation_title">Bahasa Spanyol</string>
+    <string name="start_ftp">Mulai</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">Hentikan</string>
+    <string name="stopping">Menghentikan</string>
+    <string name="storage">Penyimpanan</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Izinkan Iklan menyimpan gambar di Galeri foto?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Simpan gambar"</string>
+    <string name="subject">Judul</string>
+    <string name="success">Sukses</string>
+    <string name="supersu">SuperSU</string>
+    <string name="support_development">Dukung Pengembangan</string>
+    <string name="tab">Tab</string>
+    <string name="tables">Meja</string>
+    <string name="tamil_translation_title">Bahasa Tamil (India)</string>
+    <string name="tap_and_hold_tips">Ketuk dan tahan pada File atau Folder untuk opsi lebih lanjut</string>
+    <string name="tapnhold">Ketuk dan tahan pada File atau Folder untuk opsi lebih lanjut</string>
+    <string name="teal">Hijau tua kebiruan</string>
+    <string name="text">Teks</string>
+    <string name="textreader">Pembaca teks</string>
+    <string name="theme">Tema</string>
+    <string name="thumb">Tampilkan gambar kecil</string>
+    <string name="thumbSummary">Tampilkan gambar kecil aplikasi dan gambar</string>
+    <string name="title">Judul</string>
+    <string name="topFab">FAB pada bilah Aplikasi</string>
+    <string name="topFabS">Entah + tombol di bagian atas atau bawah. Hanya berlaku jika bilah aplikasi tidak disembunyikan.</string>
+    <string name="total">Jumlah: </string>
+    <string name="totalitems">Total item</string>
+    <string name="translate_summary">Terjemahkan memukau dalam bahasa Anda</string>
+    <string name="translate_title">Menerjemahkan</string>
+    <string name="translators">Penerjemah</string>
+    <string name="turkish_translation_title">Bahasa Turki</string>
+    <string name="type">Tipe</string>
+    <string name="typeDesc">Jenis (Desc)</string>
+    <string name="ui">Antarmuka</string>
+    <string name="uimode">Mode UI</string>
+    <string name="ukrainian_translation_title">Bahasa Ukrania</string>
+    <string name="unin_system_apk">Ini adalah sistem aplikasi, menghapus mungkin menyebabkan sistem tidak stabil. Lanjutkan?</string>
+    <string name="uninstall">Copot pemasangan</string>
+    <string name="unsavedchanges">Perubahan belum disimpan</string>
+    <string name="unsavedchangesdesc">Ada perubahan yang belum disimpan, Apakah Anda ingin menyimpannya sebelum keluar?</string>
+    <string name="use_custom_ip">Menggunakan IP kustom</string>
+    <string name="used">Digunakan oleh orang lain:  </string>
+    <string name="usedefaultgallerypath">Gunakan Path Gambar Galeri Bawaan</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="version">Versi</string>
+    <string name="video">Video</string>
+    <string name="videos">Video</string>
+    <string name="vietnamese_translation_title">Bahasa Vietnam</string>
+    <string name="view">Tampilkan</string>
+    <string name="viewmode">Modus Tinjau</string>
+    <string name="waiting_content">Menunggu operasi untuk menyelesaikan</string>
+    <string name="waiting_title">Menunggu</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Beli dengan Google"</string>
+    <string name="wanthelp"><u>butuh bantuan?</u></string>
+    <string name="warning">Peringatan</string>
+    <string name="width">Lebar</string>
+    <string name="written">Ditulis</string>
+    <string name="xda_summary">Q &amp; A, bantuan &amp; penyelesaian masalah</string>
+    <string name="xda_title">Berkas XDA</string>
+    <string name="year">Tahun</string>
+    <string name="yes">Ya</string>
+    <string name="zip_create_folder">Folder membuat zip</string>
+    <string name="zip_summary">File zip baru akan dibuat dalam folder ini. Nilai default adalah direktori dimana file berada</string>
+    <string name="zip_viewer">Tampilan zip</string>
+</resources>

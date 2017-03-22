@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/incremental/mergePlayReleaseResources/merged.dir/values-ku/values-ku.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/values-ku/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1139,
+                        "endColumn": 44,
+                        "endOffset": 1181
+                    }
+                }
+            }
+        ]
+    }
+]

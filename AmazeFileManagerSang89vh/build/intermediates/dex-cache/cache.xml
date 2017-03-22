@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.google.android.gms-play-services-plus-10.2.0_2915dfe84c6e6bc0120e3210b84c104c47e78162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/AmazeFileManagerSang89vh.libs/StickyHeadersRecyclerView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="138e602644b19087af875024cde436b2fd539384">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/AmazeFileManagerSang89vh.libs-StickyHeadersRecyclerView-unspecified_4d3e13248bbc775e266b8c9103d687aed1791285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-recyclerview-v7-25.1.1_0204e2c4b5e6ee9b15fe8a72652e612536d32c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/systembartint-1.0.3_27159dc8697c9e532fce06540f63b1357b2cd3b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-v13/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e006c9b6f0aaed9d8c7934b74039738390fe3468">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-v13-25.1.0_8fe9ec91cfd78fa63788037807f0763a590f8923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/com.github.junrar/junrar/0.7/18cc717b85af0b12ba922abf415c2ff4716f8219/junrar-0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18cc717b85af0b12ba922abf415c2ff4716f8219">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/junrar-0.7_474ee4b8f7cd85c1b7d43a7f90044fa84d7d2fbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.maven.scm/maven-scm-provider-svnexe/1.4/b3213b40157b701ba079b738baac391e41418c18/maven-scm-provider-svnexe-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b3213b40157b701ba079b738baac391e41418c18">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/maven-scm-provider-svnexe-1.4_686f0119a84d3aa9ad47de1ecbd1ee6506424e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.ftpserver/ftpserver-core/1.1.0/cb106cd9036886454a0f42ab9d3ee0de9e1244ab/ftpserver-core-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb106cd9036886454a0f42ab9d3ee0de9e1244ab">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/ftpserver-core-1.1.0_d756724142a8be8fc19e28311da74095dd73af88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.ftpserver/ftplet-api/1.1.0/933e8bff109489b941f81656eb8d2110547a4d0f/ftplet-api-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="933e8bff109489b941f81656eb8d2110547a4d0f">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/ftplet-api-1.1.0_7c875e37204df76b674c4b2c82cce48af07b9325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/1.5.6/8fb6b798a4036048b3005e058553bf21a87802ed/plexus-utils-1.5.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8fb6b798a4036048b3005e058553bf21a87802ed">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/plexus-utils-1.5.6_4040819d83be14f00be05dc7d0dd6f6d1dae6ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/me.zhanghai.android.materialprogressbar-library-1.3.0_8e8f80b4f186ae44377d38564d784c4565aab7d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-core-utils-25.1.1_af7549c774d486ea2ea6475e2804d12754eefbad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.google.android.gms-play-services-tasks-10.2.0_9889001665906e540d174f016cef6923cc9406dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-fragment-25.1.1_fd59b6a7f1ca84431923b7d33d74ab53ba51a1ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.maven.scm/maven-scm-provider-svn-commons/1.4/54bc1dc24c5d205b4d251a83f4ea63808c21a628/maven-scm-provider-svn-commons-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="54bc1dc24c5d205b4d251a83f4ea63808c21a628">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/maven-scm-provider-svn-commons-1.4_999a533b066a1d9724e451a2f7fdc606c8e94b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/regexp/regexp/1.3/973df2b78b67bcd3144c3dbbb88da691065a3f8d/regexp-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="973df2b78b67bcd3144c3dbbb88da691065a3f8d">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/regexp-1.3_f837f8cdef351aec89992f1535f128436aa9f36c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-cardview-v7-25.1.1_5d3ce87fa45f5223cb90c7ccd9dc5253b199976e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2539d6591fd240270dc5ff8b67701ad63ae42379">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.afollestad.material-dialogs-core-0.9.2.3_02e88f3ef180bf3fb4e812f5cf4c45b78e33310c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-compat-25.1.1_52fb49c302ada652ef91e1eb23e0d77fa330dfc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/support-annotations-25.1.1_89197f7453b2afa9c4efb661324095a563723cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-transition-25.1.1_2e10881e7c9ba91afcd5b8b5a26068fa9e7c84fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/libs/jcifs-1.3.18.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29d62325100eac2bb3c25b44434acdc4d698c401">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/jcifs-1.3.18_450a67a9fe722237e8b2620826c09eb889b592ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.10/5eeb27c57eece1faf2d837868aeccc94d84dcc9a/commons-compress-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5eeb27c57eece1faf2d837868aeccc94d84dcc9a">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/commons-compress-1.10_add138b561ee577f527ee5b6a7d873e449e345e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.mina/mina-core/2.0.16/f720f17643eaa7b0fec07c1d7f6272972c02bba4/mina-core-2.0.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f720f17643eaa7b0fec07c1d7f6272972c02bba4">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/mina-core-2.0.16_c2464071804ab6dbc943fcec7111570665b7dfea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-vfs2/2.0/b5af3b9c96b060d77c68fa5ac9384b402dd58013/commons-vfs2-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b5af3b9c96b060d77c68fa5ac9384b402dd58013">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/commons-vfs2-2.0_d00cde7b69e8a98fe279703dd6313e47f849d957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-design-25.1.1_102f8a0a77958e5be110fa9d5558eadf7fce0b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca504182198db4a0f81779ca3fe391374c8cb66a">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.github.clans-fab-1.6.1_98c1c9456c90cb8db2e5916498a6b3e0c8c32b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging-api/1.1/7d4cf5231d46c8524f9b9ed75bb2d1c69ab93322/commons-logging-api-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d4cf5231d46c8524f9b9ed75bb2d1c69ab93322">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/commons-logging-api-1.1_6a44ac9df3c943c7da9a7483ce7741c0ca710ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-appcompat-v7-25.1.1_d43c4e7f949c523ecccf1a205a9a42f68a6f1aab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-palette-v7-25.1.1_dabb02394e36f877df3e3c4ce47ccd4185abb9a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.google.android.gms-play-services-basement-10.2.0_250b9988cd3a6ba5abd44fc200b7455867f51079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/369f9aa48a629b4e92557b37326f42dc3de796e4/MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/MPAndroidChart-v3.0.1_50a5f49cf42073419fcbb3e11da85b1cce9a72e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd-apache-fileupload/2.2.0/bd8398e9ca1e0d27ec6ad96412b3bbf9f55411ed/nanohttpd-apache-fileupload-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd8398e9ca1e0d27ec6ad96412b3bbf9f55411ed">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/nanohttpd-apache-fileupload-2.2.0_7d58520e43ae8354b618cce6f385f0dfa02e9d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.21/be4b3c560a37e69b6c58278116740db28832232c/slf4j-simple-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be4b3c560a37e69b6c58278116740db28832232c">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/slf4j-simple-1.7.21_147508189db2c29cc991e428181e6b7de1fec033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/slf4j-api-1.7.21_021788f4bf6d07429b11b382062c945a1e21e7fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-animated-vector-drawable-25.1.1_dfbe9a57d4c8b4baea64ae73a4cca412fc4e087c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-media-compat-25.1.1_e7f7d6dd8252c8efd8fa00750f399d95f4aadaa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.apache.maven.scm/maven-scm-api/1.4/e294693ce217bd6f470b728127854e6ca787fd29/maven-scm-api-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e294693ce217bd6f470b728127854e6ca787fd29">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/maven-scm-api-1.4_e037bddff1596dcc49e796db0d4a524af3394589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-v4-25.1.1_5ed98e5366ca166bdc69b368d08561546f89aec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/c621b54583719ac0310404463d6d99db27e1052c/commons-fileupload-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c621b54583719ac0310404463d6d99db27e1052c">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/commons-fileupload-1.3.1_b8ff24a17e78b6b4190cc96011894d32ade7a092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/nanohttpd-2.2.0_a9598fa855e36be7d920ccc30741f51c7f168af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.google.android.gms-play-services-base-10.2.0_d126191919c4c082543241901c55863cf123226b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a/commons-io-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/commons-io-2.2_5545b316bd1ba7367ad689932886f5e8307e1fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/eu.chainfire/libsuperuser/1.0.0.201608240809/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="054e8bd9935e1d1cdf411dad8eda6a950a21ee60">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/eu.chainfire-libsuperuser-1.0.0.201608240809_55877dbe861308405f7c0f3de9f6eca4dcaae6f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-core-ui-25.1.1_7e67b2e0231c59052857072d6f61ce543c9562b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.volley-volley-1.0.0_4caa2e4829c50fa1bc427677d1bf6793b44d37ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-vector-drawable-25.1.1_69c6c6ccfe60ba49dadf5e3f6f85b05dac2cc2d5.jar" />
+    </item>
+
+</items>

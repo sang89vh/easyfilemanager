@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Extraherar filer</string>
+    <string name="Yellow">Gul</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="about">Om</string>
+    <string name="accent_color_title">Accentfärg</string>
+    <string msgid="5835639618285370804" name="accept">"Godkänn"</string>
+    <string name="add">Lägg till</string>
+    <string name="addbook">Lägg till bokmärke</string>
+    <string name="addshortcut">Lägg till genväg</string>
+    <string name="addtobook">Lägg till bokmärke</string>
+    <string name="advanced_search">Avancerad sök</string>
+    <string name="album">Album</string>
+    <string name="apks">APK:er</string>
+    <string name="app_name">Förvåna</string>
+    <string name="apps">Apphanterare</string>
+    <string name="archive">Arkiv</string>
+    <string name="archive_preferences">Arkiv-alternativ</string>
+    <string name="archtext">Detta är ett arkiv. Vilken åtgärd vill du utföra?</string>
+    <string name="artist">Artist</string>
+    <string name="ascending">Stigande</string>
+    <string name="atroot">Du är vid roten</string>
+    <string name="audio">Audio</string>
+    <string name="author">Författare</string>
+    <string name="authors">Författare</string>
+    <string name="back">Tillbaka</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="black">Svart</string>
+    <string name="blue">Blå</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmanag">Bokmärkeshanterare</string>
+    <string name="bookmark_lost">Bokmärke hittades inte, återskapar…</string>
+    <string name="books">Bokmärken</string>
+    <string name="brazilian_portuguese_translation_title">Brasiliansk portugisiska</string>
+    <string name="brown">Brun</string>
+    <string name="calculating"> beräknar </string>
+    <string name="camera_brand">Kameramärke</string>
+    <string name="camera_model">Kameramodell</string>
+    <string name="cancel">AVBRYT</string>
+    <string name="cancelled">Avbruten</string>
+    <string name="cant_read_file">Kan inte läsa fil</string>
+    <string name="cantbeempty">%s kan inte vara tomt</string>
+    <string name="cantlistfiles">Kan inte lista filer utan root</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Annons"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Castar till %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Textning"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Textning är inte tillgänglig"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Koppla från"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Bild som visas medan en annons spelas upp på Cast-mottagaren"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Pågående annons …"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Skivomslag"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Livestream"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Läser in …"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Hoppa över"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Framåt"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Tio sekunder framåt"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Trettio sekunder framåt"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Stäng av ljudet"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Ansluten till <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Ansluter till <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Koppla från"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Pausa"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Spela upp"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Spola tillbaka"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Spola tillbaka tio sekunder"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Spola tillbaka trettio sekunder"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Sökreglage för uppspelning"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Hoppa till nästa objekt"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Hoppa till föregående objekt"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Stoppa"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Stoppa liveströmningen"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Ljud"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Avbryt"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Med textning"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Spår <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Det finns inga ljudspår"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Det finns inga textspår"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Inga"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Ok"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Undertexter"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Slå på ljudet"</string>
+    <string name="changegallerypath">Ändra gallerisökväg</string>
+    <string name="changelog">Ändringslog</string>
+    <string name="channels">Kanaler</string>
+    <string name="chinese_translation_title">Kinesiska</string>
+    <string name="choose_color">Välj färg</string>
+    <string name="circularicons">Använd cirkulära ikoner</string>
+    <string name="circularimages">Använd cirkulära ikoner för bilder och videor</string>
+    <string name="clear">Rensa</string>
+    <string name="clipboard_path_copy">Sökväg kopierad till urklipp</string>
+    <string name="close">Stäng</string>
+    <string name="codec">Codec</string>
+    <string name="color_title">Färg</string>
+    <string name="colorize">Färglägg ikoner</string>
+    <string name="colourednavigation">Färgat navigationsfält</string>
+    <string name="comment">Kommentar</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivera"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerar inte om du inte aktiverar Google Play-tjänster."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivera Google Play-tjänster"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installera"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras utan Google Play-tjänsterna, som saknas på enheten."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Hämta Google Play-tjänster"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fel på Google Play-tjänster"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Det har uppstått ett fel mellan <ns1:g id="APP_NAME">%1$s</ns1:g> och Google Play-tjänsterna. Försök igen."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerar inte utan Google Play-tjänsterna, som inte stöds på enheten."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Uppdatera"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras om du inte uppdaterar Google Play-tjänsterna."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Uppdatera Google Play-tjänster"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Öppna på mobilen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Logga in"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Logga in med Google"</string>
+    <string name="compress">Komprimera</string>
+    <string name="compressing">Komprimerar</string>
+    <string name="compression_complete">Komprimerat</string>
+    <string name="confirm">Bekräfta</string>
+    <string name="connectionname">Anslutningsnamn</string>
+    <string name="container">Container</string>
+    <string name="copied">kopierad</string>
+    <string name="copy">Kopiera</string>
+    <string name="copy_complete">Kopiering klar</string>
+    <string name="copy_path">Kopiera sökväg</string>
+    <string name="copying">Kopierar</string>
+    <string name="copying_fles">Kopierar filer</string>
+    <string name="copyingapk">Kopierar APK till </string>
+    <string name="create">SKAPA</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Tillåter du att annonsen skapar en kalenderhändelse?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Skapa kalenderhändelse"</string>
+    <string name="creatingfile">Skapar fil</string>
+    <string name="creatingfolder">Skapar mapp</string>
+    <string name="creator">Skapare</string>
+    <string name="cut">Klipp ut</string>
+    <string name="cyan">Cyan</string>
+    <string name="dark">Material Dark</string>
+    <string name="database">Databas</string>
+    <string name="databasereader">Databasläsare</string>
+    <string name="date">Datum</string>
+    <string name="daytime">Dagtid</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Annonsinformation"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Förhandsgranskning av annonsmaterial"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Välj ett felsökningsläge"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Felsökning"</string>
+    <string msgid="6099173376375995052" name="decline">"Godkänn inte"</string>
+    <string name="defualt">Standard</string>
+    <string name="delbook">Ta bort bokmärke</string>
+    <string name="delete">Ta bort</string>
+    <string name="deleting">Tar bort</string>
+    <string name="descending">Fallande</string>
+    <string name="detailedView">Detaljerad vy</string>
+    <string name="details">Information</string>
+    <string name="dimensions">Dimensioner</string>
+    <string name="directories">Kataloger</string>
+    <string name="document">Dokument</string>
+    <string name="documents">Dokument</string>
+    <string name="doforall">Gör för alla objekt</string>
+    <string name="doit">Gör det</string>
+    <string name="domain">Domän</string>
+    <string name="donate">Donera</string>
+    <string name="done">Färdig</string>
+    <string name="drawer_close">Stäng navigationspanel</string>
+    <string name="duration">Varaktighet</string>
+    <string name="dutch_translation_title">Holländska</string>
+    <string name="easter_egg_title">Studioläge</string>
+    <string name="edit">Redigera</string>
+    <string name="efn">Ange filnamn</string>
+    <string name="enablerootmde">Aktivera root-läge</string>
+    <string name="enterfile">Ange filnamn</string>
+    <string name="entername">Ange namn</string>
+    <string name="enternewname">Ange nytt namn</string>
+    <string name="enterpath">Ange sökväg</string>
+    <string name="error">Fel</string>
+    <string name="error_busybox">Busybox hittades inte. Stänger interaktivt shell.</string>
+    <string name="error_file_not_found">Fel: Fil hittades inte</string>
+    <string name="error_io">I/O-fel</string>
+    <string name="exit">Avsluta</string>
+    <string name="exposure_time">Exponeringstid</string>
+    <string name="extract">Extrahera</string>
+    <string name="extract_complete">Extraherat</string>
+    <string name="extracting">Extraherar</string>
+    <string name="extstorage">Extern lagring</string>
+    <string name="fab_skin">FAB-skinn</string>
+    <string name="feedback">Skicka feedback</string>
+    <string name="file">Fil</string>
+    <string name="file_empty">Fil är tom</string>
+    <string name="fileexist">Fil med samma namn finns redan </string>
+    <string name="filenotexists">Fil finns inte</string>
+    <string name="files">Filer</string>
+    <string name="filesOnTop">Filer överst</string>
+    <string name="find">Hitta på sida</string>
+    <string name="flash_fired">Blixt utlöst</string>
+    <string name="focal_length">Brännvidd</string>
+    <string name="folder">Mapp</string>
+    <string name="foldercolor">Mappfärg</string>
+    <string name="foldercreated">Mapp skapad</string>
+    <string name="folders">Mappar</string>
+    <string name="foldersOnTop">Mappar överst</string>
+    <string name="format">Format</string>
+    <string name="frame_rate">Bildfrekvens</string>
+    <string name="free">Ledigt utrymme:  </string>
+    <string name="french_translation_title">Franska</string>
+    <string name="ftp">FTP-server</string>
+    <string name="ftp_notif_starting">FTP-server startar</string>
+    <string name="ftp_notif_stop_server">STOPP</string>
+    <string name="ftp_notif_title">Easy FTP-server körs</string>
+    <string name="ftp_port_change_error_invalid">Ogiltigt portnummer valt</string>
+    <string name="ftp_port_change_success">FTP-port ändrad</string>
+    <string name="ftp_port_edit_menu_title">Välj FTP-port</string>
+    <string name="ftp_status_not_running">Körs ej</string>
+    <string name="ftp_status_running">Körs</string>
+    <string name="fullChangelog">Full ändringslogg</string>
+    <string name="g_plus">Google Plus</string>
+    <string name="g_plus_community_title">Gå med i G+ Community</string>
+    <string name="gallery">Galleri</string>
+    <string name="general">Allmänt</string>
+    <string name="generating">Genererar..</string>
+    <string name="german_translation_title">Tyska</string>
+    <string name="goback">Gå tillbaka</string>
+    <string name="gplus_pic_title">Logga in med G+</string>
+    <string name="grant">Tillåt</string>
+    <string name="grantfailed">Behörighet inte beviljad</string>
+    <string name="grantper">Bevilja behörighet</string>
+    <string name="greek_translation_title">Grekiska</string>
+    <string name="green">Grön</string>
+    <string name="gridcolumnno">Antal kolumner i rutnätsvyn</string>
+    <string name="gridview">Rutnätsvy</string>
+    <string name="guide1">Välkommen till Easy File Manager</string>
+    <string name="guide4">Som kopiera, flytta, egenskaper, etc</string>
+    <string name="height">Höjd</string>
+    <string name="hidden">Visa dolda filer och mappar</string>
+    <string name="hiddenfiles">Dolda filer</string>
+    <string name="hide">Dölj</string>
+    <string name="hide_mode_title">Dölj läge</string>
+    <string name="hide_toolbar">Dölj verktygsfält</string>
+    <string name="history">Historia</string>
+    <string name="home">Hem</string>
+    <string name="icon">ikon</string>
+    <string name="icon_color_title">Ikonfärg</string>
+    <string name="image">Bild</string>
+    <string name="image_type">Bildtyp</string>
+    <string name="imagegallery">Bildgalleri</string>
+    <string name="images">Bilder</string>
+    <string name="in_safe">Otillräckligt utrymme</string>
+    <string name="information">Information</string>
+    <string name="install">Installera</string>
+    <string name="invalid">Ogiltig %s</string>
+    <string name="invalid_dir">Ogiltig katalog</string>
+    <string name="invalid_name">Ogiltigt namn</string>
+    <string name="ip">Adress</string>
+    <string name="italian_translation_title">Italienska</string>
+    <string name="japanese_translation_title">Japanska</string>
+    <string name="keywords">Nyckelord</string>
+    <string name="korean_translation_title">Koreanska</string>
+    <string name="lastModified">Senast ändrad</string>
+    <string name="lastModifiedDesc">Senast ändrad (Fall)</string>
+    <string name="lastModifiedPref">Visa senast ändrade</string>
+    <string name="license">Open Source-licenser</string>
+    <string name="light">Material Light</string>
+    <string name="light_blue">Ljusblå</string>
+    <string name="light_green">Ljusgrön</string>
+    <string name="listview">Listvy</string>
+    <string name="loading">Laddar…</string>
+    <string name="location">Plats</string>
+    <string name="match_content">Matcha innehåll</string>
+    <string name="md5">md5: </string>
+    <string name="md5_2">Kopiera md5</string>
+    <string name="md5copied">MD5 kopierad till urklipp</string>
+    <string name="miscellaneous">Diverse</string>
+    <string name="modified">Modifierad</string>
+    <string name="mountsystem">Montera systemmappar som skrivbara</string>
+    <string name="move_complete">Flyttad</string>
+    <string name="moved">flyttad</string>
+    <string name="moving">Flyttar</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Cast-knappen"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Letar efter enheter"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Casta till"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Skivomslag"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Skärmen castas"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Stäng"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Komprimera"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Koppla från"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Utöka"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Det finns ingen information"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Inga media har valts"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Pausa"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Spela upp"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Sluta casta"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheter"</string>
+    <string name="name">Namn</string>
+    <string name="needsaccess">Skriv-åtkomst krävs</string>
+    <string name="needsaccesssummary">Välj rot-mappen för \t</string>
+    <string name="new_string">Ny</string>
+    <string name="newfile">Ny fil</string>
+    <string name="newfolder">Ny mapp</string>
+    <string name="newhomedirectory">Ny hem-mapp</string>
+    <string name="no">Nej</string>
+    <string name="no_cover_photo">Inget omslagsfoto</string>
+    <string name="no_file_overwrite">Ingen fil skrevs över</string>
+    <string name="no_profile_pic">Ingen G+-profilbild</string>
+    <string name="noappfound">Ingen app hittades för att öppna denna fil</string>
+    <string name="nodevicefound">Ingen enhet hittades</string>
+    <string name="nofiles">Inga filer</string>
+    <string name="none">Inga</string>
+    <string name="noneOnTop">Ingen ovanpå</string>
+    <string name="not_allowed">Inte tillåtet</string>
+    <string name="of">av</string>
+    <string name="ok">OK</string>
+    <string name="open">Öppna</string>
+    <string name="openas">Öppna som</string>
+    <string name="opening">Öppnar..</string>
+    <string name="openwith">Öppna med</string>
+    <string name="operationunsuccesful">Åtgärd misslyckades</string>
+    <string name="optimized">Optimerad</string>
+    <string name="orange">Orange</string>
+    <string name="otg_access">Välj roten utav OTG-enhet</string>
+    <string name="out_of">utav</string>
+    <string name="overwrite">Skriv över</string>
+    <string name="packageinstaller">Paketinstallerare</string>
+    <string name="pages">Antal sidor</string>
+    <string name="paper_size">Pappersstorlek</string>
+    <string name="password">Lösenord</string>
+    <string name="paste">Klistra in</string>
+    <string name="path">Sökväg</string>
+    <string name="pathcopied">Sökväg kopierad till urklipp</string>
+    <string name="paypal_copy_message">PayPal-UD kopierat till urklipp</string>
+    <string name="permission">Behörigheter</string>
+    <string name="permission_group">Grupp</string>
+    <string name="permission_owner">Ägare</string>
+    <string name="permission_read">Läs</string>
+    <string name="permission_write">Skriv</string>
+    <string name="pick_a_file">Välj en fil</string>
+    <string name="pink">Rosa</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Rensa sökning"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Söka"</string>
+    <string name="play">Play Store</string>
+    <string name="please_wait">Vänta</string>
+    <string name="polish_translation_title">Polska</string>
+    <string name="portuguese_translation_title">Portugisiska</string>
+    <string name="pressagain">Tryck igen för att avsluta</string>
+    <string name="primary_two_title">Primär färg (Höger flik)</string>
+    <string name="process_chart_description">Förlopp</string>
+    <string name="process_viewer">Process-visare</string>
+    <string name="processes">Processer</string>
+    <string name="processing_file">Bearbetar fil</string>
+    <string name="producer">Producent</string>
+    <string name="properties">Egenskaper</string>
+    <string name="questiondelete">Vill du verkligen ta bort följande filer?</string>
+    <string name="random">Slumpat skinn</string>
+    <string name="randomDialog">Slumpad</string>
+    <string name="random_summary">Ställer in slumpad primärfärg vid uppstart</string>
+    <string name="rate">Betygsätt appen</string>
+    <string name="recent">Senaste filer</string>
+    <string name="red">Röd</string>
+    <string name="refresh">Uppdatera</string>
+    <string name="regular_expression">Reguljära uttryck</string>
+    <string name="regular_expression_summary">Sök med hjälp av BASH-regex</string>
+    <string name="rename">Byt namn</string>
+    <string name="renamebookmark">Modifiera bokmärke</string>
+    <string name="renamed">Bytt namn</string>
+    <string name="renameerror">Kunde inte byta namn</string>
+    <string name="renaming">Byter namn</string>
+    <string name="report_bugs_summary">Rapportera buggar eller begär ny funktion</string>
+    <string name="report_bugs_title">Rapportera buggar</string>
+    <string name="romanian_translation_title">Rumänska</string>
+    <string name="rootPref">Visa behörigheter</string>
+    <string name="rootPrefSummary">Visa behörigheter för filer och mappar</string>
+    <string name="rootdirectory">Root</string>
+    <string name="rootfailure">Root-åtkomst inte beviljat</string>
+    <string name="rootmode">Root Explorer</string>
+    <string name="rootmodesummary">För rootade enheter endast. Kolla in det bara om du är säker på det.</string>
+    <string name="russian_translation_title">Ryska</string>
+    <string name="sample_rate">Samplingsfrekvens</string>
+    <string name="save">Spara</string>
+    <string name="savepaths">Kom ihåg sökvägar</string>
+    <string name="saving">Sparar</string>
+    <string name="sd_card_grant_first">sd_card_grant_first</string>
+    <string name="sd_card_grant_next">sd_card_grant_next</string>
+    <string name="search">Sök</string>
+    <string name="search_hint">Skriv för att söka…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="searching">Söker</string>
+    <string name="searchingdevices">Söker efter enheter</string>
+    <string name="searchresults">Sökresultat</string>
+    <string name="security">Säkerhet</string>
+    <string name="select">Välj objekt</string>
+    <string name="select_intent">Markera</string>
+    <string name="selectall">Markera alla</string>
+    <string name="serbian_translation_title">Serbiska</string>
+    <string name="service_timer">Förfluten tid</string>
+    <string name="setashome">Ange som hem</string>
+    <string name="setringtone">Ange som ringsignal</string>
+    <string name="setting">Inställningar</string>
+    <string name="share">Dela</string>
+    <string name="share_limit">Kan inte dela fler än 100 filer</string>
+    <string name="showDividers">Visa avdelare</string>
+    <string name="simpleView">Enkel vy</string>
+    <string name="size">Storlek på mapp</string>
+    <string name="sizePref">Visa storlekar</string>
+    <string name="skin">Skinn</string>
+    <string name="skip">Hoppa över</string>
+    <string name="smb_con">SMB-anslutning</string>
+    <string name="smb_launch_error">Du kommer behöva kopiera denna fil till lagring för att öppna den</string>
+    <string name="smb_server">Serverns IP-adress</string>
+    <string name="software">Mjukvara</string>
+    <string name="sort">Sortera</string>
+    <string name="sortName">Namn</string>
+    <string name="sortSize">Storlek</string>
+    <string name="sortby">Sortera på</string>
+    <string name="spanish_translation_title">Spanska</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop_ftp">Stopp</string>
+    <string name="stopping">Stoppar</string>
+    <string name="storage">Lagring</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Tillåter du att annonsen sparar bilden i Bildgalleriet?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Spara bild"</string>
+    <string name="subject">Ämne</string>
+    <string name="supersu">SuperSU</string>
+    <string name="support_development">Stöd utvecklingen</string>
+    <string name="tab">Flik</string>
+    <string name="text">Text</string>
+    <string name="textreader">Textläsare</string>
+    <string name="theme">Tema</string>
+    <string name="thumb">Visa miniatyrer</string>
+    <string name="thumbSummary">Visa miniatyrer av appar och bilder</string>
+    <string name="title">Titel</string>
+    <string name="total">Totalt: </string>
+    <string name="translate_summary">Översätt Easy till ditt språk</string>
+    <string name="translate_title">Översätt</string>
+    <string name="translators">Översättare</string>
+    <string name="turkish_translation_title">Turkiska</string>
+    <string name="type">Typ</string>
+    <string name="ui">Gränssnitt</string>
+    <string name="uimode">UI-läge</string>
+    <string name="ukrainian_translation_title">Ukrainsk</string>
+    <string name="unin_system_apk">Detta är en system-app, borttagning av den kan leda till systeminstabilitet.\nFortsätt?</string>
+    <string name="uninstall">Avinstallera</string>
+    <string name="unsavedchanges">Osparade ändringar</string>
+    <string name="use_custom_ip">Använd egen IP</string>
+    <string name="used">Används av andra:  </string>
+    <string name="usedefaultgallerypath">Använd förvald bildgalleri-sökväg</string>
+    <string name="username">Användarnamn</string>
+    <string name="version">Version</string>
+    <string name="video">Video</string>
+    <string name="videos">Videor</string>
+    <string name="vietnamese_translation_title">Vietnamesiska</string>
+    <string name="view">Visa</string>
+    <string name="viewmode">Visningsläge</string>
+    <string name="waiting_title">Väntar</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Köp med Google"</string>
+    <string name="warning">Varning</string>
+    <string name="width">Bredd</string>
+    <string name="xda_title">XDA-tråd</string>
+    <string name="year">År</string>
+    <string name="yes">Ja</string>
+</resources>

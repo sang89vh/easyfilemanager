@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Estrazione file in corso</string>
+    <string name="Yellow">Giallo</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="about">Info</string>
+    <string name="aboutFileManager">Informazioni su Easy File Manager</string>
+    <string name="accent_color_summary">Imposta il colore dei componenti più piccoli</string>
+    <string name="accent_color_title">Colore dettagli</string>
+    <string msgid="5835639618285370804" name="accept">"Accetto"</string>
+    <string name="accessed">Ultimo accesso</string>
+    <string name="add">Aggiungi</string>
+    <string name="addbook">Aggiungi segnalibro</string>
+    <string name="addshortcut">Aggiungi collegamento</string>
+    <string name="addtobook">Aggiungi a segnalibro</string>
+    <string name="advanced_search">Ricerca avanzata</string>
+    <string name="album">Album</string>
+    <string name="amber">Ambra</string>
+    <string name="anonymous">Anonimo</string>
+    <string name="aperture_value">Valore apertura</string>
+    <string name="apks">File APK</string>
+    <string name="apps">Gestione app</string>
+    <string name="archive">Archivio</string>
+    <string name="archive_extract_folder">Cartella estrazione archivio</string>
+    <string name="archive_preferences">Preferenze archivio</string>
+    <string name="archive_summary">Gli archivi verranno estratti in questa cartella. Il valore predefinito è la cartella in cui l\'archivio è presente.</string>
+    <string name="archtext">Questo è un archivio. Quale operazione vorresti effettuare?</string>
+    <string name="artist">Artista</string>
+    <string name="ascending">Crescente</string>
+    <string name="atroot">Sei alla root</string>
+    <string name="audio">Audio</string>
+    <string name="author">Autore</string>
+    <string name="authors">Autori</string>
+    <string name="back">Indietro</string>
+    <string name="back_summary">Abilita navigazione personalizzata in cima alle liste</string>
+    <string name="back_title">Naviga indietro</string>
+    <string name="backup">Backup</string>
+    <string name="basque_translation_title">Basco</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="black">Nero</string>
+    <string name="blue">Blu</string>
+    <string name="blue_grey">Blu grigio</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmanag">Gestione segnalibri</string>
+    <string name="bookmark_lost">Segnalibro non trovato, lo sto creando nuovamente…</string>
+    <string name="bookmarksadded">Segnalibri aggiunti</string>
+    <string name="books">Segnalibri</string>
+    <string name="brazilian_portuguese_translation_title">Portoghese brasiliano</string>
+    <string name="brown">Marrone</string>
+    <string name="calculating">calcolo in corso</string>
+    <string name="camera_brand">Marchio fotocamera</string>
+    <string name="camera_model">Modello fotocamera</string>
+    <string name="cancel">ANNULLA</string>
+    <string name="cancelled">Annullato</string>
+    <string name="cant_read_file">Impossibile leggere il file</string>
+    <string name="cantbeempty">%s non può essere vuoto</string>
+    <string name="cantlistfiles">Non è possibile elencare i file senza essere root</string>
+    <string name="card">Interfaccia utente a schede</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Annuncio"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Trasmissione a %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Sottotitoli"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Sottotitoli non disponibili"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Disconnetti"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Immagine mostrata mentre il ricevitore Cast riproduce un annuncio"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Annuncio in corso…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Copertina"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Live stream"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Caricamento…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Ignora"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Avanti"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Avanti di dieci secondi"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Avanti di trenta secondi"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Disattiva audio"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Connesso a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Connessione a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Disconnetti"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Pausa"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Riproduci"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Indietro"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Indietro di dieci secondi"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Indietro di 30 secondi"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Controllo riproduzione"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Vai all\'elemento successivo"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Vai all\'elemento precedente"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Interrompi"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Interrompi live stream"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Audio"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Annulla"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Sottotitoli"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Traccia <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Nessuna traccia audio disponibile"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Nessuna traccia di testo disponibile"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Nessuna"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Sottotitoli"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Riattiva audio"</string>
+    <string name="changegallerypath">Cambia percorso galleria</string>
+    <string name="changelog">Cronologia modifiche</string>
+    <string name="channels">Canal</string>
+    <string name="chinese_translation_title">Cinese</string>
+    <string name="chooseUI">Seleziona interfaccia utente elemento</string>
+    <string name="choose_color">Scegli colore</string>
+    <string name="circularicons">Usa icone circolari</string>
+    <string name="circularimages">Usa icone circolari per immagini e video</string>
+    <string name="clear">Pulisci</string>
+    <string name="clipboard_path_copy">Percorso copiato</string>
+    <string name="close">Chiudi</string>
+    <string name="codec">Codec</string>
+    <string name="color_summary">Imposta i colori dei vari componenti dell\'interfaccia utente</string>
+    <string name="color_title">Colori</string>
+    <string name="colorize">Colora icone</string>
+    <string name="colorize_summary">Imposta il colore delle icone statiche. Quest\'impostazione non prevale sulla preferenza relativa al colore delle icone delle cartelle.</string>
+    <string name="colourednavigation">Barra di navigazione colorata</string>
+    <string name="colourednavigationsum">Specifica se la barra di navigazione di sistema sarà colorata o meno insieme alla ski</string>
+    <string name="comment">Commento</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Attiva"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non attivi Google Play Services."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Attiva Google Play Services"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installa"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"L\'app <ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installa Google Play Services"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Errore Google Play Services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Riprova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non supportati dal tuo dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aggiorna"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non aggiorni Google Play Services."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aggiorna Google Play Services"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, attualmente in fase di aggiornamento."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L\'aggiornamento automatico verrà eseguito a breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Apri sul telefono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Accedi"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <string name="compress">Comprimi</string>
+    <string name="compressing">Compressione</string>
+    <string name="compression_complete">Compressione Completata</string>
+    <string name="confirm">Conferma</string>
+    <string name="connectionname">Nome connessione</string>
+    <string name="container">Containe</string>
+    <string name="contributors">Collaboratori</string>
+    <string name="copied">copiato</string>
+    <string name="copy">Copia</string>
+    <string name="copy_complete">Copia Completata</string>
+    <string name="copy_error">Alcuni file non sono stati correttamente %s</string>
+    <string name="copy_path">Copia percorso</string>
+    <string name="copying">Copia in corso</string>
+    <string name="copying_fles">Copia file in corso</string>
+    <string name="copyingapk">Copia APK in corso in</string>
+    <string name="create">CREA</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Consentire ad AdMob di creare un evento di calendario?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Crea evento di calendario"</string>
+    <string name="created">Creato</string>
+    <string name="creatingfile">Creazione file in corso</string>
+    <string name="creatingfolder">Creazione cartella in corso</string>
+    <string name="creator">Autore</string>
+    <string name="current_speed">Velocità Corrente</string>
+    <string name="cut">Taglia</string>
+    <string name="cyan">Ciano</string>
+    <string name="dark">Material (scuro)</string>
+    <string name="database">Database</string>
+    <string name="databasereader">Visualizzatore database</string>
+    <string name="date">Data</string>
+    <string name="date_modified">Ultima modifica</string>
+    <string name="date_taken">Data scatto</string>
+    <string name="daytime">Luce del giorno</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Informazioni sull\'annuncio"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Anteprima creatività"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Seleziona una modalità di debug"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Risoluzione dei problemi"</string>
+    <string msgid="6099173376375995052" name="decline">"Rifiuto"</string>
+    <string name="deep_orange">Arancione scuro</string>
+    <string name="deep_purple">Viola scuro</string>
+    <string name="defualt">Predefinito</string>
+    <string name="delbook">Elimina Preferito</string>
+    <string name="delete">Elimina</string>
+    <string name="deleting">Eliminazione</string>
+    <string name="descending">Decrescente</string>
+    <string name="detailedView">Vista dettagliata</string>
+    <string name="details">Dettagli</string>
+    <string name="dimensions">Dimension</string>
+    <string name="directories">Cartelle</string>
+    <string name="directorysort">Modalità ordinamento cartelle</string>
+    <string name="document">Documento</string>
+    <string name="documents">Documenti</string>
+    <string name="doforall">Per tutti gli elementi</string>
+    <string name="doit">Fallo</string>
+    <string name="domain">Dominio</string>
+    <string name="donate">Fai una donazione</string>
+    <string name="done">Fatto</string>
+    <string name="drawer_close">Chiudi pannello di navigazione</string>
+    <string name="drawer_open">Apri pannello di navigazione</string>
+    <string name="duration">Durata</string>
+    <string name="dutch_translation_title">Olandese</string>
+    <string name="easter_egg_title">Modalità studio</string>
+    <string name="edit">Modifica</string>
+    <string name="efn">Inserisci nome file</string>
+    <string name="enablerootmde">Abilità modalità root</string>
+    <string name="enterfile">Nome file</string>
+    <string name="entername">Inserisci nome</string>
+    <string name="enternewname">Inserisci nuovo nome</string>
+    <string name="enterpath">Inserisci percorso</string>
+    <string name="enterzipname">Inserisci nome file ZIP</string>
+    <string name="error">Errore</string>
+    <string name="error_busybox">Busybox non trovato. Chiusura shell interattiva.</string>
+    <string name="error_file_not_found">Errore: File Non Trovato</string>
+    <string name="error_io">Errore I/O</string>
+    <string name="error_root_not_permitted">Errore: Permessi di root non concessi</string>
+    <string name="exit">Esci</string>
+    <string name="exposure_time">Tempo di esposizione</string>
+    <string name="extract">Estrai</string>
+    <string name="extract_complete">Estrazione completata</string>
+    <string name="extracting">Estrazione</string>
+    <string name="extstorage">Archiviazione esterna</string>
+    <string name="fab_skin">Aspetto bottone</string>
+    <string name="feedback">Invia feedback</string>
+    <string name="file">File</string>
+    <string name="file_empty">Il file è vuoto</string>
+    <string name="filecreated">File creato</string>
+    <string name="fileexist">Un file con quel nome esiste già</string>
+    <string name="fileexplorer">Sfoglia file</string>
+    <string name="filenotexists">Il file non esiste</string>
+    <string name="files">File</string>
+    <string name="filesOnTop">Prima i file</string>
+    <string name="find">Trova nella pagina</string>
+    <string name="flash_fired">Flash utilizzato</string>
+    <string name="focal_length">Lunghezza focale</string>
+    <string name="folder">Cartella</string>
+    <string name="foldercolor">Colore cartella</string>
+    <string name="foldercreated">Cartella creata</string>
+    <string name="folders">Cartelle</string>
+    <string name="foldersOnTop">Prima le cartelle</string>
+    <string name="format">Formato</string>
+    <string name="frame_rate">Framerate</string>
+    <string name="free">Spazio libero:</string>
+    <string name="french_translation_title">Francese</string>
+    <string name="ftp">Server FTP</string>
+    <string name="ftp_no_wifi">Assicurati di essere connesso al WiFi</string>
+    <string name="ftp_notif_starting">Server FTP in fase di avvio</string>
+    <string name="ftp_notif_stop_server">FERMA</string>
+    <string name="ftp_notif_text">a %s</string>
+    <string name="ftp_notif_title">Server FTP Easy in esecuzione</string>
+    <string name="ftp_port_change_error_invalid">È stato selezionato un numero di porta non valido</string>
+    <string name="ftp_port_change_success">Porta FTP modificata con successo</string>
+    <string name="ftp_port_edit_menu_title">Scegli la porta FTP</string>
+    <string name="ftp_status_not_running">Non in esecuzione</string>
+    <string name="ftp_status_running">In esecuzione</string>
+    <string name="fullChangelog">Cronologia modifiche completa</string>
+    <string name="g_plus">Google Plus</string>
+    <string name="g_plus_community_summary">Prendi parte al beta testing e alle discussioni
+relative allo sviluppo</string>
+    <string name="g_plus_community_title">Unisciti alla community G+</string>
+    <string name="gallery">Galleria</string>
+    <string name="general">Generale</string>
+    <string name="generating">Generazione in corso...</string>
+    <string name="german_translation_title">Tedesco</string>
+    <string name="goback">Indietro</string>
+    <string name="gplus_pic_summary">Mostra immagine di copertina G+ nel pannello di navigazione</string>
+    <string name="gplus_pic_title">Accedi con Google+</string>
+    <string name="grant">Concedi</string>
+    <string name="grantfailed">Autorizzazione non concessa</string>
+    <string name="grantgplus">L\'app richiede l\'autorizzazione per poter utilizzare questa funzionalità. L\'annullamento di questa finestra di dialogo deselezionerà questa funzionalità.</string>
+    <string name="grantper">Concedi autorizzazione</string>
+    <string name="granttext">L\'app richiede l\'autorizzazione di accedere all\'archiviazione per poter continuare. L\'annullamento di questa finestra di dialogo causerà l\'uscita dall\'app.</string>
+    <string name="greek_translation_title">Greco</string>
+    <string name="green">Verde</string>
+    <string name="gridcolumnno">Numero di colonne nella vista griglia</string>
+    <string name="gridview">Visualizzazione griglia</string>
+    <string name="guide1">Benvenuto in Easy File Manager</string>
+    <string name="guide2">
+Tocca la striscia blu per mostrare o nascondere la barra del percorso
+</string>
+    <string name="guide3">
+Tocca e tieni premuto qualsiasi file per ulteriori opzioni
+</string>
+    <string name="guide4">Come copia, spostamento, proprietà, eccetera</string>
+    <string name="guide5">Utilizza il pulsante Indietro del tuo dispositivo per uscire dall\'app in qualunque momento…</string>
+    <string name="guide6">
+...e la freccia sinistra per la navigazione nel file manager
+</string>
+    <string name="height">Altezza</string>
+    <string name="hidden">Mostra file e cartelle nascosti</string>
+    <string name="hiddenfiles">File nascosti</string>
+    <string name="hide">Nascondi</string>
+    <string name="hide_appbar">Nascondi l\'intera barra dell\'app</string>
+    <string name="hide_mode_app_bar">La barra dell\'app viene nascosta durante lo scorrimento</string>
+    <string name="hide_mode_nothing">La barra dell\'app rimane intatta</string>
+    <string name="hide_mode_title">Modalità Nascondi</string>
+    <string name="hide_mode_toolbar">La barra degli strumenti viene nascosta durante lo scorrimento</string>
+    <string name="hide_toolbar">Nascondi barra degli strumenti</string>
+    <string name="history">Cronologia</string>
+    <string name="home">Casa</string>
+    <string name="icon">icona</string>
+    <string name="icon_color_summary">Imposta il colore delle icone</string>
+    <string name="icon_color_title">Colore icone</string>
+    <string name="icon_credits">Grafica di &lt;a href=\"http://cookicons.co/\">CookIcons&lt;/a></string>
+    <string name="image">Immagine</string>
+    <string name="image_iso">Classificazione velocità ISO</string>
+    <string name="image_type">Tipo immagine</string>
+    <string name="imagegallery">Galleria immagini</string>
+    <string name="images">Immagini</string>
+    <string name="in_safe">Spazio insufficiente</string>
+    <string name="indigo">Indaco</string>
+    <string name="information">Informazioni</string>
+    <string name="install">Installa</string>
+    <string name="invalid">%s non valido</string>
+    <string name="invalid_dir">Cartella non valida</string>
+    <string name="invalid_name">Nome non valido</string>
+    <string name="ip">Indirizzo</string>
+    <string name="italian_translation_title">Italiano</string>
+    <string name="item">Elemento</string>
+    <string name="items">Elementi</string>
+    <string name="itemsselected">Elementi selezionati</string>
+    <string name="japanese_translation_title">Giapponese</string>
+    <string name="keywords">Parole chiave</string>
+    <string name="korean_translation_title">Coreano</string>
+    <string name="lastModified">Ultima modifica</string>
+    <string name="lastModifiedDesc">Ultima modifica (decrescente)</string>
+    <string name="lastModifiedPref">Mostra ultima modifica</string>
+    <string name="lastModifiedSummary">Mostra la data e l\'ora relative all\'ultima modifica del file</string>
+    <string name="license">Licenze open source</string>
+    <string name="light">Material (chiaro)</string>
+    <string name="light_blue">Azzurro</string>
+    <string name="light_green">Verde chiaro</string>
+    <string name="listview">Visualizzazione lista</string>
+    <string name="loading">Caricamento in corso…</string>
+    <string name="location">Percorso</string>
+    <string name="maintab">La scheda principale non può essere rimossa</string>
+    <string name="match_content">Corrispondenza esatta</string>
+    <string name="match_content_summary">Se impostato, il match dell\'espressione regolare sarà eseguito sull\'intero nome file,
+altrimenti verrà controllata solo l\'occorrenza.</string>
+    <string name="md5">md5:</string>
+    <string name="md5_2">Copia md5</string>
+    <string name="md5copied">MD5 copiato negli Appunti</string>
+    <string name="medium_text">Testo Medio</string>
+    <string name="miscellaneous">Varie</string>
+    <string name="modified">Ultima modifica</string>
+    <string name="mountsystem">Monta le cartelle di sistema come scrivibili</string>
+    <string name="mountsystemsummary">Abilita se vuoi modificare i file di sistema</string>
+    <string name="move_complete">Spostamento Completato</string>
+    <string name="moved">spostato</string>
+    <string name="moving">Spostamento in corso</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Pulsante Trasmetti"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Ricerca di dispositivi in corso"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Trasmetti a"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Copertina"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Trasmissione dello schermo in corso"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Chiudi"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Comprimi"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Scollega"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Espandi"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Nessuna informazione disponibile"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Nessun contenuto multimediale selezionato"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Pausa"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Riproduci"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Interrompi trasmissione"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivi"</string>
+    <string name="name">Nome</string>
+    <string name="needsaccess">Permessi di scrittura richiesti</string>
+    <string name="needsaccesssummary">Seleziona la cartella root di \t</string>
+    <string name="needsaccesssummary1">\tper permettere la scrittura</string>
+    <string name="new_string">Nuova</string>
+    <string name="newfile">Nuovo file</string>
+    <string name="newfolder">Nuova cartella</string>
+    <string name="newhomedirectory">Nuova home directory</string>
+    <string name="no">No</string>
+    <string name="no_cover_photo">Nessuna immagine di copertina</string>
+    <string name="no_file_overwrite">Nessuna sovrascrittura</string>
+    <string name="no_profile_pic">Nessuna immagine profilo G+</string>
+    <string name="noappfound">Nessuna app trovata per aprire questo file</string>
+    <string name="nodevicefound">Nessun dispositivo trovato</string>
+    <string name="nofiles">Nessun file</string>
+    <string name="none">Nulla</string>
+    <string name="noneOnTop">Non mettere nulla per primo</string>
+    <string name="not_allowed">Non permesso</string>
+    <string name="of">di</string>
+    <string name="ok">OK</string>
+    <string name="open">Apri</string>
+    <string name="openas">Apri come</string>
+    <string name="opening">Apertura in corso..</string>
+    <string name="openparent">Apri cartella superiore</string>
+    <string name="openwith">Apri con</string>
+    <string name="operationunsuccesful">Operazione non riuscita</string>
+    <string name="optimized">Ottimizzato</string>
+    <string name="orange">Arancione</string>
+    <string name="otg_access">Seleziona la radice del dispositivo OTG</string>
+    <string name="other">Altro</string>
+    <string name="overwrite">Sovrascrivi</string>
+    <string name="packageinstaller">Installatore pacchetti</string>
+    <string name="pages">Numero pagine</string>
+    <string name="paper_size">Dimensioni carta</string>
+    <string name="password">Password</string>
+    <string name="paste">Incolla</string>
+    <string name="path">Percorso</string>
+    <string name="pathcopied">Percorso copiato</string>
+    <string name="paypal_copy_message">ID PayPal copiato negli Appunti</string>
+    <string name="permission">Permessi</string>
+    <string name="permission_execute">Esecuzione</string>
+    <string name="permission_group">Gruppo</string>
+    <string name="permission_other">Altro</string>
+    <string name="permission_owner">Proprietario</string>
+    <string name="permission_read">Letto</string>
+    <string name="permission_write">Scrittura</string>
+    <string name="pick_a_file">Seleziona un file</string>
+    <string name="pink">Rosa</string>
+    <string name="pitext">Questo è un package installer. Quale operazione vorresti effettuare?</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Cancella ricerca"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Cerca"</string>
+    <string name="play">Play Store</string>
+    <string name="polish_translation_title">Polacco</string>
+    <string name="portuguese_translation_title">Portoghese</string>
+    <string name="pressagain">Premi di nuovo per uscire</string>
+    <string name="primary_color_summary">Imposta il colore degli elementi grandi dell\'interfaccia utente per la scheda di sinistra</string>
+    <string name="primary_color_title">Colore primario (scheda di sinistra)</string>
+    <string name="primary_two_summary">Imposta il colore degli elementi grandi dell\'interfaccia utente per la scheda di destra</string>
+    <string name="primary_two_title">Colore primario (scheda di destra)</string>
+    <string name="process_chart_description">Stato</string>
+    <string name="process_viewer">Visualizza processi</string>
+    <string name="processes">Processi</string>
+    <string name="processing_file">Elaborazione file</string>
+    <string name="producer">Produttore</string>
+    <string name="properties">Proprietà</string>
+    <string name="purple">Viola</string>
+    <string name="questiondelete">Vuoi davvero eliminare i seguenti file?</string>
+    <string name="questionset">Vuoi impostare il percorso corrente come home per questa scheda?</string>
+    <string name="quick">Accesso rapido</string>
+    <string name="random">Skin casuale</string>
+    <string name="randomDialog">Casuale</string>
+    <string name="random_summary">Imposta colore primario casuale all\'avvio</string>
+    <string name="rate">Vota l\'app</string>
+    <string name="recent">File recenti</string>
+    <string name="red">Rosso</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="regular_expression">Espressione regolare</string>
+    <string name="regular_expression_summary">Esegui una ricerca utilizzando un\'espressione regolare in stile Bash</string>
+    <string name="rename">Rinomina</string>
+    <string name="renamebookmark">Modifica segnalibro</string>
+    <string name="renamed">Ridenominazione riuscita</string>
+    <string name="renameerror">Ridenominazione non riuscita</string>
+    <string name="renaming">Ridenominazione in corso</string>
+    <string name="report_bugs_summary">Segnala bug o richiedi nuove funzionalità</string>
+    <string name="report_bugs_title">Segnala bug</string>
+    <string name="romanian_translation_title">Rumeno</string>
+    <string name="rootPref">Mostra permessi</string>
+    <string name="rootPrefSummary">Mostra permessi di file e cartelle</string>
+    <string name="root_error">Errore nell\'avvio di una shell root interattiva</string>
+    <string name="rootdirectory">Root</string>
+    <string name="rootfailure">Accesso root non abilitato</string>
+    <string name="rootmode">Sfoglia root</string>
+    <string name="rootmodesummary">Solo per dispositivi con root. Abilita quest\'opzione solo se sai quello che stai facendo.</string>
+    <string name="russian_translation_title">Russo</string>
+    <string name="sample_rate">Frequenza di campionamento</string>
+    <string name="save">Salva</string>
+    <string name="savepaths">Ricorda percorsi</string>
+    <string name="savepathsummary">All\'avvio sarà mostrata la cartella vista più di recente per ogni scheda</string>
+    <string name="saving">Salvataggio in corso</string>
+    <string name="search">Cerca</string>
+    <string name="search_hint">Digita per cercare…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ricerca"</string>
+    <string name="searching">Ricerca</string>
+    <string name="searchingdevices">Ricerca dispositivi in corso</string>
+    <string name="searchpath">Cerca percorso</string>
+    <string name="searchresults">Risultati ricerca</string>
+    <string name="security">Sicurezza</string>
+    <string name="select">Seleziona elemento</string>
+    <string name="select_intent">Seleziona</string>
+    <string name="selectall">Seleziona tutto</string>
+    <string name="serbian_translation_title">Serbo</string>
+    <string name="service_timer">Tempo Trascorso</string>
+    <string name="set">Imposta</string>
+    <string name="setRandom">
+I cambiamenti saranno effettivi dopo il riavvio dell\'app
+</string>
+    <string name="setashome">Imposta come home</string>
+    <string name="setgridview">Impostazioni griglia</string>
+    <string name="sethome">Imposta cartella principale</string>
+    <string name="setlistview">Impostazioni lista</string>
+    <string name="setringtone">Imposta come suoneria</string>
+    <string name="setting">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="share_limit">Impossibile condividere più di 100 file</string>
+    <string name="showDividers">Mostra divisori</string>
+    <string name="simple">Interfaccia utente di base</string>
+    <string name="simpleView">Vista semplice</string>
+    <string name="size">Dimensioni cartella</string>
+    <string name="sizePref">Mostra dimensioni</string>
+    <string name="sizePrefSummary">Mostra dimensioni dei file e numero di elementi nelle cartelle</string>
+    <string name="skin">Aspetto</string>
+    <string name="skip">Salta</string>
+    <string name="smb_con">Connessione SMB</string>
+    <string name="smb_launch_error">Sarà necessario copiare questo file nella memoria per aprirlo</string>
+    <string name="smb_server">Indirizzo IP server</string>
+    <string name="software">Software</string>
+    <string name="sort">Ordina</string>
+    <string name="sortName">Nome</string>
+    <string name="sortNameDesc">Nome (decrescente)</string>
+    <string name="sortSize">Dimensioni</string>
+    <string name="sortSizeDesc">Dimensioni (decrescente)</string>
+    <string name="sortby">Ordina per</string>
+    <string name="spanish_translation_title">Spagnolo</string>
+    <string name="start_ftp">Avvia</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">Ferma</string>
+    <string name="stopping">Interruzione</string>
+    <string name="storage">Archiviazione</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Consentire a AdMob di memorizzare l\'immagine nella galleria Immagini?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Salva immagine"</string>
+    <string name="subject">Oggetto</string>
+    <string name="success">Completato con successo</string>
+    <string name="supersu">SuperSU</string>
+    <string name="support_development">Sostieni lo sviluppo</string>
+    <string name="tab">Scheda</string>
+    <string name="tables">Tabella/e</string>
+    <string name="tap_and_hold_tips">
+Tieni premuto un file od una cartella per altre opzioni
+</string>
+    <string name="tapnhold">
+Tieni premuto un file od una cartella per altre opzioni
+</string>
+    <string name="teal">Celeste</string>
+    <string name="text">Testo</string>
+    <string name="textreader">Visualizzatore testo</string>
+    <string name="theme">Tema</string>
+    <string name="thumb">Mostra anteprime</string>
+    <string name="thumbSummary">Mostra anteprime di app ed immagini</string>
+    <string name="title">Titol</string>
+    <string name="topFab">Bottone sulla barra dell\'app</string>
+    <string name="topFabS">Specifica se il pulsante + dev\'essere collocato in alto o in basso. Applicabile solo se la barra dell\'app non è nascosta.</string>
+    <string name="total">Totale:</string>
+    <string name="totalitems">Elementi totali</string>
+    <string name="translate_summary">Traduci Easy nella tua lingua</string>
+    <string name="translate_title">Traduci</string>
+    <string name="translators">Traduttori</string>
+    <string name="turkish_translation_title">Turco</string>
+    <string name="type">Tipo</string>
+    <string name="typeDesc">Tipo (decrescente)</string>
+    <string name="ui">Interfaccia</string>
+    <string name="uimode">Modalità interfaccia utente</string>
+    <string name="ukrainian_translation_title">Ucraino</string>
+    <string name="unin_system_apk">Questa è un\'app di sistema, eliminarla potrebbe causare malfunzionamenti.\\nProcedere?</string>
+    <string name="uninstall">Disinstalla</string>
+    <string name="unsavedchanges">Modifiche non salvate</string>
+    <string name="unsavedchangesdesc">Hai delle modifiche non salvate, vuoi salvarle prima di uscire?</string>
+    <string name="use_custom_ip">Utilizza IP personalizzato</string>
+    <string name="used">In uso:</string>
+    <string name="usedefaultgallerypath">Usa percorso galleria predefinito</string>
+    <string name="username">Nome utente</string>
+    <string name="version">Versione</string>
+    <string name="video">Video</string>
+    <string name="videos">Video</string>
+    <string name="vietnamese_translation_title">Vietnamita</string>
+    <string name="view">Visualizza</string>
+    <string name="viewmode">Modalità visualizzazione</string>
+    <string name="waiting_content">Attendi il completamento dell\'operazione</string>
+    <string name="waiting_title">Attendere</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Acquista con Google"</string>
+    <string name="wanthelp">
+<u>Serve aiuto?</u>
+</string>
+    <string name="warning">Attenzione</string>
+    <string name="width">Larghezza</string>
+    <string name="written">Scritti</string>
+    <string name="xda_summary">Q&amp;A, aiuto e risoluzione problemi</string>
+    <string name="xda_title">Thread XDA</string>
+    <string name="year">Anno</string>
+    <string name="yes">Sì</string>
+    <string name="zip_create_folder">Cartella creazione file ZIP</string>
+    <string name="zip_summary">I nuovi file ZIP verranno creati in questa cartella. Il valore predefinito è la cartella in cui i file sono presenti.</string>
+    <string name="zip_viewer">Visualizzatore file ZIP</string>
+</resources>

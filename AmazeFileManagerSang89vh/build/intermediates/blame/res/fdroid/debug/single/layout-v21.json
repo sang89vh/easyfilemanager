@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v21/notification_action.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v21/main_toolbar.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout-v21/main_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/jack/.android/build-cache/8930cea605f019481b5ba2d122c84f5039f6d898/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

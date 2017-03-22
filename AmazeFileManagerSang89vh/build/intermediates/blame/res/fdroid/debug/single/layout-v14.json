@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/jack/.android/build-cache/c43c7976610f90243d074010ba2b7db3e120db12/output/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/jack/.android/build-cache/c43c7976610f90243d074010ba2b7db3e120db12/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/jack/.android/build-cache/c43c7976610f90243d074010ba2b7db3e120db12/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    }
+]

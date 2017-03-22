@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Rozbaluji soubory</string>
+    <string name="Yellow">Žlutá</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="about">O</string>
+    <string name="accent_color_title">Barva zvýraznění</string>
+    <string msgid="5835639618285370804" name="accept">"Přijmout"</string>
+    <string name="accessed">Poslední přístup</string>
+    <string name="add">Přidat</string>
+    <string name="addbook">Přidat záložku</string>
+    <string name="addshortcut">Přidat zástupce</string>
+    <string name="addtobook">Přidat do záložek</string>
+    <string name="advanced_search">Rozšířené vyhledávání</string>
+    <string name="album">Album</string>
+    <string name="anonymous">Anonymní</string>
+    <string name="apps">Správce Aplikací</string>
+    <string name="archive">Archivovat</string>
+    <string name="artist">Interpret</string>
+    <string name="ascending">Vzestupně</string>
+    <string name="audio">Zvuk</string>
+    <string name="author">Autor</string>
+    <string name="authors">Autoři</string>
+    <string name="back">Zpět</string>
+    <string name="backup">Záloha</string>
+    <string name="basque_translation_title">Baskičtina</string>
+    <string name="bitrate">Datový tok</string>
+    <string name="blue">Modrá</string>
+    <string name="bluetooth">Zařízení Bluetooth</string>
+    <string name="bookmanag">Správce záložek</string>
+    <string name="bookmarksadded">Založka přidána</string>
+    <string name="books">Záložky</string>
+    <string name="brazilian_portuguese_translation_title">Brazilská portugalština</string>
+    <string name="calculating"> měřím </string>
+    <string name="camera_model">Model fotoaparátu</string>
+    <string name="cancel">ZRUŠIT</string>
+    <string name="cant_read_file">Soubor nelze načíst</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Reklama"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Odesílání do zařízení %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Skryté titulky"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Skryté titulky nejsou k dispozici"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Odpojit"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Obrázek, který se zobrazí, když přijímač odesílaného obsahu bude přehrávat reklamu"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Zobrazená reklama…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Obal alba"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Přímý přenos"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Načítání…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Přeskočit"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Přetočit vpřed"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Přetočit o 10 sekund vpřed"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Přetočit o 30 sekund vpřed"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Ztlumit"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Připojeno k obrazovce <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Připojování k obrazovce <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Odpojit"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Pozastavit"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Přehrát"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Přetočit zpět"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Přetočit o 10 sekund zpět"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Přetočit o 10 sekund zpět"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Posuvník přehrávání"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Přejít na další položku"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Přejít na předchozí položku"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Zastavit"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Zastavit přímý přenos"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Zvuk"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Zrušit"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Skryté titulky"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Stopa <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Nejsou k dispozici žádné zvukové stopy"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Nejsou k dispozici žádné textové stopy"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Žádné"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Titulky"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Zapnout zvuk"</string>
+    <string name="changelog">Changelog</string>
+    <string name="channels">Kanály</string>
+    <string name="chinese_translation_title">Čínština</string>
+    <string name="choose_color">Vybrat barvu</string>
+    <string name="clear">Smazat vše</string>
+    <string name="close">Zavřít</string>
+    <string name="codec">Kodek</string>
+    <string name="color_title">Barva</string>
+    <string name="colourednavigation">Barevný navigační panel</string>
+    <string name="comment">Komentář</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Povolit"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktivovat služby Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivace služeb Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalovat"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v zařízení nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Instalace služeb Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služeb Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Zkuste to prosím znovu."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovat"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktualizovat služby Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizace služeb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které jsou právě aktualizovány."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otevřít v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Přihlásit se"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Přihlásit se k účtu Google"</string>
+    <string name="compress">Komprimovat</string>
+    <string name="confirm">Potvrdit</string>
+    <string name="connectionname">Název připojení</string>
+    <string name="container">Složka</string>
+    <string name="contributors">Přispěvatelé</string>
+    <string name="copy">Kopírovat</string>
+    <string name="copy_path">Kopírovat cestu</string>
+    <string name="copying">Kopírování</string>
+    <string name="copying_fles">Kopíruji soubory</string>
+    <string name="create">VYTVOŘIT</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Povolit reklamě, aby vytvořila událost kalendáře?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Vytvoření události kalendáře"</string>
+    <string name="created">Vytvořeno</string>
+    <string name="creatingfile">Vytvoření souboru</string>
+    <string name="creatingfolder">Vytváření složky</string>
+    <string name="creator">Autor</string>
+    <string name="current_speed">Aktuální rychlost</string>
+    <string name="cut">Vyjmout</string>
+    <string name="cyan">Tyrkysová</string>
+    <string name="dark">Material Dark</string>
+    <string name="database">Databáze</string>
+    <string name="date">Datum</string>
+    <string name="date_modified">Datum změny</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Informace o reklamě"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Náhled kreativy"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Vybrat režim ladění"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Odstraňování problémů"</string>
+    <string msgid="6099173376375995052" name="decline">"Odmítnout"</string>
+    <string name="defualt">Výchozí</string>
+    <string name="delbook">Odstranit záložku</string>
+    <string name="delete">Smazat</string>
+    <string name="deleting">Odstraňování</string>
+    <string name="descending">Sestupně</string>
+    <string name="detailedView">Zobrazení podrobností</string>
+    <string name="details">Podrobnosti</string>
+    <string name="dimensions">Rozměry</string>
+    <string name="directories">Složky</string>
+    <string name="document">Dokument</string>
+    <string name="documents">Dokumenty</string>
+    <string name="domain">Doména</string>
+    <string name="donate">Přispět</string>
+    <string name="done">Hotovo</string>
+    <string name="drawer_close">Zavřít navigační lištu</string>
+    <string name="drawer_open">Otevřít navigační lištu</string>
+    <string name="duration">Délka</string>
+    <string name="dutch_translation_title">Holandština</string>
+    <string name="easter_egg_title">Studiový mód</string>
+    <string name="edit">Editace</string>
+    <string name="efn">Zadejte název souboru</string>
+    <string name="enterfile">Zadejte název souboru</string>
+    <string name="entername">Zadejte název</string>
+    <string name="enternewname">Zadejte nový název</string>
+    <string name="enterpath">Zadejte cestu</string>
+    <string name="error">Chyba</string>
+    <string name="error_io">Chyba I/O</string>
+    <string name="exit">Konec</string>
+    <string name="exposure_time">Expoziční čas</string>
+    <string name="extract">Extrahovat</string>
+    <string name="extracting">Probíhá extrahování</string>
+    <string name="extstorage">Externí úložiště</string>
+    <string name="feedback">Odeslat zpětnou vazbu</string>
+    <string name="file">Soubor</string>
+    <string name="file_empty">Soubor je prázdny</string>
+    <string name="filecreated">Soubor vytvořen</string>
+    <string name="fileexist">Již existuje soubor se stejným názvem </string>
+    <string name="filenotexists">Soubor neexistuje</string>
+    <string name="files">Soubory</string>
+    <string name="find">Najít na stránce</string>
+    <string name="flash_fired">S bleskem</string>
+    <string name="focal_length">Ohnisková vzdálenost</string>
+    <string name="folder">Složka</string>
+    <string name="foldercreated">Složka vytvořena</string>
+    <string name="folders">Složky</string>
+    <string name="frame_rate">Snímkovací frekvence</string>
+    <string name="free">Volné Místo:  </string>
+    <string name="french_translation_title">Francouzština</string>
+    <string name="ftp">Server FTP</string>
+    <string name="ftp_notif_stop_server">STOP</string>
+    <string name="ftp_notif_text">na %s</string>
+    <string name="ftp_status_not_running">Není spuštěno</string>
+    <string name="ftp_status_running">Spuštěno</string>
+    <string name="g_plus">Google Plus</string>
+    <string name="gallery">Galerie</string>
+    <string name="general">Obecné</string>
+    <string name="generating">Generování..</string>
+    <string name="german_translation_title">Němčina</string>
+    <string name="goback">Zpět</string>
+    <string name="grant">Povolit</string>
+    <string name="grantfailed">Oprávnění není uděleno</string>
+    <string name="grantper">Udělit oprávnění</string>
+    <string name="greek_translation_title">Řečtina</string>
+    <string name="green">Zelená</string>
+    <string name="gridview">Zobrazení mřížky</string>
+    <string name="height">Výška</string>
+    <string name="hidden">Zobrazovat skryté soubory a složky</string>
+    <string name="hiddenfiles">Skryté soubory</string>
+    <string name="hide">Skrýt</string>
+    <string name="hide_toolbar">Schovat lištu</string>
+    <string name="history">History</string>
+    <string name="home">Doma</string>
+    <string name="icon">ikona</string>
+    <string name="icon_color_summary">Nastavit barvu ikony</string>
+    <string name="icon_color_title">Barva ikony</string>
+    <string name="image">Obraz</string>
+    <string name="image_type">Typ obrázku</string>
+    <string name="imagegallery">Galerie obrázků</string>
+    <string name="images">Obrázky</string>
+    <string name="in_safe">Nedostatek místa</string>
+    <string name="indigo">Indigo</string>
+    <string name="information">Informace</string>
+    <string name="install">Instalovat</string>
+    <string name="invalid_name">Neplatný název</string>
+    <string name="ip">Adresa</string>
+    <string name="italian_translation_title">Italština</string>
+    <string name="item">Položka</string>
+    <string name="items">Položky</string>
+    <string name="itemsselected">Vybrané položky</string>
+    <string name="japanese_translation_title">Japonština</string>
+    <string name="keywords">Klíčová slova</string>
+    <string name="korean_translation_title">Korejština</string>
+    <string name="lastModified">Naposledy upraveno</string>
+    <string name="license">Open Source licence</string>
+    <string name="light">Material Light</string>
+    <string name="listview">Zobrazení seznamu</string>
+    <string name="loading">Načítání…</string>
+    <string name="location">Místo</string>
+    <string name="md5">md5: </string>
+    <string name="md5_2">Kopírovat md5</string>
+    <string name="md5copied">MD5 zkopírován do schránky</string>
+    <string name="medium_text">Střední Text</string>
+    <string name="miscellaneous">Různé</string>
+    <string name="modified">Upraveno</string>
+    <string name="moving">Přesun</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Tlačítko odesílání"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Hledání zařízení"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Odesílat do"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Obal alba"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Odesílání obsahu obrazovky"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Zavřít"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Sbalit"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Odpojit"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Rozbalit"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Nejsou k dispozici žádné informace"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Nebyla vybrána žádná média"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Pozastavit"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Přehrát"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Zastavit odesílání"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Systém"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Zařízení"</string>
+    <string name="name">Název</string>
+    <string name="new_string">Nové</string>
+    <string name="newfile">Nový soubor</string>
+    <string name="newfolder">Nová složka</string>
+    <string name="newhomedirectory">Nový domovský adresář</string>
+    <string name="no">Ne</string>
+    <string name="noappfound">K otevření toho souboru nebyla nalezena žádná aplikace</string>
+    <string name="nodevicefound">Žádná zařízení nenalezena</string>
+    <string name="nofiles">Žádné soubory</string>
+    <string name="none">Žádný</string>
+    <string name="not_allowed">Toto není dovoleno</string>
+    <string name="ok">OK</string>
+    <string name="open">Otevřít</string>
+    <string name="openas">Otevřít jako</string>
+    <string name="openparent">Otevřít nadřazený adresář</string>
+    <string name="openwith">Otevřít pomocí</string>
+    <string name="optimized">Optimalizováno</string>
+    <string name="other">Ostatní</string>
+    <string name="overwrite">Přepsat</string>
+    <string name="packageinstaller">Instalátor balíčků</string>
+    <string name="pages">Počet stránek</string>
+    <string name="paper_size">Velikost papíru</string>
+    <string name="password">Heslo</string>
+    <string name="paste">Vložit</string>
+    <string name="path">Cesta</string>
+    <string name="permission">Oprávnění</string>
+    <string name="permission_group">Skupina</string>
+    <string name="permission_other">Ostatní</string>
+    <string name="permission_owner">Majitel</string>
+    <string name="permission_read">Načíst</string>
+    <string name="pick_a_file">Vybrat soubor</string>
+    <string name="pink">Růžová</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Vymazat vyhledávání"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Vyhledávání"</string>
+    <string name="play">Obchod Play</string>
+    <string name="please_wait">Čekejte prosím</string>
+    <string name="polish_translation_title">Polština</string>
+    <string name="portuguese_translation_title">Portugalština</string>
+    <string name="pressagain">Pro ukončení stiskněte znovu</string>
+    <string name="processes">Procesy</string>
+    <string name="producer">Producent</string>
+    <string name="properties">Předvolby</string>
+    <string name="purple">Fialová</string>
+    <string name="questiondelete">Opravdu chcete odstranit následující soubory?</string>
+    <string name="quick">Rychlý přístup</string>
+    <string name="randomDialog">Náhodně</string>
+    <string name="rate">Ohodnotit aplikaci</string>
+    <string name="recent">Nedávné soubory</string>
+    <string name="red">Červená</string>
+    <string name="refresh">Obnovit</string>
+    <string name="regular_expression">Regulární výraz</string>
+    <string name="rename">Přejmenovat</string>
+    <string name="renamed">Přejmenování proběhlo úspěšně</string>
+    <string name="renaming">Přejmenování</string>
+    <string name="report_bugs_summary">Nahlásit chybu nebo požádat o nové funkce</string>
+    <string name="report_bugs_title">Ohlásit chybu</string>
+    <string name="romanian_translation_title">Rumunština</string>
+    <string name="rootPref">Zobrazit oprávnění</string>
+    <string name="rootPrefSummary">Zobrazit oprávnění souborů a složek</string>
+    <string name="rootdirectory">Kořenový adresář</string>
+    <string name="rootfailure">Root přístup nebyl udělen</string>
+    <string name="rootmode">Root Explorer</string>
+    <string name="russian_translation_title">Ruština</string>
+    <string name="sample_rate">Vzorkovací frekvence</string>
+    <string name="save">Uložit</string>
+    <string name="saving">Ukládání</string>
+    <string name="sd_card_grant_first">sd_card_grant_first</string>
+    <string name="sd_card_grant_next">sd_card_grant_next</string>
+    <string name="search">Hledat</string>
+    <string name="search_hint">Zadejte hledaný výraz…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
+    <string name="searching">Hledání</string>
+    <string name="searchresults">Výsledky vyhledávání</string>
+    <string name="security">Zabezpečení</string>
+    <string name="select">Vybrat položku</string>
+    <string name="select_intent">Vybrat</string>
+    <string name="selectall">Vybrat Vše</string>
+    <string name="serbian_translation_title">Srbsština</string>
+    <string name="service_timer">Uplynulý čas</string>
+    <string name="set">Nastavit</string>
+    <string name="setashome">Nastavit jako domácí</string>
+    <string name="setringtone">Nastavit jako vyzvánění</string>
+    <string name="setting">Nastavení</string>
+    <string name="share">Sdílet</string>
+    <string name="simpleView">Jednoduché zobrazení</string>
+    <string name="size">Velikost složky</string>
+    <string name="sizePref">Zobrazit velikost</string>
+    <string name="skin">Skin</string>
+    <string name="skip">Přeskočit</string>
+    <string name="software">Software</string>
+    <string name="sort">Řazení</string>
+    <string name="sortName">Jméno</string>
+    <string name="sortNameDesc">Název (sest.)</string>
+    <string name="sortSize">Rozměry</string>
+    <string name="sortby">Seřadit podle</string>
+    <string name="spanish_translation_title">Španělština</string>
+    <string name="start_ftp">Start</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">Konec</string>
+    <string name="stopping">Zastavování</string>
+    <string name="storage">Úložiště</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Povolit reklamě uložení obrázku do galerie fotek?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Uložit obrázek"</string>
+    <string name="subject">Předmět</string>
+    <string name="success">Úspěch</string>
+    <string name="supersu">SuperSU</string>
+    <string name="support_development">Podpořte vývoj</string>
+    <string name="tables">Tabulky</string>
+    <string name="tamil_translation_title">Tamilština</string>
+    <string name="text">Text</string>
+    <string name="theme">Motiv vzhledu</string>
+    <string name="thumb">Zobrazit náhledy</string>
+    <string name="title">Název</string>
+    <string name="total">Celkem: </string>
+    <string name="totalitems">Celkový počet položek</string>
+    <string name="translate_title">Přeložit</string>
+    <string name="translators">Překladatelé</string>
+    <string name="turkish_translation_title">Turečtina</string>
+    <string name="type">Typ</string>
+    <string name="ui">Prostředí</string>
+    <string name="uimode">Režim uživatelského rozhraní</string>
+    <string name="ukrainian_translation_title">Ukrajinština</string>
+    <string name="uninstall">Odinstalovat</string>
+    <string name="unsavedchanges">Neuložené změny</string>
+    <string name="username">Uživatelské jméno</string>
+    <string name="version">Verze</string>
+    <string name="video">Video</string>
+    <string name="videos">Videa</string>
+    <string name="vietnamese_translation_title">Vietnamština</string>
+    <string name="view">Náhled</string>
+    <string name="viewmode">Režim zobrazení</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Koupit pomocí Googlu"</string>
+    <string name="warning">Varování</string>
+    <string name="width">Šířka</string>
+    <string name="xda_title">Vlákno XDA</string>
+    <string name="year">Rok</string>
+    <string name="yes">Ano</string>
+    <string name="zip_viewer">Zip prohlížeč</string>
+</resources>

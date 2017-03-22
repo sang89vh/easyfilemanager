@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Yellow">மஞ்சள்</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"முகப்பிற்கு வழிசெலுத்து"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"மேலே வழிசெலுத்து"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"மேலும் விருப்பங்கள்"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"முடிந்தது"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"எல்லாம் காட்டு"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"பயன்பாட்டைத் தேர்வுசெய்க"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"முடக்கு"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"இயக்கு"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"தேடு..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"வினவலை அழி"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"தேடல் வினவல்"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"தேடு"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"வினவலைச் சமர்ப்பி"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"குரல் தேடல்"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"இதனுடன் பகிர்"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s உடன் பகிர்"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"சுருக்கு"</string>
+    <string name="blue">நீலம்</string>
+    <string name="changelog">மாற்றம் பதிவு</string>
+    <string name="close">மூடு</string>
+    <string name="color_title">நிறம்</string>
+    <string name="cyan">சியான்</string>
+    <string name="defualt">இயல்புநிலை</string>
+    <string name="donate">நன்கொடை</string>
+    <string name="done">முடிந்தது</string>
+    <string name="edit">திருத்தம்</string>
+    <string name="exit">வெளியேறுதல்</string>
+    <string name="exposure_time">வெளிப்பாடு நேரம்</string>
+    <string name="focal_length">குவியத்தூரம்</string>
+    <string name="green">பச்சை</string>
+    <string name="history">வரலாறு</string>
+    <string name="home">முகப்பு</string>
+    <string name="information">தகவல்</string>
+    <string name="install">நிறுவு</string>
+    <string name="new_string">புதிய</string>
+    <string name="no">இல்லை</string>
+    <string name="none">ஏதுமில்லை</string>
+    <string name="ok">சரி</string>
+    <string name="other">பிற</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="permission_other">பிற</string>
+    <string name="red">சிவப்பு</string>
+    <string name="refresh">புதுப்பி</string>
+    <string msgid="146198913615257606" name="search_menu_title">"தேடு"</string>
+    <string name="skip">தவிர்</string>
+    <string name="sortSize">அளவு</string>
+    <string name="start_ftp">ஆரம்பி</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="version">பதிப்பு</string>
+    <string name="yes">ஆம்</string>
+</resources>

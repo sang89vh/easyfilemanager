@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/shaders"/></dataSet><dataSet config="play"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/play/shaders"/></dataSet><dataSet config="release"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build-types/release/shaders"/></dataSet><dataSet config="playRelease"><source path="/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/playRelease/shaders"/></dataSet></merger>

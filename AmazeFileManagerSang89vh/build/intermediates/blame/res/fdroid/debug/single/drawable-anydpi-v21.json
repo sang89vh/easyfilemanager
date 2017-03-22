@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/jack/.android/build-cache/6626405acfe943f560fa23767faf1565621fb41c/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/jack/.android/build-cache/6626405acfe943f560fa23767faf1565621fb41c/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/Users/jack/.android/build-cache/c43c7976610f90243d074010ba2b7db3e120db12/output/res/drawable-anydpi-v21/md_nav_back.xml"
+    }
+]

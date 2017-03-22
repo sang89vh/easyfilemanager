@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Fájlok kibontása</string>
+    <string name="Yellow">Sárga</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="about">Névjegy</string>
+    <string name="aboutFileManager">Easy File Manager névjegy</string>
+    <string name="accent_color_summary">Állítsa be a FAB és egyéb kis felhasználói felület elemek színét</string>
+    <string name="accent_color_title">Kiemelőszín</string>
+    <string msgid="5835639618285370804" name="accept">"Elfogadás"</string>
+    <string name="accessed">Hozzáférés</string>
+    <string name="add">Hozzáadás</string>
+    <string name="addbook">Könyvjelző hozzáadása</string>
+    <string name="addshortcut">Parancsikon hozzáadása</string>
+    <string name="addtobook">Hozzáadás a könyvjelzőkhöz</string>
+    <string name="advanced_search">Részletes keresés</string>
+    <string name="amber">Borostyán</string>
+    <string name="anonymous">Névtelen</string>
+    <string name="aperture_value">Rekeszérték</string>
+    <string name="apks">Apk fájlok</string>
+    <string name="apps">Alkalmazáskezelő</string>
+    <string name="archive">Archívum</string>
+    <string name="archive_extract_folder">Archívumok kibontási mappája</string>
+    <string name="archive_preferences">Archívum beállításai</string>
+    <string name="archive_summary">Az archivált fájlok ebbe a mappába lesznek kicsomagolva. Az lesz az alapértelmezett könyvtár, amelyben az archívum jelen van</string>
+    <string name="archtext">Ez egy archívum. Milyen műveletet szeretne végrehajtani?</string>
+    <string name="artist">Előadó</string>
+    <string name="ascending">Növekvő</string>
+    <string name="atroot">Jelenleg a gyökérkönyvtárban van</string>
+    <string name="audio">Audió</string>
+    <string name="author">Készítő</string>
+    <string name="authors">Készítők</string>
+    <string name="back">Vissza</string>
+    <string name="back_summary">Egyéni visszaléptetési lehetőség engedélyezése a lista tetején</string>
+    <string name="back_title">Visszaugrás</string>
+    <string name="backup">Biztonsági mentés</string>
+    <string name="basque_translation_title">Baszk</string>
+    <string name="bitrate">Bitarány</string>
+    <string name="black">Fekete</string>
+    <string name="blue">Kék</string>
+    <string name="blue_grey">Szürkéskék</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmanag">Könyvjelző-kezelő</string>
+    <string name="bookmark_lost">Nem található könyvjelző, létrehozás újra…</string>
+    <string name="bookmarksadded">Könyvjelzők hozzáadva</string>
+    <string name="books">Könyvjelzők</string>
+    <string name="brazilian_portuguese_translation_title">Brazíliai portugál</string>
+    <string name="brown">Barna</string>
+    <string name="calculating">kiszámítás</string>
+    <string name="camera_brand">Kamera márka</string>
+    <string name="camera_model">Kamera modell</string>
+    <string name="cancel">MÉGSE</string>
+    <string name="cancelled">Megszakítva</string>
+    <string name="cant_read_file">A fájl nem olvasható</string>
+    <string name="cantbeempty">A(z) %s nem lehet üres</string>
+    <string name="cantlistfiles">Nem listázhatja ki a fájlokat root jogosultság nélkül</string>
+    <string name="card">Kártya kezelőfelület</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Hirdetés"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Átküldés ide: %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Feliratok"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"A feliratok nem érhetők el"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Szétválasztás"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Ez a kép látható, amíg a Cast-erősítő hirdetést jelenít meg"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Hirdetés folyamatban…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Lemezborító"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Élő közvetítés"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Betöltés…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Átugrás"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Előretekerés"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Előretekerés tíz másodperccel"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Előretekerés harminc másodperccel"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Némítás"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Csatlakozva a következőhöz: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Csatlakozás a következőhöz: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Leválasztás"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Szüneteltetés"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Lejátszás"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Visszatekerés"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Visszatekerés tíz másodperccel"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Visszatekerés 30 másodperccel"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Lejátszási keresősáv"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Ugrás a következő elemre"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Ugrás az előző elemre"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Leállítás"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Élő közvetítés leállítása"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Hang"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Mégse"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Feliratok"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"<ns1:g id="POSITION">%1$d</ns1:g> követése"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Nem áll rendelkezésre hangsáv"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Nem áll rendelkezésre szöveges sáv"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Nincs"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Feliratok"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Némítás feloldása"</string>
+    <string name="changegallerypath">Galéria útvonalának módosítása</string>
+    <string name="changelog">Változásnapló</string>
+    <string name="channels">Csatornák</string>
+    <string name="chinese_translation_title">Kínai</string>
+    <string name="chooseUI">Elem kezelőfelület kiválasztása</string>
+    <string name="choose_color">Válasszon színt</string>
+    <string name="circularicons">Kör alakú ikonok használata</string>
+    <string name="circularimages">Kör alakú ikonok használata a képeknél és videóknál</string>
+    <string name="clear">Törlés</string>
+    <string name="clipboard_path_copy">Az útvonal a vágólapra került</string>
+    <string name="close">Bezárás</string>
+    <string name="codec">Kódek</string>
+    <string name="color_summary">Állítsa be a különböző kezelőfelületi elemek színét</string>
+    <string name="color_title">Szín</string>
+    <string name="colorize">Színes ikonok</string>
+    <string name="colorize_summary">Statikus ikon színének beállítása. Nem bírálja felül a könyvtár ikon színbeállításait.</string>
+    <string name="colourednavigation">Színes navigációs sáv</string>
+    <string name="colourednavigationsum">Függetlenül attól, hogy a felszínben a rendszer navigációs sáv színezett</string>
+    <string name="comment">Megjegyzés</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Engedélyezés"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-szolgáltatások engedélyezése"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Telepítés"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"A Google Play-szolgáltatások frissítése"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
+    <string name="compress">Tömörítés</string>
+    <string name="compressing">Tömörítés</string>
+    <string name="compression_complete">A tömörítés befejeződött</string>
+    <string name="confirm">Megerősítés</string>
+    <string name="connectionname">Kapcsolat neve</string>
+    <string name="container">Tároló</string>
+    <string name="contributors">Közreműködők</string>
+    <string name="copied">másolva</string>
+    <string name="copy">Másolás</string>
+    <string name="copy_complete">A másolás befejeződött</string>
+    <string name="copy_path">Útvonal másolása</string>
+    <string name="copying">Másolás</string>
+    <string name="copying_fles">Fájlok másolása</string>
+    <string name="copyingapk">Apk másolása ide:</string>
+    <string name="create">LÉTREHOZÁS</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Engedélyezi a hirdetés számára naptáresemény létrehozását?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Naptáresemény létrehozása"</string>
+    <string name="created">Létrehozva</string>
+    <string name="creatingfile">Fájl létrehozása</string>
+    <string name="creatingfolder">Mappa létrehozása</string>
+    <string name="creator">Készítő</string>
+    <string name="current_speed">Aktuális sebesség</string>
+    <string name="cut">Kivágás</string>
+    <string name="cyan">Ciánkék</string>
+    <string name="dark">Sötét</string>
+    <string name="database">Adatbázis</string>
+    <string name="databasereader">Adatbázis-olvasó</string>
+    <string name="date">Dátum</string>
+    <string name="date_modified">Módosítás dátuma</string>
+    <string name="date_taken">Készítés dátuma</string>
+    <string name="daytime">Nappal</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Hirdetési információ"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Kreatív előnézete"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Hibaelhárítási mód kiválasztása"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Problémamegoldás"</string>
+    <string msgid="6099173376375995052" name="decline">"Elutasítás"</string>
+    <string name="deep_orange">Mélynarancs</string>
+    <string name="deep_purple">Mélyvörös</string>
+    <string name="defualt">Alapértelmezett</string>
+    <string name="delete">Törlés</string>
+    <string name="deleting">Törlés</string>
+    <string name="descending">Csökkenő</string>
+    <string name="detailedView">Részletes nézet</string>
+    <string name="details">Részletek</string>
+    <string name="dimensions">Méretek</string>
+    <string name="directories">Könyvtárak</string>
+    <string name="directorysort">Könyvtár rendezési mód</string>
+    <string name="document">Dokumentum</string>
+    <string name="documents">Dokumentumok</string>
+    <string name="doforall">Alkalmazza az összes elemre</string>
+    <string name="doit">Hajtsa végre</string>
+    <string name="domain">Tartomány</string>
+    <string name="donate">Adomány</string>
+    <string name="done">Kész</string>
+    <string name="drawer_close">Navigációs fiók bezárása</string>
+    <string name="drawer_open">Navigációs fiók megnyitása</string>
+    <string name="duration">Időtartam</string>
+    <string name="dutch_translation_title">Holland</string>
+    <string name="easter_egg_title">Stúdió mód</string>
+    <string name="edit">Szerkesztés</string>
+    <string name="efn">Fájlnév megadása</string>
+    <string name="enablerootmde">Root mód engedélyezése</string>
+    <string name="enterfile">Adja meg a fájl nevét</string>
+    <string name="entername">Adja meg a nevet</string>
+    <string name="enternewname">Adja meg az új nevet</string>
+    <string name="enterpath">Adja meg az elérési útvonalat</string>
+    <string name="enterzipname">Adja meg a zip nevét</string>
+    <string name="error">Hiba</string>
+    <string name="exit">Kilépés</string>
+    <string name="exposure_time">Expozíciós idő</string>
+    <string name="extract">Kibontás</string>
+    <string name="extract_complete">A kibontás befejeződött</string>
+    <string name="extracting">Kicsomagolás</string>
+    <string name="extstorage">Külső tároló</string>
+    <string name="fab_skin">FAB felszín</string>
+    <string name="feedback">Visszajelzés küldése</string>
+    <string name="file">Fájl</string>
+    <string name="file_empty">A fájl üres</string>
+    <string name="filecreated">Fájl létrehozva</string>
+    <string name="fileexist">Ilyen nevű fájl már létezik</string>
+    <string name="fileexplorer">Fájlkezelő</string>
+    <string name="filenotexists">A fájl nem létezik</string>
+    <string name="files">fájl</string>
+    <string name="filesOnTop">Fájlok felülre</string>
+    <string name="find">Keresés az oldalon</string>
+    <string name="flash_fired">Vakuvillanás</string>
+    <string name="focal_length">Gyújtótávolság</string>
+    <string name="folder">Mappa</string>
+    <string name="foldercolor">Mappa színe</string>
+    <string name="foldercreated">Mappa létrehozva</string>
+    <string name="folders">mappa</string>
+    <string name="foldersOnTop">Mappák felülre</string>
+    <string name="format">Formátum</string>
+    <string name="frame_rate">Képarány</string>
+    <string name="free">Szabad terület:</string>
+    <string name="french_translation_title">Francia</string>
+    <string name="ftp">FTP-kiszolgáló</string>
+    <string name="ftp_no_wifi">Ellenőrizze a WiFi kapcsolatot</string>
+    <string name="ftp_notif_starting">FTP-kiszolgáló indítása</string>
+    <string name="ftp_notif_stop_server">LEÁLLÍTÁS</string>
+    <string name="ftp_notif_text">%s</string>
+    <string name="ftp_notif_title">Az Easy FTP-kiszolgáló fut</string>
+    <string name="ftp_port_change_error_invalid">Érvénytelen port szám lett kiválasztva</string>
+    <string name="ftp_port_change_success">FTP port sikeresen módosítva</string>
+    <string name="ftp_port_edit_menu_title">Válasszon FTP portot</string>
+    <string name="ftp_status_not_running">Nem fut</string>
+    <string name="ftp_status_running">Fut</string>
+    <string name="fullChangelog">Teljes változásnapló</string>
+    <string name="g_plus">Google+</string>
+    <string name="g_plus_community_summary">Vegyenek részt a béta tesztelésben, 
+és a fejlesztéssel kapcsolatos eszmecseréken</string>
+    <string name="g_plus_community_title">Csatlakozzon a G+ közösséghez</string>
+    <string name="gallery">Galéria</string>
+    <string name="general">Általános</string>
+    <string name="generating">Létrehozás..</string>
+    <string name="german_translation_title">Német</string>
+    <string name="goback">Vissza</string>
+    <string name="gplus_pic_summary">G+ borítókép megjelenítése a fiókban</string>
+    <string name="gplus_pic_title">Bejelentkezés G+ azonosítóval</string>
+    <string name="grant">Megadás</string>
+    <string name="grantfailed">Az engedély nincs megadva</string>
+    <string name="grantgplus">Engedélyre van szüksége az alkalmazásnak ehhez a funkcióhoz. A párbeszédpanel megszakítása érvényteleníteni fogja ezt a funkciót.</string>
+    <string name="grantper">Engedély megadása</string>
+    <string name="granttext">Tárolási engedélyre van szüksége az alkalmazásnak a folytatáshoz. A párbeszédpanel megszakításakor az alkalmazás kilép.</string>
+    <string name="greek_translation_title">Görög</string>
+    <string name="green">Zöld</string>
+    <string name="gridcolumnno">Oszlopok száma rácsnézetben</string>
+    <string name="gridview">Rácsnézet</string>
+    <string name="guide1">Üdvözli az Easy File Manager</string>
+    <string name="guide2">Érintse meg a kék csíkot az útvonalsáv megjelenítéséhez vagy elrejtéséhez</string>
+    <string name="guide3">Érintse meg hosszan bármelyik fájlt további lehetőségek eléréséhez</string>
+    <string name="guide4">Mint a másolás, áthelyezés, tulajdonságok, stb.</string>
+    <string name="guide5">A vissza gomb segítségével bármikor kiléphet az alkalmazásból…</string>
+    <string name="guide6">..És használja a bal nyíl gombot a fájlkezelőn belüli navigáláshoz</string>
+    <string name="height">Magasság</string>
+    <string name="hidden">Rejtett fájlok és mappák megjelenítése</string>
+    <string name="hiddenfiles">Rejtett fájlok</string>
+    <string name="hide">Elrejtés</string>
+    <string name="hide_appbar">A teljes alkalmazás sáv elrejtése</string>
+    <string name="hide_mode_app_bar">Alkalmazás sáv elrejtése görgetéskor</string>
+    <string name="hide_mode_nothing">Az alkalmazás sáv maradjon érintetlen</string>
+    <string name="hide_mode_title">Elrejtési mód</string>
+    <string name="hide_mode_toolbar">Eszköztár elrejtése görgetéskor</string>
+    <string name="hide_toolbar">Eszköztár elrejtése</string>
+    <string name="history">Előzmények</string>
+    <string name="home">Kezdőlap</string>
+    <string name="icon">ikon</string>
+    <string name="icon_color_summary">Állítsa be az ikonok színét</string>
+    <string name="icon_color_title">Ikon színe</string>
+    <string name="icon_credits">Grafikai elemek: &lt;a href=\"http://cookicons.co/\">CookIcons&lt;/a></string>
+    <string name="image">Kép</string>
+    <string name="image_iso">ISO sebességminősítés</string>
+    <string name="image_type">Kép típusa</string>
+    <string name="imagegallery">Képgaléria</string>
+    <string name="images">Képek</string>
+    <string name="in_safe">Nincs elég hely</string>
+    <string name="indigo">Sötétkék</string>
+    <string name="information">Információk</string>
+    <string name="install">Telepítés</string>
+    <string name="invalid">Érvénytelen: %s</string>
+    <string name="invalid_dir">Érvénytelen könyvtár</string>
+    <string name="invalid_name">Érvénytelen név</string>
+    <string name="ip">Cím</string>
+    <string name="italian_translation_title">Olasz</string>
+    <string name="item">Elem</string>
+    <string name="items">Elem</string>
+    <string name="itemsselected">elem kiválasztva</string>
+    <string name="japanese_translation_title">Japán</string>
+    <string name="keywords">Kulcsszavak</string>
+    <string name="korean_translation_title">Koreai</string>
+    <string name="lastModified">Utoljára módosítva</string>
+    <string name="lastModifiedDesc">Utoljára módosítva (csökkenő)
+</string>
+    <string name="lastModifiedPref">Utolsó módosítás megjelenítése</string>
+    <string name="lastModifiedSummary">Megjeleníti a fájl utolsó módosítási dátumát és idejét</string>
+    <string name="license">Nyílt forrású licencek</string>
+    <string name="light">Világos</string>
+    <string name="light_blue">Világoskék</string>
+    <string name="light_green">Világoszöld</string>
+    <string name="listview">Listanézet</string>
+    <string name="loading">Betöltés…</string>
+    <string name="location">Hely</string>
+    <string name="maintab">A fő lap nem távolítható el</string>
+    <string name="match_content">Egyező tartalom</string>
+    <string name="match_content_summary">Ha beállítja, a reguláris kifejezés egyeztetve lesz a teljes fájlnévvel, 
+egyébként az előfordulásokra fog rákeresni.</string>
+    <string name="md5_2">md5 másolása</string>
+    <string name="md5copied">MD5 a vágólapra másolva</string>
+    <string name="miscellaneous">Egyéb</string>
+    <string name="modified">Módosítva</string>
+    <string name="mountsystem">Rendszermappák csatolása írhatóként</string>
+    <string name="mountsystemsummary">Engedélyezze ezt, ha szerkeszteni szeretné a rendszerfájlokat</string>
+    <string name="move_complete">Az áthelyezés befejeződött</string>
+    <string name="moved">áthelyezve</string>
+    <string name="moving">Áthelyezés</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Átküldés gomb"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Eszközök keresése"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Átküldés ide"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Lemezborító"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Képernyőtartalom átküldése"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Bezárás"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Összecsukás"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Leválasztás"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Kibontás"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Nincs információ"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Nincs média kiválasztva"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Szüneteltetés"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Lejátszás"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Átküldés leállítása"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Rendszer"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Eszközök"</string>
+    <string name="name">Név</string>
+    <string name="needsaccess">Írási hozzáférés szükséges</string>
+    <string name="needsaccesssummary">Kérjük, válassza ki a(z) \\t gyökérkönyvtárát</string>
+    <string name="needsaccesssummary1">\\taz írási hozzáférés megadásához</string>
+    <string name="new_string">Új</string>
+    <string name="newfile">Új fájl</string>
+    <string name="newfolder">Új mappa</string>
+    <string name="newhomedirectory">Új kezdőkönyvtár</string>
+    <string name="no">Nem</string>
+    <string name="no_cover_photo">Nincs borítókép</string>
+    <string name="no_file_overwrite">Nincs fájl felülírás</string>
+    <string name="no_profile_pic">Nincs G+ profilkép</string>
+    <string name="noappfound">Nincs megfelelő alkalmazás a fájl megnyitására</string>
+    <string name="nodevicefound">Nem található eszköz</string>
+    <string name="nofiles">Nincsenek fájlok</string>
+    <string name="none">Nincs</string>
+    <string name="noneOnTop">Nincs felül</string>
+    <string name="not_allowed">Nem engedélyezett</string>
+    <string name="ok">Rendben</string>
+    <string name="open">Megnyitás</string>
+    <string name="openas">Megnyitás mint</string>
+    <string name="opening">Megnyitás..</string>
+    <string name="openparent">Szülőkönyvtár megnyitása</string>
+    <string name="openwith">Megnyitás a következővel…</string>
+    <string name="operationunsuccesful">A művelet sikertelen volt</string>
+    <string name="optimized">Optimalizálva</string>
+    <string name="orange">Narancssárga</string>
+    <string name="otg_access">Válassza ki az OTG eszköz gyökerét</string>
+    <string name="other">Egyéb</string>
+    <string name="overwrite">Felülírás</string>
+    <string name="packageinstaller">Csomagtelepítő</string>
+    <string name="pages">Lapok száma</string>
+    <string name="paper_size">Papír mérete</string>
+    <string name="password">Jelszó</string>
+    <string name="paste">Beillesztés</string>
+    <string name="path">Hely</string>
+    <string name="pathcopied">Az útvonal a vágólapra került</string>
+    <string name="paypal_copy_message">A Paypal id a vágólapra lett másolva</string>
+    <string name="permission">Engedélyek</string>
+    <string name="permission_other">Egyéb</string>
+    <string name="permission_read">Elolvas</string>
+    <string name="pick_a_file">Válasszon egy fájlt</string>
+    <string name="pink">Rózsaszín</string>
+    <string name="pitext">Ez egy csomagtelepítő. Milyen műveletet szeretne végrehajtani?</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Keresés törlése"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Keresés"</string>
+    <string name="play">Play Áruház</string>
+    <string name="polish_translation_title">Lengyel</string>
+    <string name="portuguese_translation_title">Portugál</string>
+    <string name="pressagain">Nyomja meg újra a kilépéshez</string>
+    <string name="primary_color_summary">Állítsa be a bal lapon lévő nagy kezelőfelületi elemek a színét</string>
+    <string name="primary_color_title">Alapszín (bal lap)</string>
+    <string name="primary_two_summary">Állítsa be a jobb lapon lévő nagy kezelőfelületi elemek a színét</string>
+    <string name="primary_two_title">Alapszín (jobb lap)</string>
+    <string name="process_chart_description">Folyamat</string>
+    <string name="process_viewer">Folyamatfigyelő</string>
+    <string name="processes">Folyamatok</string>
+    <string name="processing_file">Fájl feldolgozása</string>
+    <string name="producer">Gyártó</string>
+    <string name="properties">Tulajdonságok</string>
+    <string name="purple">Lila</string>
+    <string name="questiondelete">Valóban törölni szeretné a következő fájlokat?</string>
+    <string name="questionset">Beállítja az aktuális útvonalat kezdőlapként ezen a fülön?</string>
+    <string name="quick">Gyorselérés</string>
+    <string name="random">Véletlenszerű felszín</string>
+    <string name="randomDialog">Véletlenszerű</string>
+    <string name="random_summary">Véletlenszerű alapszín beállítás indításkor</string>
+    <string name="rate">Alkalmazás értékelése</string>
+    <string name="recent">Legutóbbi fájlok</string>
+    <string name="red">Piros</string>
+    <string name="refresh">Frissítés</string>
+    <string name="regular_expression">Reguláris kifejezés</string>
+    <string name="regular_expression_summary">Keresés BASH stílusú reguláris kifejezés használatával</string>
+    <string name="rename">Átnevezés</string>
+    <string name="renamebookmark">Könyvjelző módosítása</string>
+    <string name="renamed">Az átnevezés sikeres</string>
+    <string name="renameerror">Az átnevezés sikertelen</string>
+    <string name="renaming">Átnevezés</string>
+    <string name="report_bugs_summary">Hibák jelentése vagy új funkciók igénylése</string>
+    <string name="report_bugs_title">Hibák jelentése</string>
+    <string name="romanian_translation_title">Román</string>
+    <string name="rootPref">Engedélyek megjelenítése</string>
+    <string name="rootPrefSummary">Fájl és mappa engedélyek megjelenítése</string>
+    <string name="rootdirectory">Gyökérkönyvtár</string>
+    <string name="rootfailure">A root hozzáférés nincs megadva</string>
+    <string name="rootmode">Root-kezelő</string>
+    <string name="rootmodesummary">Rootolt eszközökre. Csak akkor aktiválja, ha biztos benne</string>
+    <string name="russian_translation_title">Orosz</string>
+    <string name="sample_rate">Mintavételi arány</string>
+    <string name="save">Mentés</string>
+    <string name="savepaths">Útvonalak megjegyzése</string>
+    <string name="savepathsummary">Indításkor az utoljára megtekintett mappa fog megjelenni minden lapon</string>
+    <string name="saving">Mentés</string>
+    <string name="search">Keresés</string>
+    <string name="search_hint">Írja be mit keres…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="searching">Keresés</string>
+    <string name="searchingdevices">Eszközök keresése</string>
+    <string name="searchpath">Keresési útvonal</string>
+    <string name="searchresults">Keresési eredmények</string>
+    <string name="security">Biztonság</string>
+    <string name="select">Elem kiválasztása</string>
+    <string name="select_intent">Kiválasztás</string>
+    <string name="selectall">Összes kijelölése</string>
+    <string name="serbian_translation_title">Szerb</string>
+    <string name="set">Beállítás</string>
+    <string name="setRandom">A változások az alkalmazás újraindítása után lépnek érvénybe</string>
+    <string name="setashome">Beállítás kezdőkönyvtárként</string>
+    <string name="setgridview">Rácsnézet beállítása</string>
+    <string name="sethome">Kezdőkönyvtár beállítása</string>
+    <string name="setlistview">Listanézet beállítása</string>
+    <string name="setringtone">Beállítás csengőhangként</string>
+    <string name="setting">Beállítások</string>
+    <string name="share">Megosztás</string>
+    <string name="share_limit">Nem oszthat meg 100-nál több fájlt</string>
+    <string name="showDividers">Elválasztók megjelenítése</string>
+    <string name="simple">Egyszerű kezelőfelület</string>
+    <string name="simpleView">Egyszerű nézet</string>
+    <string name="size">Mappa mérete</string>
+    <string name="sizePref">Méret megjelenítése</string>
+    <string name="sizePrefSummary">Megjeleníti a fájlok méretét és a mappában lévő elemek számát</string>
+    <string name="skin">Felszín</string>
+    <string name="skip">Kihagyás</string>
+    <string name="smb_con">SMB kapcsolat</string>
+    <string name="smb_instructions"><html>
+<body>
+<center>\\n
+<h1>Hogyan érhető el a megosztott windows mappa androidon (smb)</h1>\\n
+</center>\\n
+<ol>\\n
+<li>\\n
+<b>Engedélyezze a fájlmegosztást</b>\\n
+<br/>Nyissa meg a Vezérlőpultot, és kattintson az Otthoni csoport és megosztási beállítások
+kiválasztása hivatkozásra a Hálózati és megosztási központ lehetőség alatt, majd válassza a
+Speciális megosztási beállításokat. Engedélyezze a fájl- és nyomtatómegosztás funkciót.\\n
+</li><br/><li/><b>További fájlmegosztási beállítások</b><br/>Itt további speciális megosztási
+beállítások konfigurálására nyílik lehetősége. \\n
+Például, engedélyezheti a fájlok jelszó nélküli elérését, ha megbízik a helyi hálózaton
+lévő összes eszközben. A fájl- és nyomtatómegosztás engedélyezése után, megnyithatja
+a Fájlkezelőt vagy a Windows Intézőt, kattintson jobb gombbal a megosztani kívánt
+mappára és válassza a Tulajdonságok lehetőséget.. \\n
+Kattintson a Megosztás gombra, és tegye a mappát elérhetővé a hálózaton.\\n
+<li><li/><br/><b>Ellenőrizze, hogy mindkét eszköz azonos Wifi hálózaton legyen</b><br/> \\n
+Ez a funkció elérhetővé teszi a fájlokat a helyi hálózaton, így PC-je, illetve mobil készüléke
+ugyanazon a helyi hálózaton lesz. Nem férhet hozzá a megosztott Windows mappához
+interneten keresztül vagy okostelefonjáról mobil adatátviteli kapcsolat használatával — ehhez
+kapcsolódnia kell a Wi-Fi-hez.</li><li>\\n
+<br/><b>IP-cím keresése</b>\\n
+<br/>Nyissa meg a parancssort. Írja be az \'ipconfig\' parancsot, majd nyomja le az Enter
+billentyűt. Keresse az alapértelmezett átjárót a hálózati adapter alatt routere IP-címével.
+Keresse az \"IPv4 cím\" bejegyzést ugyanabban a csatoló részben számítógépe IP-címének
+megtalálásához..</li><li/><br/>\\n
+<b>Adja meg a részleteket az smb párbeszédablakban</b>\\n
+<br/>\\n
+</ol>\\n
+</body>\\n
+</html></string>
+    <string name="smb_server">Kiszolgáló IP-címe</string>
+    <string name="software">Szoftver</string>
+    <string name="sort">Rendezés</string>
+    <string name="sortName">Név</string>
+    <string name="sortNameDesc">Név (csökkenő)</string>
+    <string name="sortSize">Méret</string>
+    <string name="sortSizeDesc">Méret (csökkenő)</string>
+    <string name="sortby">Rendezés</string>
+    <string name="spanish_translation_title">Spanyol</string>
+    <string name="start_ftp">Indítás</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">Leállítás</string>
+    <string name="stopping">Leállítás</string>
+    <string name="storage">Tárhely</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Kép mentése"</string>
+    <string name="subject">Tárgy</string>
+    <string name="success">Sikeres</string>
+    <string name="support_development">Fejlesztés támogatása</string>
+    <string name="tab">Lap</string>
+    <string name="tables">Táblázat(ok)</string>
+    <string name="tap_and_hold_tips">Érintse meg és tartsa nyomva a fájlt vagy mappát további lehetőségek eléréséhez</string>
+    <string name="tapnhold">Érintse meg és tartsa nyomva a fájlt vagy mappát további lehetőségek eléréséhez</string>
+    <string name="teal">Pávakék</string>
+    <string name="text">Szöveg</string>
+    <string name="textreader">Szövegolvasó</string>
+    <string name="theme">Téma</string>
+    <string name="thumb">Miniatűrök megjelenítése</string>
+    <string name="thumbSummary">Alkalmazás és kép miniatűrök megjelenítése</string>
+    <string name="title">Cím</string>
+    <string name="topFab">FAB az alkalmazás sávon</string>
+    <string name="topFabS">A + gombnak felül vagy alul kell lennie. Csak akkor alkalmazható, ha az alkalmazás sáv nincs elrejtve.</string>
+    <string name="total">Összes:</string>
+    <string name="totalitems">Összes elem</string>
+    <string name="translate_summary">Fordítsa le az Easy fájlkezelőjét a saját nyelvére</string>
+    <string name="translate_title">Fordítás</string>
+    <string name="translators">Fordítók</string>
+    <string name="turkish_translation_title">Török</string>
+    <string name="type">Típus</string>
+    <string name="typeDesc">Típus (csökkenő)</string>
+    <string name="ui">Kezelőfelület</string>
+    <string name="uimode">Kezelőfelület mód</string>
+    <string name="ukrainian_translation_title">Ukrán</string>
+    <string name="unin_system_apk">Ez egy rendszeralkalmazás. Törlésével veszélyeztetheti a rendszer stabilitását.\\n
+Folytatja?</string>
+    <string name="uninstall">Eltávolítás</string>
+    <string name="unsavedchanges">Nem mentett módosítások</string>
+    <string name="unsavedchangesdesc">Nem mentett el minden módosítást. Szeretné elmenteni azokat, mielőtt kilép?</string>
+    <string name="use_custom_ip">Egyéni IP használata</string>
+    <string name="used">Mások által használt:</string>
+    <string name="usedefaultgallerypath">Alapértelmezett képgaléria útvonal használata</string>
+    <string name="username">Felhasználónév</string>
+    <string name="version">Verzió</string>
+    <string name="video">Videó</string>
+    <string name="videos">Videók</string>
+    <string name="vietnamese_translation_title">Vietnámi</string>
+    <string name="view">Nézet</string>
+    <string name="viewmode">Megjelenítési mód</string>
+    <string name="waiting_content">Várakozás a művelet befejezésére</string>
+    <string name="waiting_title">Várakozás</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Vásárlás a Google-lal"</string>
+    <string name="wanthelp"><u>Segítségre van szüksége?</u></string>
+    <string name="warning">Figyelem</string>
+    <string name="width">Szélesség</string>
+    <string name="xda_summary">Kérdések/válaszok, súgó és hibaelhárítás</string>
+    <string name="xda_title">XDA</string>
+    <string name="year">Év</string>
+    <string name="yes">Igen</string>
+    <string name="zip_create_folder">Zip mappa létrehozása</string>
+    <string name="zip_summary">Az új zip fájlokat ebbe a mappába hozza létre. Ez alapértelmezettként az a könyvtár, amelyben a fájlok vannak</string>
+    <string name="zip_viewer">Zip megjelenítő</string>
+</resources>

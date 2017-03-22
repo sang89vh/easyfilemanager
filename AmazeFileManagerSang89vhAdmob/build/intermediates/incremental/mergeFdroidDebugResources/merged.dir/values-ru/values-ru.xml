@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Извлечение файлов</string>
+    <string name="Yellow">Жёлтый</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about">О приложении</string>
+    <string name="aboutFileManager">Об Easy File Manager</string>
+    <string name="accent_color_summary">Установить цвет плав. кнопки и других маленьких элементов UI</string>
+    <string name="accent_color_title">Цвет акцента</string>
+    <string msgid="5835639618285370804" name="accept">"Принять"</string>
+    <string name="accessed">Доступ</string>
+    <string name="add">Добавить</string>
+    <string name="addbook">Добавить закладку</string>
+    <string name="addshortcut">Добавить ярлык</string>
+    <string name="addtobook">Добавить в закладки</string>
+    <string name="advanced_search">Расширенный поиск</string>
+    <string name="album">Альбом</string>
+    <string name="amber">Янтарный</string>
+    <string name="anonymous">Анонимно</string>
+    <string name="aperture_value">Значение диафрагмы</string>
+    <string name="apks">Apk</string>
+    <string name="app_name">Пример навигации по меню</string>
+    <string name="apps">Менеджер приложений</string>
+    <string name="archive">Архивы</string>
+    <string name="archive_extract_folder">Папка для распаковки архивов</string>
+    <string name="archive_preferences">Настройки архивирования</string>
+    <string name="archive_summary">Файлы из архивов будут распакованы в указанную папку. По умолчанию это папка, в которой находятся zip-файлы</string>
+    <string name="archtext">Это архив. Какое действие вы хотели бы выполнить?</string>
+    <string name="artist">Артист</string>
+    <string name="ascending">По возрастанию</string>
+    <string name="atroot">Вы находитесь в корне</string>
+    <string name="audio">Аудио</string>
+    <string name="author">Автор</string>
+    <string name="authors">Авторы</string>
+    <string name="back">Назад</string>
+    <string name="back_summary">Кнопка назад в верхней части списка</string>
+    <string name="back_title">Кнопка назад</string>
+    <string name="backup">Резервная копия</string>
+    <string name="basque_translation_title">Баскский</string>
+    <string name="bitrate">Битрейт</string>
+    <string name="black">Чёрный</string>
+    <string name="blue">Синий</string>
+    <string name="blue_grey">Синий серый</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmanag">Менеджер закладок</string>
+    <string name="bookmark_lost">Закладка не найдена, пересоздание…</string>
+    <string name="bookmarksadded">Добавлено в закладки</string>
+    <string name="books">Закладки</string>
+    <string name="brazilian_portuguese_translation_title">Бразильский португальский</string>
+    <string name="brown">Коричневый</string>
+    <string name="calculating">вычисление</string>
+    <string name="camera_brand">Марка камеры</string>
+    <string name="camera_model">Модель камеры</string>
+    <string name="cancel">Отмена</string>
+    <string name="cancelled">Отменено</string>
+    <string name="cant_read_file">Не удаётся прочитать файл</string>
+    <string name="cantbeempty">%s не может быть пустым</string>
+    <string name="cantlistfiles">Не можете выполнить без рут прав</string>
+    <string name="card">Карта польз. интерфейса</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Объявление"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Трансляция на устройство \"%s\""</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Субтитры"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Субтитры недоступны"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Отключить"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Изображение, показанное во время трансляции объявления"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Трансляция объявления…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Обложка"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Прямой эфир"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Загрузка…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Пропустить"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Перемотать вперед"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Перемотать на 10 секунд вперед"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Перемотать на 30 секунд вперед"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Отключить звук"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Подключено к <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Подключение к <ns1:g id="NAME">%1$s</ns1:g>…"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Отключить"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Приостановить"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Воспроизвести"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Перемотать назад"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Перемотать на 10 секунд назад"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Перемотать на 30 секунд назад"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Ползунок перемотки"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Перейти к следующему объекту"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Перейти к предыдущему объекту"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Остановить"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Остановить трансляцию"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Аудио"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Отмена"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Субтитры"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Трек <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Нет доступных аудиотреков"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Нет доступных текстовых треков"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Нет"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ОК"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Субтитры"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Включить звук"</string>
+    <string name="changegallerypath">Изменить путь к галерее</string>
+    <string name="changelog">История изменений</string>
+    <string name="channels">Каналы</string>
+    <string name="chinese_translation_title">Китайский</string>
+    <string name="chooseUI">Выберите элемент пользовательского интерфейса</string>
+    <string name="choose_color">Выберите цвет</string>
+    <string name="circularicons">Использовать круглые иконки</string>
+    <string name="circularimages">Использовать круглые иконки для изображений и видео</string>
+    <string name="clear">Очистить</string>
+    <string name="clipboard_path_copy">Путь скопирован в буфер обмена</string>
+    <string name="close">Закрыть</string>
+    <string name="codec">Кодек</string>
+    <string name="color_summary">Установить цвет для различных компонентов UI</string>
+    <string name="color_title">Цвет</string>
+    <string name="colorize">Раскрасить иконки</string>
+    <string name="colorize_summary">Устанавливает цвета иконок отличающиеся от темы</string>
+    <string name="colourednavigation">Цветная панель навигации</string>
+    <string name="colourednavigationsum">Окраска панели навигации вместе со скином</string>
+    <string name="comment">Комментарий</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="compress">Архивировать</string>
+    <string name="compressing">Сжатие</string>
+    <string name="compression_complete">Сжатие завершено</string>
+    <string name="confirm">Подтвердите</string>
+    <string name="connectionname">Название соединения</string>
+    <string name="container">Контейнер</string>
+    <string name="contributors">Авторы</string>
+    <string name="copied">скопированы</string>
+    <string name="copy">Копировать</string>
+    <string name="copy_complete">Копирование завершено</string>
+    <string name="copy_error">Некоторые файлы не были успешно %s</string>
+    <string name="copy_path">Копировать Путь</string>
+    <string name="copying">Копирование...</string>
+    <string name="copying_fles">Копирование файлов</string>
+    <string name="copyingapk">apk-файл скопирован в: </string>
+    <string name="create">Создать</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Разрешить объявлению создать мероприятие в календаре?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Создание мероприятия"</string>
+    <string name="created">Создано</string>
+    <string name="creatingfile">Создание файла</string>
+    <string name="creatingfolder">Создание папки</string>
+    <string name="creator">Создатель</string>
+    <string name="current_speed">Текущая скорость</string>
+    <string name="cut">Вырезать</string>
+    <string name="cyan">Голубой</string>
+    <string name="dark">Тёмный</string>
+    <string name="database">База данных</string>
+    <string name="databasereader">Просмотрщик баз данных</string>
+    <string name="date">Дата</string>
+    <string name="date_modified">Дата изменения</string>
+    <string name="date_taken">Дата съемки</string>
+    <string name="daytime">Дневное время</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Сведения об объявлении"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Creative Preview"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Выбрать режим отладки"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Устранение неполадок"</string>
+    <string msgid="6099173376375995052" name="decline">"Отклонить"</string>
+    <string name="deep_orange">Глубокий оранжевый</string>
+    <string name="deep_purple">Багровый</string>
+    <string name="defualt">По умолчанию</string>
+    <string name="delbook">Удалить закладку</string>
+    <string name="delete">Удалить</string>
+    <string name="deleting">Удаление...</string>
+    <string name="descending">По убыванию</string>
+    <string name="detailedView">Подробный вид</string>
+    <string name="details">Подробнее</string>
+    <string name="dimensions">Размеры</string>
+    <string name="directories">Папки</string>
+    <string name="directorysort">Режим сортировки каталога</string>
+    <string name="document">Документ</string>
+    <string name="documents">Документы</string>
+    <string name="doforall">Выполнить для всех элементов</string>
+    <string name="doit">Сделай это</string>
+    <string name="domain">Домен</string>
+    <string name="donate">Пожертвовать</string>
+    <string name="done">Готово</string>
+    <string name="drawer_close">Закрыть меню навигации</string>
+    <string name="drawer_open">Открыть меню навигации</string>
+    <string name="duration">Длительность</string>
+    <string name="dutch_translation_title">Нидерландский</string>
+    <string name="easter_egg_title">Студийный режим</string>
+    <string name="edit">Редактировать</string>
+    <string name="efn">Введите имя файла</string>
+    <string name="enablerootmde">Включите режим рут прав</string>
+    <string name="enterfile">Введите имя файла</string>
+    <string name="entername">Введите имя</string>
+    <string name="enternewname">Введите новое имя</string>
+    <string name="enterpath">Введите путь</string>
+    <string name="enterzipname">Введите имя zip-архива</string>
+    <string name="error">Ошибка</string>
+    <string name="error_busybox">Busybox не найден. Закрытие интерактивной оболочки.</string>
+    <string name="error_file_not_found">Ошибка: файл не найден</string>
+    <string name="error_io">Ошибка ввода-вывода</string>
+    <string name="error_root_not_permitted">Ошибка: не предоставлено разрешение для прав суперпользователя</string>
+    <string name="exit">Выход</string>
+    <string name="exposure_time">Время экспозиции</string>
+    <string name="extract">Извлечь</string>
+    <string name="extract_complete">Извлечение завершено</string>
+    <string name="extracting">Извлечение...</string>
+    <string name="extstorage">Внешний накопитель</string>
+    <string name="fab_skin">Скин плав. кнопки</string>
+    <string name="feedback">Отправить отзыв</string>
+    <string name="file">Файл</string>
+    <string name="file_empty">Файл пуст</string>
+    <string name="filecreated">Файл создан</string>
+    <string name="fileexist">Файл с таким именем уже существует</string>
+    <string name="fileexplorer">Проводник</string>
+    <string name="filenotexists">Файл не существует</string>
+    <string name="files">Файлы</string>
+    <string name="filesOnTop">Файлы на вершине</string>
+    <string name="find">Найти на странице</string>
+    <string name="flash_fired">Сработала вспышка</string>
+    <string name="focal_length">Фокусное расстояние</string>
+    <string name="folder">Папка</string>
+    <string name="foldercolor">Цвет папки</string>
+    <string name="foldercreated">Папка создана</string>
+    <string name="folders">Папки</string>
+    <string name="foldersOnTop">Папки на вершине</string>
+    <string name="format">Формат</string>
+    <string name="frame_rate">Частота кадров</string>
+    <string name="free">Свободно: </string>
+    <string name="french_translation_title">Французский</string>
+    <string name="ftp">FTP сервер</string>
+    <string name="ftp_no_wifi">Убедитесь, что вы подключены к WiFi</string>
+    <string name="ftp_notif_starting">FTP сервер включается</string>
+    <string name="ftp_notif_stop_server">СТОП</string>
+    <string name="ftp_notif_text">на %s</string>
+    <string name="ftp_notif_title">Easy FTP сервер работает</string>
+    <string name="ftp_port_change_error_invalid">Выбран неверный порт</string>
+    <string name="ftp_port_change_success">FTP порт успешно изменен</string>
+    <string name="ftp_port_edit_menu_title">Выберите FTP порт</string>
+    <string name="ftp_status_not_running">Выключен</string>
+    <string name="ftp_status_running">Включен</string>
+    <string name="fullChangelog">Полный список изменений</string>
+    <string name="g_plus">Google+</string>
+    <string name="g_plus_community_summary">Принять участие в бета тестировании и обсуждениях,
+        связанных с разработкой</string>
+    <string name="g_plus_community_title">Присоединиться к G+ сообществу</string>
+    <string name="gallery">Галерея</string>
+    <string name="general">Общие</string>
+    <string name="generating">Создание..</string>
+    <string name="german_translation_title">Немецкий</string>
+    <string name="goback">Вернуться</string>
+    <string name="gplus_pic_summary">Показать обложку и значок профиля из G+ в боковом меню</string>
+    <string name="gplus_pic_title">Войти в G+</string>
+    <string name="grant">Предоставление</string>
+    <string name="grantfailed"> Разрешение не предоставляется</string>
+    <string name="grantgplus">Приложению требуется разрешение для этого свойства. Закрытие этого диалога снимет это свойство.</string>
+    <string name="grantper">Предоставление разрешения</string>
+    <string name="granttext">Приложению требуется разрешение хранения для продолжения. Закрытие этого диалога завершит приложение.</string>
+    <string name="greek_translation_title">Греческий</string>
+    <string name="green">Зелёный</string>
+    <string name="gridcolumnno">Количество колонок в сетке</string>
+    <string name="gridview">Сетка</string>
+    <string name="guide1">Добро пожаловать в Easy File Manager!</string>
+    <string name="guide2">Нажмите на синюю полоску, чтобы показать или скрыть панель</string>
+    <string name="guide3">Нажмите и удерживайте на любом файле, чтобы открыть больше действий...</string>
+    <string name="guide4">Копирование, перемещение, свойства и т.д.</string>
+    <string name="guide5">Используйте кнопку Назад вашего устройства, чтобы выйти из приложения в любое время…</string>
+    <string name="guide6">..и для навигации по файловому менеждеру, используйте кнопку со стрелкой влево</string>
+    <string name="height">Высота</string>
+    <string name="hidden">Показать скрытые файлы и папки</string>
+    <string name="hiddenfiles">Скрытые файлы</string>
+    <string name="hide">Скрыть</string>
+    <string name="hide_appbar">Скрыть всю панель приложения</string>
+    <string name="hide_mode_app_bar">AppBar скрывается при прокручивании</string>
+    <string name="hide_mode_nothing">AppBar остаётся неизменным</string>
+    <string name="hide_mode_title">Режим сокрытия</string>
+    <string name="hide_mode_toolbar">Тулбар скрывается при прокручивании</string>
+    <string name="hide_toolbar">Скрыть тулбар</string>
+    <string name="history">История</string>
+    <string name="home">Домой</string>
+    <string name="icon">иконка</string>
+    <string name="icon_color_summary">Установить цвет значков</string>
+    <string name="icon_color_title">Цвет значка</string>
+    <string name="icon_credits">Графика от <a href="http://cookicons.co/">CookIcons</a></string>
+    <string name="image">Изображение</string>
+    <string name="image_iso">Рейтинг ISO</string>
+    <string name="image_type">Тип изображения</string>
+    <string name="imagegallery">Галерея изображений</string>
+    <string name="images">Изображения</string>
+    <string name="in_safe">Недостаточно свободного места</string>
+    <string name="indigo">Индиго</string>
+    <string name="information">Информация</string>
+    <string name="install">Установка</string>
+    <string name="invalid">Неверный %s</string>
+    <string name="invalid_dir">Неверная директория</string>
+    <string name="invalid_name">Неправильное имя</string>
+    <string name="ip">Адрес</string>
+    <string name="italian_translation_title">Итальянский</string>
+    <string name="item">Элемент</string>
+    <string name="items">Элементы</string>
+    <string name="itemsselected">Выбранные элементы</string>
+    <string name="japanese_translation_title">Японский</string>
+    <string name="keywords">Ключевые слова</string>
+    <string name="korean_translation_title">Корейский</string>
+    <string name="lastModified">Дата последнего изменения</string>
+    <string name="lastModifiedDesc">Дата последнего изменения (Desc)</string>
+    <string name="lastModifiedPref">Показать последние изменения</string>
+    <string name="lastModifiedSummary">Показывать дату и время, когда файл был изменен в последний раз</string>
+    <string name="license">Лицензия Open Source</string>
+    <string name="light">Светлый</string>
+    <string name="light_blue">Светло-голубой</string>
+    <string name="light_green">Светло-зелёный</string>
+    <string name="listview">Список</string>
+    <string name="loading">Загрузка…</string>
+    <string name="location">Расположение</string>
+    <string name="maintab">Главная вкладка не может быть удалена</string>
+    <string name="match_content">Сопоставить содержание</string>
+    <string name="match_content_summary">В случае установки регулярного выражения, оно будет сопоставлено с полным названием файла,
+        в противном случае подсчитает кол-во совпадений.</string>
+    <string name="md5">md5:</string>
+    <string name="md5_2">Скопировать md5</string>
+    <string name="md5copied">MD5 скопирован в буфер обмена</string>
+    <string name="medium_text">Средний размер</string>
+    <string name="miscellaneous">Прочее</string>
+    <string name="modified">Изменено</string>
+    <string name="mountsystem">Монтировать системные папки с правом записи</string>
+    <string name="mountsystemsummary">Включите, если хотите редактировать системные файлы</string>
+    <string name="move_complete">Перемещение завершено</string>
+    <string name="moved">перемещены</string>
+    <string name="moving">Перемещение</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Кнопка трансляции"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Поиск устройств…"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Выберите устройство"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Обложка"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Подключение к удаленному монитору"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Закрыть"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Свернуть"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Отключить"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Развернуть"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Данных нет"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Медиафайл не выбран"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Приостановить"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Воспроизвести"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Остановить трансляцию"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Система"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Устройства"</string>
+    <string name="name">Имя</string>
+    <string name="needsaccess">Необходим доступ к записи</string>
+    <string name="needsaccesssummary">Пожалуйста, выберите корневую папку\t</string>
+    <string name="needsaccesssummary1">\tпредоставлять доступ на запись для работы</string>
+    <string name="new_string">Новый</string>
+    <string name="newfile">Новый файл</string>
+    <string name="newfolder">Новая папка</string>
+    <string name="newhomedirectory">Новый домашний каталог</string>
+    <string name="no">Нет</string>
+    <string name="no_cover_photo">Нет обложки</string>
+    <string name="no_file_overwrite">Не перезаписывать файл</string>
+    <string name="no_profile_pic">Нет аватарки на G+</string>
+    <string name="noappfound">Нет приложений для открытия этого файла</string>
+    <string name="nodevicefound">Устройств не найдено</string>
+    <string name="nofiles">Нет файлов</string>
+    <string name="none">Ничто</string>
+    <string name="noneOnTop">Ни один на вершине</string>
+    <string name="not_allowed">Не допускается</string>
+    <string name="of">из</string>
+    <string name="ok">Да</string>
+    <string name="open">Запустить</string>
+    <string name="openas">Открыть как</string>
+    <string name="opening">Открываю..</string>
+    <string name="openparent">Открыть родительскую директорию</string>
+    <string name="openwith">Открыть с помощью</string>
+    <string name="operationunsuccesful">Операция безуспешна</string>
+    <string name="optimized">Оптимизировано</string>
+    <string name="orange">Оранжевый</string>
+    <string name="otg_access">Выберите корень OTG устройства</string>
+    <string name="other">Прочее</string>
+    <string name="out_of">из</string>
+    <string name="overwrite">Перезаписать</string>
+    <string name="packageinstaller">Установщик пакетов</string>
+    <string name="pages">Число страниц</string>
+    <string name="paper_size">Размер бумаги</string>
+    <string name="password">Пароль</string>
+    <string name="paste">Вставить</string>
+    <string name="path">Путь</string>
+    <string name="pathcopied">Путь скопирован в буфер обмена</string>
+    <string name="paypal_copy_message">Paypal id скопирован в буфер обмена</string>
+    <string name="permission">Права</string>
+    <string name="permission_execute">Исполнение</string>
+    <string name="permission_group">Группа</string>
+    <string name="permission_other">Другой</string>
+    <string name="permission_owner">Владелец</string>
+    <string name="permission_read">Просмотреть</string>
+    <string name="permission_write">Запись</string>
+    <string name="pick_a_file">Выбрать файл</string>
+    <string name="pink">Розовый</string>
+    <string name="pitext">Это пакет установщика. Какое действие вы хотели бы выполнить?</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Удалить поисковый запрос"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Поиск"</string>
+    <string name="play">Открыть в Play Store</string>
+    <string name="please_wait">Подождите…</string>
+    <string name="polish_translation_title">Польский</string>
+    <string name="portuguese_translation_title">Португальский</string>
+    <string name="pressagain">Нажмите ещё раз, чтобы выйти.</string>
+    <string name="primary_color_summary">Установить цвет крупных элементов UI</string>
+    <string name="primary_color_title">Основной цвет (Левая вкладка)</string>
+    <string name="primary_two_summary">Выбрать цвет для больших элементов интерфейса правой вкладки</string>
+    <string name="primary_two_title">Основной цвет (Правая вкладка)</string>
+    <string name="process_chart_description">Прогресс</string>
+    <string name="process_viewer">Просмотр процессов</string>
+    <string name="processes">Процессы</string>
+    <string name="processing_file">Обработка файла</string>
+    <string name="producer">Продюсер</string>
+    <string name="properties">Свойства</string>
+    <string name="purple">Фиолетовый</string>
+    <string name="questiondelete">Вы уверены, что хотите удалить выбранные файлы?</string>
+    <string name="questionset">Вы хотите установить текущий путь как домашний для этой вкладки?</string>
+    <string name="quick">Быстрый доступ</string>
+    <string name="random">Случайный скин</string>
+    <string name="randomDialog">Случайный</string>
+    <string name="random_summary">Устанавливает случайную тему при запуске</string>
+    <string name="rate">Оцените приложение</string>
+    <string name="recent">Недавние файлы</string>
+    <string name="red">Красный</string>
+    <string name="refresh">Обновить</string>
+    <string name="regular_expression">Регулярное выражение</string>
+    <string name="regular_expression_summary">Поиск с помощью регулярного выражения BASH</string>
+    <string name="rename">Переименовать</string>
+    <string name="renamebookmark">Изменить закладку</string>
+    <string name="renamed">Успешно переименовано</string>
+    <string name="renameerror">Не удалось переименовать</string>
+    <string name="renaming">Переименование</string>
+    <string name="report_bugs_summary">Сообщить о баге или запросить новый функционал</string>
+    <string name="report_bugs_title">Сообщить о баге</string>
+    <string name="romanian_translation_title">Румынский</string>
+    <string name="rootPref">Показать разрешения</string>
+    <string name="rootPrefSummary">Показывать разрешения для файлов и папок</string>
+    <string name="root_error">Ошибка при запуске консоли суперпользователя</string>
+    <string name="rootdirectory">Рут</string>
+    <string name="rootfailure">Рут доступ не предоставлен</string>
+    <string name="rootmode">Root Explorer</string>
+    <string name="rootmodesummary">Только для устройств с рут правами. Используйте с осторожностью, если уверены в своих действиях.</string>
+    <string name="russian_translation_title">Русский</string>
+    <string name="sample_rate">Частота дискретизации</string>
+    <string name="save">Сохранить</string>
+    <string name="savepaths">Помнить расположение</string>
+    <string name="savepathsummary">После старта на каждой вкладке будет отображена последняя просмотренная папка</string>
+    <string name="saving">Сохранение</string>
+    <string name="sd_card_grant_first">sd_card_grant_first</string>
+    <string name="sd_card_grant_next">sd_card_grant_next</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Введите для поиска…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="searching">Поиск</string>
+    <string name="searchingdevices">Поиск устройств</string>
+    <string name="searchpath">Путь поиска</string>
+    <string name="searchresults">Результаты поиска</string>
+    <string name="security">Безопасность</string>
+    <string name="select">Выбрать элемент</string>
+    <string name="select_intent">Выбрать</string>
+    <string name="selectall">Выбрать все</string>
+    <string name="serbian_translation_title">Сербский</string>
+    <string name="service_timer">Прошло времени</string>
+    <string name="set">Установить</string>
+    <string name="setRandom">Изменения будут использованы после перезапуска приложения</string>
+    <string name="setashome">Сделать домашней папкой</string>
+    <string name="setgridview">Настройка сетки</string>
+    <string name="sethome">Устан. домашний каталог</string>
+    <string name="setlistview">Настройка списка</string>
+    <string name="setringtone">Устан. как рингтон</string>
+    <string name="setting">Настройки</string>
+    <string name="share">Отправить</string>
+    <string name="share_limit">Нельзя отправить больше 100 файлов</string>
+    <string name="showDividers">Показать разделители</string>
+    <string name="simple">Простой пользов. интерфейс</string>
+    <string name="simpleView">Простой вид</string>
+    <string name="size">Размер папки</string>
+    <string name="sizePref">Показать размеры</string>
+    <string name="sizePrefSummary">Показывать размер файлов и количество элементов в папках</string>
+    <string name="skin">Скин</string>
+    <string name="skip">Пропустить</string>
+    <string name="smb_con">SMB соединение</string>
+    <string name="smb_instructions">
+<html>
+            <body>
+                <h1>Как получить доступ к общей папки Windows на Android</h1>\n\n
+                <ul>
+                    <li>
+                        <b>Включить общий доступ к файлам</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Откройте панель управления, нажмите «Выбор домашней группы и параметров общего доступа», далее нажмите  «Изменить дополнительные параметры общего доступа» и включите общий доступ к папкам и принтерам.\n\n
+                    </p>
+
+                    <li>
+                        <b>Дополнительные  параметры общего доступа</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Вы также можете настроить другие дополнительные параметры общего доступа здесь. \nНапример, вы можете разрешить доступ к файлам без пароля, если Вы доверяете всем устройства в этой сети. После того, как общий доступ к файлам и принтерам включен, откройте Проводник Windows или другой файловый менеджер, щелкните правой кнопкой мыши по папке, которой Вы хотите поделиться, и нажмите «Свойства». \nПосле перейдите на вкладку «Доступ» и откройте общий доступ к папке. \n\n
+                        </p>
+
+                    <li>
+                        <b>Убедитесь, что устройства находятся в одной сети</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                       Ваши устройства Windows и Android должны находиться в одной локальной сети. Например, Вы не получите доступ к папке из Windows на Android, если на устройстве Android будет включён только мобильный интернет!\n\n
+                    </p>
+
+                    <li>
+                        <b>Поиск IP адреса</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Откройте командную строку. Введите \'ipconfig\' и нажмите Enter. Найдите                         \"IPv4-адрес\" адаптера, через который Windows и Android устройства подключены к одной сети.\n\n
+                    </p>
+
+                    <b>Enter details in smb dialog box</b>\n
+                </ul>
+            </body>
+        </html>    </string>
+    <string name="smb_launch_error">Необходимо скопировать этот файл в хранилище для того, чтобы открыть</string>
+    <string name="smb_server">IP-адрес сервера</string>
+    <string name="software">ПО</string>
+    <string name="sort">Сортировка</string>
+    <string name="sortName">Имя</string>
+    <string name="sortNameDesc">Имя (по убыванию)</string>
+    <string name="sortSize">Размер</string>
+    <string name="sortSizeDesc">Размер (по убыванию)</string>
+    <string name="sortby">Сортировать</string>
+    <string name="spanish_translation_title">Испанский</string>
+    <string name="start_ftp">Старт</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop_ftp">Стоп</string>
+    <string name="stopping">Остановка</string>
+    <string name="storage">Память</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Разрешить объявлению сохранить изображение в галерее?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Сохранение изображения"</string>
+    <string name="subject">Предмет</string>
+    <string name="success">Успешно</string>
+    <string name="supersu">Суперпользователь</string>
+    <string name="support_development">Поддержать разработку</string>
+    <string name="tab">Вкладка</string>
+    <string name="tables">Стол(ы)</string>
+    <string name="tamil_translation_title">Тамильский</string>
+    <string name="tap_and_hold_tips">Нажмите и удерживайте файл или папку для больше вариантов</string>
+    <string name="tapnhold">Нажмите и удерживайте файл или папку для больше вариантов</string>
+    <string name="teal">Чирок</string>
+    <string name="text">Текст</string>
+    <string name="textreader">Просмотр текста</string>
+    <string name="theme">Темы</string>
+    <string name="thumb">Показать миниатюры</string>
+    <string name="thumbSummary">Показывать миниатюры приложений и образов</string>
+    <string name="title">Название</string>
+    <string name="topFab">Плав. кнопка на AppBar</string>
+    <string name="topFabS">Кнопка должна быть верху или внизу. Применяется только если AppBar не скрыть.</string>
+    <string name="total">Всего:</string>
+    <string name="totalitems">Всего элементов</string>
+    <string name="translate_summary">Перевести Easy на ваш язык</string>
+    <string name="translate_title">Перевести</string>
+    <string name="translators">Переводчики</string>
+    <string name="turkish_translation_title">Турецкий</string>
+    <string name="type">Тип</string>
+    <string name="typeDesc">Тип (по убыванию)</string>
+    <string name="ui">Интерфейс</string>
+    <string name="uimode">Режим интерфейса</string>
+    <string name="ukrainian_translation_title">Украинский</string>
+    <string name="unin_system_apk">Это системное приложение, удаление может привести к нестабильности системы.
+Продолжить?</string>
+    <string name="uninstall">Удалить</string>
+    <string name="unsavedchanges">Несохранённые изменения</string>
+    <string name="unsavedchangesdesc">У Вас есть не сохранённые изменения, вы хотите сохранить их перед выходом?</string>
+    <string name="use_custom_ip">Использовать другой IP</string>
+    <string name="used">Используется: </string>
+    <string name="usedefaultgallerypath">Использ. путь к галерее по умолчанию</string>
+    <string name="username">Имя пользователя</string>
+    <string name="version">Версия</string>
+    <string name="video">Видео</string>
+    <string name="videos">Видео</string>
+    <string name="vietnamese_translation_title">Вьетнамский</string>
+    <string name="view">Просмотр</string>
+    <string name="viewmode">Режим просмотра</string>
+    <string name="waiting_content">Ожидание завершения операции</string>
+    <string name="waiting_title">Ожидание</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Купить через Google"</string>
+    <string name="wanthelp"><u>Нужна помощь?</u></string>
+    <string name="warning">Предупреждение</string>
+    <string name="width">Ширина</string>
+    <string name="written">Записано</string>
+    <string name="xda_summary">Q&amp;A, Помощь и Устранение неисправностей</string>
+    <string name="xda_title">Тема на XDA</string>
+    <string name="year">Год</string>
+    <string name="yes">Да</string>
+    <string name="zip_create_folder">Папка для новых архивов</string>
+    <string name="zip_summary">Новые zip-архивы будут создаваться в указанной папке. По умолчанию это папка, в которой находятся файлы</string>
+    <string name="zip_viewer">Просмотр ZIP</string>
+</resources>

@@ -1,0 +1,7 @@
+#Sat Mar 11 14:06:47 ICT 2017
+base.0=/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/transforms/dex/fdroid/debug/folders/1000/10/instant-run-bootstrap_c489087a69db42ff4ae5a4bee3265af227cc2bbe
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/transforms/dex/fdroid/debug/folders/1000/10/instant-run_ec3b5d4c046ab98ee2e3ce8204c25332c6d1e7b4/classes.dex
+base.1=/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/transforms/dex/fdroid/debug/folders/1000/10/instant-run_ec3b5d4c046ab98ee2e3ce8204c25332c6d1e7b4
+file.0=/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/transforms/dex/fdroid/debug/folders/1000/10/instant-run-bootstrap_c489087a69db42ff4ae5a4bee3265af227cc2bbe/classes.dex

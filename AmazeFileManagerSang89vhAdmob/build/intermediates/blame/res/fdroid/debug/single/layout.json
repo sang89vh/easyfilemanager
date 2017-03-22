@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/list_footer.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/list_footer.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/activity_db_viewer.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/activity_db_viewer.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/drawerrow.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/drawerrow.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/drawerheader.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/drawerheader.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/lexadrawer.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/lexadrawer.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/tabfragment.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/tabfragment.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_sheet.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_sheet.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/dialog_grid_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/dialog_grid_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_input_check.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_input_check.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/permissiontable.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/permissiontable.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_template_media.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/listheader.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/listheader.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/fastscroller.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/fastscroller.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_basic_check.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/rowlayout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/rowlayout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/processparent.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/processparent.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/simplerow.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/simplerow.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/bookmarkrow.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/bookmarkrow.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/main_frag.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/main_frag.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/griditem.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/griditem.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/spinner_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/spinner_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/copy_dialog.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/copy_dialog.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/open_source_licenses.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/open_source_licenses.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_dialog.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_dialog.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_input.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/mr_playback_control.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_search_view.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_image.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_image.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_list.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_general.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_general.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_navigation_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/fragment_db_viewer.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/fragment_db_viewer.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/rename.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/rename.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/activity_about.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_list_check.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_list_check.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_listitem.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/cast_help_text.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/toolbar.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_permissions.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_permissions.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/prefsfrag.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/prefsfrag.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/spinner_dropdown_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/spinner_dropdown_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/actionmode_textviewer.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/actionmode_textviewer.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/actionmode.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/actionmode.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_information.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_information.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_audio.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_audio.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/mr_volume_control.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_document.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_document.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/smb_dialog.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/smb_dialog.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/smb_computers_row.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/smb_computers_row.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/main_toolbar.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/main_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_action.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/dialog_grid.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/dialog_grid.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/search.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/search.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/fragment_http.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/fragment_http.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_hash.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_hash.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/divider.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/divider.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/properties_video.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/properties_video.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/fragment_ftp.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/fragment_ftp.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/dialog_rename.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/dialog_rename.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/authors.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/src/main/res/layout/authors.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/fdroid/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_navigation_menu.xml"
+    }
+]

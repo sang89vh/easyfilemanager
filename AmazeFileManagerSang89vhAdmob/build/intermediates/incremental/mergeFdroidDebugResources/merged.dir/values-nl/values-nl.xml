@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Bestanden uitpakken</string>
+    <string name="Yellow">Geel</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="about">Over</string>
+    <string name="aboutFileManager">Over Easy-bestandsbeheerder</string>
+    <string name="accent_color_summary">Kleur instellen voor FAB en andere kleine UI-elementen</string>
+    <string name="accent_color_title">Accentkleur</string>
+    <string msgid="5835639618285370804" name="accept">"Accepteren"</string>
+    <string name="add">Toevoegen</string>
+    <string name="addbook">Bladwijzer toevoegen</string>
+    <string name="addshortcut">Snelkoppeling toevoegen</string>
+    <string name="addtobook">Toevoegen aan bladwijzers</string>
+    <string name="advanced_search">Geavanceerd zoeken</string>
+    <string name="amber">Amber</string>
+    <string name="anonymous">Anoniem</string>
+    <string name="apks">Apk\'s</string>
+    <string name="app_name">Easy-bestandsbeheerder</string>
+    <string name="apps">Applicatiebeheerder</string>
+    <string name="archive">Archief</string>
+    <string name="archive_extract_folder">Uitpakmap voor archief</string>
+    <string name="archive_preferences">Archiefvoorkeuren</string>
+    <string name="archive_summary">Archiefbestanden worden uitgepakt naar deze map. Standaardmap is de map waarin het archiefbestand staat opgeslagen</string>
+    <string name="archtext">Dit is een archief. Welke actie wil je uitvoeren?</string>
+    <string name="ascending">Oplopend</string>
+    <string name="atroot">Je bent in de bovenste map</string>
+    <string name="audio">Geluidsbestand</string>
+    <string name="author">Auteur</string>
+    <string name="authors">Auteurs</string>
+    <string name="back">Terug</string>
+    <string name="back_summary">Aangepaste Terugnavigatie aanzetten aan de bovenkant van de lijst</string>
+    <string name="back_title">Terugnavigatie</string>
+    <string name="backup">Back-up maken</string>
+    <string name="basque_translation_title">Baskisch</string>
+    <string name="black">Zwart</string>
+    <string name="blue">Blauw</string>
+    <string name="blue_grey">Blauwgrijs</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmanag">Bladwijzerbeheerder</string>
+    <string name="bookmark_lost">Bladwijzer niet gevonden, opnieuw aan het maken…</string>
+    <string name="bookmarksadded">Bladwijzers toegevoegd</string>
+    <string name="books">Bladwijzers</string>
+    <string name="brazilian_portuguese_translation_title">Braziliaans Portugees</string>
+    <string name="brown">Bruin</string>
+    <string name="calculating"> berekenen </string>
+    <string name="cancel">ANNULEREN</string>
+    <string name="cancelled">Geannuleerd</string>
+    <string name="cant_read_file">Kan bestand niet lezen</string>
+    <string name="cantbeempty">%s mag niet leeg zijn</string>
+    <string name="cantlistfiles">Kan geen bestandenlijst maken zonder root-toegang</string>
+    <string name="card">Kaarteninterface</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Advertentie"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Casten naar %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Ondertiteling"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Ondertiteling niet beschikbaar"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Verbinding verbreken"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Afbeelding die wordt weergegeven terwijl de Cast-receiver een advertentie afspeelt"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Advertentie wordt uitgevoerd…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Albumhoes"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Live stream"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Laden…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Overslaan"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Vooruitspoelen"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Tien seconden vooruitspoelen"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Dertig seconden vooruitspoelen"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Dempen"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Verbonden met <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Verbinden met <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Verbinding verbreken"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Onderbreken"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Afspelen"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Terugspoelen"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Tien seconden terugspoelen"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Dertig seconden terugspoelen"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Schuifbalk voor afspelen"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Overslaan en naar volgend item"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Overslaan en naar vorig item"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Stoppen"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Livestream stoppen"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Audio"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Annuleren"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Ondertiteling"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Nummer <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Geen audiotracks beschikbaar"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Geen teksttracks beschikbaar"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Geen"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Ondertiteling"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Dempen opheffen"</string>
+    <string name="changegallerypath">Galerijpad veranderen</string>
+    <string name="changelog">Logboek</string>
+    <string name="chinese_translation_title">Chinees</string>
+    <string name="chooseUI">Item-UI kiezen</string>
+    <string name="choose_color">Kleur kiezen</string>
+    <string name="circularicons">Ronde pictogrammen gebruiken</string>
+    <string name="circularimages">Ronde pictogrammen gebruiken voor afbeeldingen en video\'s</string>
+    <string name="clear">Wissen</string>
+    <string name="clipboard_path_copy">Pad gekopieerd naar klembord</string>
+    <string name="close">Sluiten</string>
+    <string name="color_summary">Kleur instellen voor enkele UI-componenten</string>
+    <string name="color_title">Kleur</string>
+    <string name="colorize">Pictogrammen inkleuren</string>
+    <string name="colorize_summary">Stelt een statische pictogramkleur in. Overschrijft de voorkeur voor de kleur van het mappictogram niet.</string>
+    <string name="colourednavigation">Gekleurde navigatiebalk</string>
+    <string name="colourednavigationsum">Of de systeemnavigatiebalk gekleurd is met het thema</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Inschakelen"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installeren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Probeer het opnieuw."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string name="compress">Comprimeren</string>
+    <string name="compressing">Comprimeren</string>
+    <string name="confirm">Bevestigen</string>
+    <string name="connectionname">Naam van de verbinding</string>
+    <string name="contributors">Bijdragers</string>
+    <string name="copy">Kopiëren</string>
+    <string name="copy_path">Pad kopiëren</string>
+    <string name="copying">Kopiëren</string>
+    <string name="copying_fles">Bestanden kopiëren</string>
+    <string name="copyingapk">Apk-bestand kopiëren naar </string>
+    <string name="create">AANMAKEN</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Advertentie toestaan om een agenda-afspraak te maken?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Agenda-afspraak maken"</string>
+    <string name="created">Gemaakt op</string>
+    <string name="creatingfile">Bestand aanmaken</string>
+    <string name="creatingfolder">Map aanmaken</string>
+    <string name="current_speed">Huidige snelheid</string>
+    <string name="cut">Verplaatsen</string>
+    <string name="cyan">Cyaan</string>
+    <string name="dark">Materiaal Donker</string>
+    <string name="database">Database</string>
+    <string name="databasereader">Databases bekijken</string>
+    <string name="date">Datum: </string>
+    <string name="date_modified">Datum bijgewerkt</string>
+    <string name="daytime">Daglight</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Advertentiegegevens"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Voorbeeld van advertentiemateriaal"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Een foutopsporingsmodus selecteren"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Problemen oplossen"</string>
+    <string msgid="6099173376375995052" name="decline">"Weigeren"</string>
+    <string name="deep_orange">Donkeroranje</string>
+    <string name="deep_purple">Donkerpaars</string>
+    <string name="defualt">Standaard</string>
+    <string name="delbook">Bladwijzer verwijderen</string>
+    <string name="delete">Verwijderen</string>
+    <string name="deleting">Verwijderen</string>
+    <string name="descending">Aflopend</string>
+    <string name="detailedView">Gedetailleerde weergave</string>
+    <string name="details">Details</string>
+    <string name="directories">Mappen</string>
+    <string name="directorysort">Sorteermodus van mappen</string>
+    <string name="document">Document</string>
+    <string name="documents">Documenten</string>
+    <string name="doforall">Voor alle items</string>
+    <string name="doit">Doe het</string>
+    <string name="domain">Domein</string>
+    <string name="donate">Doneren</string>
+    <string name="done">Gereed</string>
+    <string name="drawer_close">Navigatielade sluiten</string>
+    <string name="drawer_open">Navigatielade openen</string>
+    <string name="duration">Duur</string>
+    <string name="dutch_translation_title">Nederlands</string>
+    <string name="easter_egg_title">Studiomodus</string>
+    <string name="edit">Bewerken</string>
+    <string name="efn">Bestandsnaam invoeren</string>
+    <string name="enablerootmde">Root-modus activeren</string>
+    <string name="enterfile">Bestandsnaam invoeren</string>
+    <string name="entername">Naam invoeren</string>
+    <string name="enternewname">Nieuwe naam invoeren</string>
+    <string name="enterpath">Pad invoeren</string>
+    <string name="enterzipname">Zip-naam invoeren</string>
+    <string name="error">Fout</string>
+    <string name="error_busybox">Busybox niet gevonden. Interactieve shell wordt gesloten.</string>
+    <string name="error_file_not_found">Fout: Bestand niet gevonden</string>
+    <string name="error_io">I/O-fout</string>
+    <string name="error_root_not_permitted">Fout: Root machtiging niet verleend</string>
+    <string name="exit">Afsluiten</string>
+    <string name="exposure_time">Belichtingstijd</string>
+    <string name="extract">Uitpakken</string>
+    <string name="extracting">Uitpakken</string>
+    <string name="extstorage">Externe opslag</string>
+    <string name="fab_skin">FAB-thema</string>
+    <string name="feedback">Feedback versturen</string>
+    <string name="file">Bestand</string>
+    <string name="file_empty">Bestand is leeg</string>
+    <string name="filecreated">Bestand aangemaakt</string>
+    <string name="fileexist">Bestand met dezelfde naam bestaat al</string>
+    <string name="fileexplorer">Bestandsbeheerder</string>
+    <string name="filenotexists">Bestand bestaat niet</string>
+    <string name="files">Bestanden</string>
+    <string name="filesOnTop">Bestanden bovenaan</string>
+    <string name="find">Zoeken in pagina</string>
+    <string name="focal_length">Brandpuntafstand</string>
+    <string name="folder">Map</string>
+    <string name="foldercolor">Mapkleur</string>
+    <string name="foldercreated">Map aangemaakt</string>
+    <string name="folders">Mappen</string>
+    <string name="foldersOnTop">Mappen bovenaan</string>
+    <string name="free">Vrij: </string>
+    <string name="french_translation_title">Frans</string>
+    <string name="ftp">FTP–Server</string>
+    <string name="ftp_no_wifi">Zorg ervoor dat u bent verbonden met WiFi</string>
+    <string name="ftp_notif_starting">FTP server wordt gestart</string>
+    <string name="ftp_notif_stop_server">STOP</string>
+    <string name="ftp_notif_text">op %s</string>
+    <string name="ftp_notif_title">Easy FTP Server actief</string>
+    <string name="ftp_status_not_running">Niet actief</string>
+    <string name="ftp_status_running">Actief</string>
+    <string name="fullChangelog">Alle wijzigingen</string>
+    <string name="g_plus">Google Plus</string>
+    <string name="g_plus_community_title">Word lid van de G+ community</string>
+    <string name="gallery">Galerij</string>
+    <string name="general">Algemeen</string>
+    <string name="generating">Genereren...</string>
+    <string name="german_translation_title">Duits</string>
+    <string name="goback">Terug</string>
+    <string name="gplus_pic_summary">Google+-omslagfoto in navigatielade</string>
+    <string name="gplus_pic_title">Inloggen met Google+</string>
+    <string name="grant">Toestaan</string>
+    <string name="grantfailed">Geen toestemming verleend</string>
+    <string name="grantgplus">De app heeft rechten nodig voor deze functie. Als u op annuleren drukt, wordt deze functie uitgeschakeld.</string>
+    <string name="grantper">Toestemming geven</string>
+    <string name="granttext">De app heeft opslag-rechten nodig om te functioneren. Als u op annuleren drukt, wordt de app afgesloten.</string>
+    <string name="greek_translation_title">Grieks</string>
+    <string name="green">Groen</string>
+    <string name="gridcolumnno">Aantal kolommen in roosterweergave</string>
+    <string name="gridview">Roosterweergave</string>
+    <string name="guide1">Welkom bij Easy-bestandsbeheerder</string>
+    <string name="guide2">Druk op de blauwe strip om de padbalk weer te geven of te verbergen</string>
+    <string name="guide3">Druk en houd een bestand ingedrukt voor meer opties</string>
+    <string name="guide4">Zoals kopiëren, verplaatsen, eigenschappen, enz.</string>
+    <string name="guide5">Gebruik de terug-knop om de app op elk moment te sluiten…</string>
+    <string name="guide6">... En gebruik de knop met de pijl naar links voor navigatie in de bestandsbeheerder</string>
+    <string name="height">Hoogte</string>
+    <string name="hidden">Verborgen bestanden en mappen tonen</string>
+    <string name="hiddenfiles">Verborgen bestanden</string>
+    <string name="hide">Verbergen</string>
+    <string name="hide_appbar">Hele appbalk verbergen</string>
+    <string name="hide_mode_app_bar">Appbalk verbergt tijdens het scrollen</string>
+    <string name="hide_mode_nothing">Appbalk blijft intact</string>
+    <string name="hide_mode_title">Modus verbergen</string>
+    <string name="hide_mode_toolbar">Werkbalk verbergt tijdens het scrollen</string>
+    <string name="hide_toolbar">Werkbalk verbergen</string>
+    <string name="history">Geschiedenis</string>
+    <string name="home">Thuis</string>
+    <string name="icon">pictogram</string>
+    <string name="icon_color_summary">Kleur instellen voor pictogrammen</string>
+    <string name="icon_color_title">Pictogramkleur</string>
+    <string name="icon_credits">Afbeeldingen door &lt;a href=\"http://cookicons.co/\">CookIcons&lt;/a></string>
+    <string name="image">Afbeelding</string>
+    <string name="imagegallery">Afbeeldingsgalerij</string>
+    <string name="images">Afbeeldingen</string>
+    <string name="in_safe">Onvoldoende ruimte</string>
+    <string name="indigo">Indigo</string>
+    <string name="information">Informatie</string>
+    <string name="install">Installeren</string>
+    <string name="invalid_dir">Ongeldige map</string>
+    <string name="invalid_name">Ongeldige naam</string>
+    <string name="ip">Adres</string>
+    <string name="italian_translation_title">Italiaans</string>
+    <string name="item">Object</string>
+    <string name="items">Objecten</string>
+    <string name="itemsselected">Geselecteerde items</string>
+    <string name="japanese_translation_title">Japanse</string>
+    <string name="keywords">Zoekwoorden</string>
+    <string name="korean_translation_title">Koreaans</string>
+    <string name="lastModified">Laatst gewijzigd</string>
+    <string name="lastModifiedDesc">Laatst gewijzigd (aflopend)</string>
+    <string name="lastModifiedPref">Laatst gewijzigd weergeven</string>
+    <string name="lastModifiedSummary">Datum en tijd weergeven wanneer het bestand voor het laatst is gewijzigd</string>
+    <string name="license">Opensourcelicenties</string>
+    <string name="light">Materiaal licht</string>
+    <string name="light_blue">Lichtblauw</string>
+    <string name="light_green">Lichtgroen</string>
+    <string name="listview">Lijstweergave</string>
+    <string name="loading">Laden…</string>
+    <string name="location">Locatie: </string>
+    <string name="maintab">Hoofdtabblad kan niet worden verwijderd</string>
+    <string name="match_content">Maak content bijpassend</string>
+    <string name="md5">md5-hash: </string>
+    <string name="md5_2">Md5-hash kopiëren</string>
+    <string name="md5copied">MD5-hash gekopieerd naar het klembord</string>
+    <string name="medium_text">Medium Tekst</string>
+    <string name="miscellaneous">Overig</string>
+    <string name="mountsystem">Systeemmappen schrijfbaar aankoppelen</string>
+    <string name="mountsystemsummary">Schakel dit in als je systeembestanden wilt bewerken</string>
+    <string name="moving">Verplaatsen</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Cast-icoon"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Apparaten zoeken"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Casten naar"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Albumhoes"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Scherm casten"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Sluiten"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Samenvouwen"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Loskoppelen"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Uitvouwen"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Geen informatie beschikbaar"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Geen media geselecteerd"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Onderbreken"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Afspelen"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Casten stoppen"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Systeem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Apparaten"</string>
+    <string name="name">Naam: </string>
+    <string name="needsaccess">Schrijfrechten benodigd</string>
+    <string name="needsaccesssummary">Kies de bovenste map van \t</string>
+    <string name="needsaccesssummary1">\tom schrijfrechten te geven om te werken </string>
+    <string name="new_string">Nieuw</string>
+    <string name="newfile">Nieuw bestand</string>
+    <string name="newfolder">Nieuwe map</string>
+    <string name="newhomedirectory">Nieuwe persoonlijke map</string>
+    <string name="no">Nee</string>
+    <string name="no_cover_photo">Geen omslagfoto</string>
+    <string name="no_file_overwrite">Geen bestand overschreven</string>
+    <string name="noappfound">Geen app gevonden om dit bestand te openen</string>
+    <string name="nodevicefound">Geen apparaat gevonden</string>
+    <string name="nofiles">Geen bestanden</string>
+    <string name="none">Geen</string>
+    <string name="noneOnTop">Geen bovenaan</string>
+    <string name="not_allowed">Niet toegestaan</string>
+    <string name="of">van de</string>
+    <string name="ok">Oké</string>
+    <string name="open">Openen</string>
+    <string name="openas">Open als</string>
+    <string name="openparent">Open bovenliggende map</string>
+    <string name="openwith">Openen met</string>
+    <string name="operationunsuccesful">Uitvoeren mislukt</string>
+    <string name="optimized">Geoptimaliseerd</string>
+    <string name="orange">Oranje</string>
+    <string name="other">Overig</string>
+    <string name="out_of">van de</string>
+    <string name="overwrite">Overschrijven</string>
+    <string name="packageinstaller">Pakketinstallatieprogramma</string>
+    <string name="pages">Aantal pagina\'s</string>
+    <string name="password">Wachtwoord</string>
+    <string name="paste">Plakken</string>
+    <string name="path">Locatie</string>
+    <string name="pathcopied">Pad gekopieerd naar klembord</string>
+    <string name="paypal_copy_message">PayPal Id gekopieerd naar klembord</string>
+    <string name="permission">Permissies</string>
+    <string name="permission_execute">Uitvoeren</string>
+    <string name="permission_group">Groep</string>
+    <string name="permission_other">Anders</string>
+    <string name="permission_owner">Eigenaar</string>
+    <string name="permission_read">Lezen</string>
+    <string name="permission_write">Schrijven</string>
+    <string name="pick_a_file">Bestand kiezen</string>
+    <string name="pink">Roze</string>
+    <string name="pitext">Dit is een pakketinstallatieprogramma. Welke actie wil je uitvoeren?</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Zoekopdracht wissen"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Zoeken"</string>
+    <string name="play">Play Store</string>
+    <string name="please_wait">Een ogenblik geduld</string>
+    <string name="polish_translation_title">Pools</string>
+    <string name="portuguese_translation_title">Portugees</string>
+    <string name="pressagain">Druk opnieuw om af te sluiten</string>
+    <string name="primary_color_summary">Kleur instellen voor grote UI-elementen</string>
+    <string name="primary_color_title">Primaire kleur</string>
+    <string name="primary_two_title">Primaire kleur (Rechter Tabblad)</string>
+    <string name="process_viewer">Processen bekijken</string>
+    <string name="processes">Processen</string>
+    <string name="processing_file">Bestand wordt verwerkt...</string>
+    <string name="properties">Eigenschappen</string>
+    <string name="purple">Paars</string>
+    <string name="questiondelete">Weet je zeker dat je de volgende bestanden wilt verwijderen?</string>
+    <string name="questionset">Wilt u het huidige pad instellen als standaard voor dit tabblad?</string>
+    <string name="quick">Snelle Toegang</string>
+    <string name="random">Willekeurig thema</string>
+    <string name="randomDialog">Willekeurig</string>
+    <string name="random_summary">Stelt een willekeurige primaire kleur in tijdens het opstarten</string>
+    <string name="rate">Beoordeel de app</string>
+    <string name="recent">Recente bestanden</string>
+    <string name="red">Rood</string>
+    <string name="refresh">Vernieuwen</string>
+    <string name="regular_expression">Reguliere uitdrukking</string>
+    <string name="regular_expression_summary">Zoeken met behulp van een BASH stijl reguliere expressie</string>
+    <string name="rename">Naam wijzigen</string>
+    <string name="renamebookmark">Bladwijzer aanpassen</string>
+    <string name="renamed">Naam wijzigen gelukt</string>
+    <string name="renameerror">Naam wijzigen mislukt</string>
+    <string name="renaming">Hernoemen</string>
+    <string name="report_bugs_summary">Meld een bug of verzoek nieuwe functies</string>
+    <string name="report_bugs_title">Bugs melden</string>
+    <string name="romanian_translation_title">Roemeens</string>
+    <string name="rootPref">Permissies weergeven</string>
+    <string name="rootPrefSummary">Permissies van bestanden en mappen weergeven</string>
+    <string name="rootdirectory">Bovenste map</string>
+    <string name="rootfailure">Root-toegang niet verleend</string>
+    <string name="rootmode">Root-bestandsbeheerder</string>
+    <string name="rootmodesummary">Alleen voor apparaten met root-toegang. Alleen activeren als je het zeker weet.</string>
+    <string name="russian_translation_title">Russisch</string>
+    <string name="save">Opslaan</string>
+    <string name="savepaths">Paden onthouden</string>
+    <string name="savepathsummary">Bij het opstarten, wordt de meest recent bekeken map voor elk tabblad weergegeven</string>
+    <string name="saving">Opslaan</string>
+    <string name="sd_card_grant_first">sd_card_grant_first</string>
+    <string name="sd_card_grant_next">sd_card_grant_next</string>
+    <string name="search">Zoeken</string>
+    <string name="search_hint">Type om te zoeken…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Zoeken"</string>
+    <string name="searching">Zoeken</string>
+    <string name="searchingdevices">Zoeken naar apparaten</string>
+    <string name="searchpath">Pad zoeken</string>
+    <string name="searchresults">Zoekresultaten</string>
+    <string name="security">Beveiliging</string>
+    <string name="select">Item selecteren</string>
+    <string name="select_intent">Selecteren</string>
+    <string name="selectall">Alles selecteren</string>
+    <string name="serbian_translation_title">Servisch</string>
+    <string name="service_timer">Verstreken tijd</string>
+    <string name="set">Stel in</string>
+    <string name="setRandom">Wijzigingen worden toegepast nadat je de app herstart</string>
+    <string name="setashome">Instellen als persoonlijke map</string>
+    <string name="setgridview">Roosterweergave instellen</string>
+    <string name="sethome">Persoonlijke map instellen</string>
+    <string name="setlistview">Lijstweergave instellen</string>
+    <string name="setringtone">Als beltoon instellen</string>
+    <string name="setting">Instellingen</string>
+    <string name="share">Delen</string>
+    <string name="showDividers">Scheidingslijn weergeven</string>
+    <string name="simple">Simpele interface</string>
+    <string name="simpleView">Simpele weergave</string>
+    <string name="size">Grootte: </string>
+    <string name="sizePref">Groottes weergeven</string>
+    <string name="sizePrefSummary">Grootte van bestanden en aantal items in mappen weergeven</string>
+    <string name="skin">Thema</string>
+    <string name="skip">Overslaan</string>
+    <string name="smb_con">SMB-verbinding</string>
+    <string name="smb_launch_error">U moet dit bestand kopieren naar de opslag om het te gebruiken</string>
+    <string name="smb_server">Server: IP-adres of IP-adres/GedeeldeMap</string>
+    <string name="software">Software</string>
+    <string name="sort">Sorteren</string>
+    <string name="sortName">Naam</string>
+    <string name="sortNameDesc">Naam (aflopend)</string>
+    <string name="sortSize">Grootte</string>
+    <string name="sortSizeDesc">Grootte (aflopend)</string>
+    <string name="sortby">Sorteren op</string>
+    <string name="spanish_translation_title">Spaans</string>
+    <string name="start_ftp">Beginnen</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">Stop</string>
+    <string name="stopping">Stoppen</string>
+    <string name="storage">Opslag</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Advertentie toestaan om afbeelding op te slaan in fotogalerij?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Afbeelding opslaan"</string>
+    <string name="subject">Onderwerp</string>
+    <string name="success">Succes</string>
+    <string name="supersu">SuperSU</string>
+    <string name="tab">Tabblad</string>
+    <string name="tables">Tabel(len)</string>
+    <string name="tamil_translation_title">Tamilse</string>
+    <string name="tap_and_hold_tips">Druk en houd een bestand of map ingedrukt voor meer opties</string>
+    <string name="tapnhold">Druk en houd een bestand of map ingedrukt voor meer opties</string>
+    <string name="teal">Groenblauw</string>
+    <string name="text">Tekstbestand</string>
+    <string name="textreader">Tekst bekijken</string>
+    <string name="theme">Thema</string>
+    <string name="thumb">Miniatuurweergave inschakelen</string>
+    <string name="thumbSummary">Miniatuurweergave van apps en afbeeldingen inschakelen</string>
+    <string name="topFab">FAB op appbalk</string>
+    <string name="topFabS">Of de +-knop boven of onder weergeven moet worden. Alleen van toepassing als de appbalk zich niet verbergt.</string>
+    <string name="total">Totaal: </string>
+    <string name="totalitems">Totale items: </string>
+    <string name="translate_summary">Easy vertalen in uw eigen taal</string>
+    <string name="translate_title">Vertalen</string>
+    <string name="translators">Vertalers</string>
+    <string name="turkish_translation_title">Turks</string>
+    <string name="type">Type</string>
+    <string name="typeDesc">Type (aflopend)</string>
+    <string name="ui">Uiterlijk</string>
+    <string name="uimode">UI-modus</string>
+    <string name="ukrainian_translation_title">Oekraïens</string>
+    <string name="unin_system_apk">Dit is een systeemapp. Het verwijderen kan leiden tot instabiliteit van het systeem.\nDoorgaan?</string>
+    <string name="uninstall">Deïnstalleren</string>
+    <string name="unsavedchanges">Niet-opgeslagen wijzigingen</string>
+    <string name="unsavedchangesdesc">Je hebt niet-opgeslagen wijzigingen. Wil je opslaan voor het afsluiten?</string>
+    <string name="use_custom_ip">Gebruik aangepast IP</string>
+    <string name="used">Gebruikt: </string>
+    <string name="usedefaultgallerypath">Standaard galerijpad gebruiken</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="version">Versie</string>
+    <string name="video">Videobestand</string>
+    <string name="videos">Video\'s</string>
+    <string name="vietnamese_translation_title">Vietnamees</string>
+    <string name="view">Bekijken</string>
+    <string name="viewmode">Weergavemodus</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Kopen met Google"</string>
+    <string name="wanthelp"><u>Hulp nodig?</u></string>
+    <string name="warning">Waarschuwing</string>
+    <string name="width">Breedte</string>
+    <string name="written">Geschreven</string>
+    <string name="xda_summary">Veelgestelde vragen, help &amp; probleemoplossing</string>
+    <string name="xda_title">XDA thread</string>
+    <string name="yes">Ja</string>
+    <string name="zip_create_folder">Zip-archief aanmaken</string>
+    <string name="zip_summary">Nieuwe zip-bestanden worden gemaakt in deze map. Standaardmap is de map waarin de bestanden staan opgeslagen</string>
+    <string name="zip_viewer">Zip openen</string>
+</resources>

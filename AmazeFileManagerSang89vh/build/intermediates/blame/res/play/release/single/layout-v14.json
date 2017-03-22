@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/layout-v14/md_stub_progress.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/res/merged/play/release/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/jack/Documents/1_MMO/AmazeFileManagerSang89vh/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.2.3/res/layout-v14/md_stub_progress_indeterminate.xml"
+    }
+]
